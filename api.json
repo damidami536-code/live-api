@@ -16,6 +16,24 @@
                 ]
             },
             {
+                "unix_timestamp": 1765674000,
+                "sport": "Hockey",
+                "tournament": "World FIH Pro League",
+                "match": "Argentina - Netherlands",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=150"
+                ]
+            },
+            {
+                "unix_timestamp": 1765683000,
+                "sport": "Hockey",
+                "tournament": "World FIH Pro League Women",
+                "match": "Argentina W - Germany W",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=150"
+                ]
+            },
+            {
                 "unix_timestamp": 1765627200,
                 "sport": "Mixed Martial Arts",
                 "tournament": "UFC Fight Night Main Card",
