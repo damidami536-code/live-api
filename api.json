@@ -1,6 +1,124 @@
 {
     "events": {
         "2025-12-13": [
+                        {
+                "unix_timestamp": 1765641600,
+                "sport": "Rugby Union",
+                "tournament": "European Rugby Champions Cup",
+                "match": "Stormers - La Rochelle",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=451",
+                    "https://dlhd.dad/stream/stream-550.php?id=116"
+                ]
+            },
+            {
+                "unix_timestamp": 1765649700,
+                "sport": "Rugby Union",
+                "tournament": "European Rugby Champions Cup",
+                "match": "Sharks - Saracens",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=550",
+                    "https://dlhd.dad/stream/stream-550.php?id=497"
+                ]
+            },
+            {
+                "unix_timestamp": 1765649700,
+                "sport": "Rugby Union",
+                "tournament": "European Rugby Champions Cup",
+                "match": "Clermont - Sale Sharks",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=451",
+                    "https://dlhd.dad/stream/stream-550.php?id=950",
+                    "https://dlhd.dad/stream/stream-550.php?id=116",
+                    "https://dlhd.dad/stream/stream-550.php?id=436"
+                ]
+            },
+            {
+                "unix_timestamp": 1765657800,
+                "sport": "Rugby Union",
+                "tournament": "European Rugby Champions Cup",
+                "match": "Munster - Gloucester",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=550",
+                    "https://dlhd.dad/stream/stream-550.php?id=497"
+                ]
+            },
+            {
+                "unix_timestamp": 1765657800,
+                "sport": "Rugby Union",
+                "tournament": "European Rugby Champions Cup",
+                "match": "Bordeaux Begles - Scarlets",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=451",
+                    "https://dlhd.dad/stream/stream-550.php?id=116"
+                ]
+            },
+            {
+                "unix_timestamp": 1765666800,
+                "sport": "Rugby Union",
+                "tournament": "European Rugby Champions Cup",
+                "match": "Glasgow - Stade Toulousain",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=451",
+                    "https://dlhd.dad/stream/stream-550.php?id=116"
+                ]
+            },
+            {
+                "unix_timestamp": 1765641600,
+                "sport": "Rugby Union",
+                "tournament": "Challenge Cup",
+                "match": "Cheetahs - Stade Francais",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=497"
+                ]
+            },
+            {
+                "unix_timestamp": 1765641600,
+                "sport": "Rugby Union",
+                "tournament": "Challenge Cup",
+                "match": "Treviso - Usap Perpignan",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=498"
+                ]
+            },
+            {
+                "unix_timestamp": 1765649700,
+                "sport": "Rugby Union",
+                "tournament": "Challenge Cup",
+                "match": "Montauban - Ospreys",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=670"
+                ]
+            },
+            {
+                "unix_timestamp": 1765657800,
+                "sport": "Rugby Union",
+                "tournament": "Challenge Cup",
+                "match": "Newcastle Falcons - Lions",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=498"
+                ]
+            },
+            {
+                "unix_timestamp": 1765666800,
+                "sport": "Rugby Union",
+                "tournament": "Challenge Cup",
+                "match": "Cardiff Rugby - Ulster",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=670",
+                    "https://dlhd.dad/stream/stream-550.php?id=497"
+                ]
+            },
+            {
+                "unix_timestamp": 1765666800,
+                "sport": "Rugby Union",
+                "tournament": "Challenge Cup",
+                "match": "Connacht - Black Lion",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=550",
+                    "https://dlhd.dad/stream/stream-550.php?id=498"
+                ]
+            },
             {
                 "unix_timestamp": 1765620000,
                 "sport": "Football",
