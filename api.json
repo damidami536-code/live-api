@@ -811,6 +811,24 @@
                 ]
             },
             {
+                "unix_timestamp": 1765663200,
+                "sport": "American Football",
+                "tournament": "NCAA FBS",
+                "match": "Army - Navy",
+                "channels": [
+                    "https:\/\/topembed.pw\/channel\/CBS[USA]"
+                ]
+            },
+            {
+                "unix_timestamp": 1765663200,
+                "sport": "American Football",
+                "tournament": "NCAA FBS",
+                "match": "Navy - Army",
+                "channels": [
+                    "https:\/\/topembed.pw\/channel\/CBS[USA]"
+                ]
+            },
+            {
                 "unix_timestamp": 1765706400,
                 "sport": "American Football",
                 "tournament": "NCAA FBS",
