@@ -2,6 +2,62 @@
     "events": {
         "2025-12-13": [
             {
+                "unix_timestamp": 1765645200,
+                "sport": "Mixed Martial Arts",
+                "tournament": "RWS",
+                "match": "Kradooklek - Chalarmchon III",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=230"
+                ]
+            },
+            {
+                "unix_timestamp": 1765674000,
+                "sport": "Mixed Martial Arts",
+                "tournament": "GLORY COLLISION 8",
+                "match": "GLORY COLLISION 8",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=230",
+                    "https://dlhd.dad/stream/stream-550.php?id=436"
+                ]
+            },
+            {
+                "unix_timestamp": 1765683000,
+                "sport": "Mixed Martial Arts",
+                "tournament": "ARES Fighting Championship 2025",
+                "match": "ARES Fighting Championship 2025",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=464"
+                ]
+            },
+            {
+                "unix_timestamp": 1765686600,
+                "sport": "Mixed Martial Arts",
+                "tournament": "Way of Warrior WOW 25 (Madrid)",
+                "match": "Way of Warrior WOW 25 (Madrid)",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=791",
+                    "https://dlhd.dad/stream/stream-550.php?id=521"
+                ]
+            },
+            {
+                "unix_timestamp": 1765699200,
+                "sport": "Mixed Martial Arts",
+                "tournament": "FURY FC 112",
+                "match": "Sam Kilmer - Mansher Khera",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=791"
+                ]
+            },
+            {
+                "unix_timestamp": 1765710000,
+                "sport": "Mixed Martial Arts",
+                "tournament": "XFN 405 Xtreme Fight Night",
+                "match": "XFN 405 Xtreme Fight Night",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=451"
+                ]
+            },
+            {
                 "unix_timestamp": 1765670400,
                 "sport": "American Football",
                 "tournament": "NCAA Football",
