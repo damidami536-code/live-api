@@ -2,6 +2,655 @@
     "events": {
         "2025-12-13": [
             {
+                "unix_timestamp": 1765616400,
+                "sport": "Mixed Martial Arts",
+                "tournament": "UFC Fight Night Prelims",
+                "match": "Amanda Lemos - Gillian Robertson",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=791",
+                    "https://dlhd.dad/stream/stream-550.php?id=45",
+                    "https://dlhd.dad/stream/stream-550.php?id=410",
+                    "https://dlhd.dad/stream/stream-550.php?id=834",
+                    "https://dlhd.dad/stream/stream-550.php?id=375",
+                    "https://dlhd.dad/stream/stream-550.php?id=416"
+                ]
+            },
+            {
+                "unix_timestamp": 1765627200,
+                "sport": "Mixed Martial Arts",
+                "tournament": "UFC Fight Night Main Card",
+                "match": "Brandon Royval - Manel Kape",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=791",
+                    "https://dlhd.dad/stream/stream-550.php?id=31",
+                    "https://dlhd.dad/stream/stream-550.php?id=45",
+                    "https://dlhd.dad/stream/stream-550.php?id=410",
+                    "https://dlhd.dad/stream/stream-550.php?id=834",
+                    "https://dlhd.dad/stream/stream-550.php?id=119",
+                    "https://dlhd.dad/stream/stream-550.php?id=395",
+                    "https://dlhd.dad/stream/stream-550.php?id=47",
+                    "https://dlhd.dad/stream/stream-550.php?id=127",
+                    "https://dlhd.dad/stream/stream-550.php?id=49",
+                    "https://dlhd.dad/stream/stream-550.php?id=416",
+                    "https://dlhd.dad/stream/stream-550.php?id=628",
+                    "https://dlhd.dad/stream/stream-550.php?id=375",
+                    "https://dlhd.dad/stream/stream-550.php?id=811",
+                    "https://dlhd.dad/stream/stream-550.php?id=473",
+                    "https://dlhd.dad/stream/stream-550.php?id=525",
+                    "https://dlhd.dad/stream/stream-550.php?id=879"
+                ]
+            },
+            {
+                "unix_timestamp": 1765670400,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Florida State - Massachusetts",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=664"
+                ]
+            },
+            {
+                "unix_timestamp": 1765670400,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Penn State - Michigan State",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=397"
+                ]
+            },
+            {
+                "unix_timestamp": 1765670400,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "St. John's N.Y. - Iona Gaels",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=338",
+                    "https://dlhd.dad/stream/stream-550.php?id=341"
+                ]
+            },
+            {
+                "unix_timestamp": 1765670400,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Stony Brook - Central Michigan",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=759"
+                ]
+            },
+            {
+                "unix_timestamp": 1765670400,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Texas Tech - Arkansas",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=113",
+                    "https://dlhd.dad/stream/stream-550.php?id=45"
+                ]
+            },
+            {
+                "unix_timestamp": 1765670400,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Wichita State - DePaul",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=316"
+                ]
+            },
+            {
+                "unix_timestamp": 1765672200,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "George Mason - Old Dominion",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=343"
+                ]
+            },
+            {
+                "unix_timestamp": 1765674000,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Oklahoma - Oklahoma State",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=54",
+                    "https://dlhd.dad/stream/stream-550.php?id=768"
+                ]
+            },
+            {
+                "unix_timestamp": 1765677600,
+                "sport": "Basketball",
+                "tournament": "Women's College Basketball",
+                "match": "Marist - Binghamton",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=759"
+                ]
+            },
+            {
+                "unix_timestamp": 1765677600,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Butler - Providence",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=338",
+                    "https://dlhd.dad/stream/stream-550.php?id=341"
+                ]
+            },
+            {
+                "unix_timestamp": 1765677600,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Dartmouth - Boston University",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=762"
+                ]
+            },
+            {
+                "unix_timestamp": 1765677600,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Fordham - Manhattan",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=763"
+                ]
+            },
+            {
+                "unix_timestamp": 1765677600,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Georgia Bulldogs - Cincinnati",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=316"
+                ]
+            },
+            {
+                "unix_timestamp": 1765677600,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "North Carolina - USC Upstate",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=300",
+                    "https://dlhd.dad/stream/stream-550.php?id=280"
+                ]
+            },
+            {
+                "unix_timestamp": 1765677600,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Northwestern - Jackson State",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=397"
+                ]
+            },
+            {
+                "unix_timestamp": 1765677600,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Notre Dame - Evansville",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=664"
+                ]
+            },
+            {
+                "unix_timestamp": 1765679400,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Florida - George Washington",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=45"
+                ]
+            },
+            {
+                "unix_timestamp": 1765681200,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Creighton - Kansas State",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=54"
+                ]
+            },
+            {
+                "unix_timestamp": 1765683000,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Louisville - Memphis",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=44",
+                    "https://dlhd.dad/stream/stream-550.php?id=112",
+                    "https://dlhd.dad/stream/stream-550.php?id=103"
+                ]
+            },
+            {
+                "unix_timestamp": 1765684800,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Binghamton - Central Connecticut State",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=759"
+                ]
+            },
+            {
+                "unix_timestamp": 1765684800,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Denver - CS Fullerton",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=923"
+                ]
+            },
+            {
+                "unix_timestamp": 1765684800,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Oregon - UC Davis",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=397"
+                ]
+            },
+            {
+                "unix_timestamp": 1765684800,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Syracuse - Hofstra",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=664"
+                ]
+            },
+            {
+                "unix_timestamp": 1765686600,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Villanova - Pittsburgh",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=341"
+                ]
+            },
+            {
+                "unix_timestamp": 1765686600,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "UT Chattanooga - Auburn",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=385"
+                ]
+            },
+            {
+                "unix_timestamp": 1765690200,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "North Carolina State - Kansas",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=44",
+                    "https://dlhd.dad/stream/stream-550.php?id=112",
+                    "https://dlhd.dad/stream/stream-550.php?id=103"
+                ]
+            },
+            {
+                "unix_timestamp": 1765690200,
+                "sport": "Basketball",
+                "tournament": "Women's College Basketball",
+                "match": "Connecticut - USC",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=768",
+                    "https://dlhd.dad/stream/stream-550.php?id=54"
+                ]
+            },
+            {
+                "unix_timestamp": 1765692000,
+                "sport": "Basketball",
+                "tournament": "Women's College Basketball",
+                "match": "Louisiana Tech - LSU",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=316"
+                ]
+            },
+            {
+                "unix_timestamp": 1765692000,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Washington - Southern Utah",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=397"
+                ]
+            },
+            {
+                "unix_timestamp": 1765693800,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Vanderbilt - Central Arkansas",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=385"
+                ]
+            },
+            {
+                "unix_timestamp": 1765695600,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Santa Clara - Arizona State",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=341",
+                    "https://dlhd.dad/stream/stream-550.php?id=338"
+                ]
+            },
+            {
+                "unix_timestamp": 1765695600,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "San Jose State - Stanford",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=308"
+                ]
+            },
+            {
+                "unix_timestamp": 1765697400,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Kentucky - Indiana",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=44",
+                    "https://dlhd.dad/stream/stream-550.php?id=112",
+                    "https://dlhd.dad/stream/stream-550.php?id=888"
+                ]
+            },
+            {
+                "unix_timestamp": 1765699200,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Maryland - Michigan",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=54",
+                    "https://dlhd.dad/stream/stream-550.php?id=768"
+                ]
+            },
+            {
+                "unix_timestamp": 1765699200,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Ohio State - West Virginia",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=316"
+                ]
+            },
+            {
+                "unix_timestamp": 1765699200,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Seton Hall - Rutgers",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=39"
+                ]
+            },
+            {
+                "unix_timestamp": 1765699200,
+                "sport": "Basketball",
+                "tournament": "College Basketball",
+                "match": "San Francisco - Saint Louis",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=896"
+                ]
+            },
+            {
+                "unix_timestamp": 1765701000,
+                "sport": "Basketball",
+                "tournament": "College Basketball",
+                "match": "SMU - LSU",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=385"
+                ]
+            },
+            {
+                "unix_timestamp": 1765704600,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Alabama - Arizona",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=44",
+                    "https://dlhd.dad/stream/stream-550.php?id=112",
+                    "https://dlhd.dad/stream/stream-550.php?id=888"
+                ]
+            },
+            {
+                "unix_timestamp": 1765706400,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Utah Utes - Mississippi State",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=316"
+                ]
+            },
+            {
+                "unix_timestamp": 1765711800,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Gonzaga - UCLA",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=44"
+                ]
+            },
+             {
+                "unix_timestamp": 1765690200,
+                "sport": "Basketball",
+                "tournament": "NBA Cup First Semifinal",
+                "match": "New York Knicks - Orlando Magic",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=113",
+                    "https://dlhd.dad/stream/stream-550.php?id=114",
+                    "https://dlhd.dad/stream/stream-550.php?id=115"
+                ]
+            },
+            {
+                "unix_timestamp": 1765706400,
+                "sport": "Basketball",
+                "tournament": "NBA Cup Second Semifinal",
+                "match": "San Antonio Spurs - Oklahoma City Thunder",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=114",
+                    "https://dlhd.dad/stream/stream-550.php?id=115"
+                ]
+            },
+            {
+                "unix_timestamp": 1765672200,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Anaheim Ducks - New Jersey Devils",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=663",
+                    "https://dlhd.dad/stream/stream-550.php?id=765",
+                    "https://dlhd.dad/stream/stream-550.php?id=408",
+                    "https://dlhd.dad/stream/stream-550.php?id=406",
+                    "https://dlhd.dad/stream/stream-550.php?id=407",
+                    "https://dlhd.dad/stream/stream-550.php?id=557",
+                    "https://dlhd.dad/stream/stream-550.php?id=809",
+                    "https://dlhd.dad/stream/stream-550.php?id=1021",
+                    "https://dlhd.dad/stream/stream-550.php?id=116"
+                ]
+            },
+            {
+                "unix_timestamp": 1765677600,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Ottawa Senators - Minnesota Wild",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=115",
+                    "https://dlhd.dad/stream/stream-550.php?id=833",
+                    "https://dlhd.dad/stream/stream-550.php?id=898",
+                    "https://dlhd.dad/stream/stream-550.php?id=907"
+                ]
+            },
+            {
+                "unix_timestamp": 1765681200,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "San Jose Sharks - Pittsburgh Penguins",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=755",
+                    "https://dlhd.dad/stream/stream-550.php?id=411",
+                    "https://dlhd.dad/stream/stream-550.php?id=408",
+                    "https://dlhd.dad/stream/stream-550.php?id=406",
+                    "https://dlhd.dad/stream/stream-550.php?id=407",
+                    "https://dlhd.dad/stream/stream-550.php?id=922"
+                ]
+            },
+            {
+                "unix_timestamp": 1765683000,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Tampa Bay Lightning - New York Islanders",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=809",
+                    "https://dlhd.dad/stream/stream-550.php?id=473",
+                    "https://dlhd.dad/stream/stream-550.php?id=1021",
+                    "https://dlhd.dad/stream/stream-550.php?id=557",
+                    "https://dlhd.dad/stream/stream-550.php?id=556"
+                ]
+            },
+            {
+                "unix_timestamp": 1765695600,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Edmonton Oilers - Toronto Maple Leafs",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=451",
+                    "https://dlhd.dad/stream/stream-550.php?id=411",
+                    "https://dlhd.dad/stream/stream-550.php?id=406",
+                    "https://dlhd.dad/stream/stream-550.php?id=474",
+                    "https://dlhd.dad/stream/stream-550.php?id=1021",
+                    "https://dlhd.dad/stream/stream-550.php?id=557",
+                    "https://dlhd.dad/stream/stream-550.php?id=556"
+                ]
+            },
+            {
+                "unix_timestamp": 1765695600,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Vegas Golden Knights - Columbus Blue Jackets",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=899"
+                ]
+            },
+            {
+                "unix_timestamp": 1765695600,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Carolina Hurricanes - Philadelphia Flyers",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=777",
+                    "https://dlhd.dad/stream/stream-550.php?id=903",
+                    "https://dlhd.dad/stream/stream-550.php?id=904",
+                    "https://dlhd.dad/stream/stream-550.php?id=809"
+                ]
+            },
+            {
+                "unix_timestamp": 1765695600,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Washington Capitals - Winnipeg Jets",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=407",
+                    "https://dlhd.dad/stream/stream-550.php?id=778"
+                ]
+            },
+            {
+                "unix_timestamp": 1765695600,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Montreal Canadiens - New York Rangers",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=765",
+                    "https://dlhd.dad/stream/stream-550.php?id=408",
+                    "https://dlhd.dad/stream/stream-550.php?id=833"
+                ]
+            },
+            {
+                "unix_timestamp": 1765699200,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Florida Panthers - Dallas Stars",
+                "channels": []
+            },
+            {
+                "unix_timestamp": 1765699200,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Detroit Red Wings - Chicago Blackhawks",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=776",
+                    "https://dlhd.dad/stream/stream-550.php?id=891"
+                ]
+            },
+            {
+                "unix_timestamp": 1765706400,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Nashville Predators - Colorado Avalanche",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=923",
+                    "https://dlhd.dad/stream/stream-550.php?id=903"
+                ]
+            },
+            {
+                "unix_timestamp": 1765710000,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Calgary Flames - Los Angeles Kings",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=411",
+                    "https://dlhd.dad/stream/stream-550.php?id=408",
+                    "https://dlhd.dad/stream/stream-550.php?id=406",
+                    "https://dlhd.dad/stream/stream-550.php?id=407",
+                    "https://dlhd.dad/stream/stream-550.php?id=906",
+                    "https://dlhd.dad/stream/stream-550.php?id=809"
+                ]
+            },
+            {
+                "unix_timestamp": 1765677600,
+                "sport": "Boxing",
+                "tournament": "Poronin Boxing Night",
+                "match": "Kamil Kuzdzien - Hubert Kwapisz",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=128"
+                ]
+            },
+            {
+                "unix_timestamp": 1765677600,
+                "sport": "Boxing",
+                "tournament": "Boxing",
+                "match": "Nikodem Jezewski - Marko Calic",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=444"
+                ]
+            },
+            {
+                "unix_timestamp": 1765677600,
+                "sport": "Combat Sports",
+                "tournament": "BKFC Fight Night Derby",
+                "match": "Conor Cooke - Anthony Holmes",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=451",
+                    "https://dlhd.dad/stream/stream-550.php?id=395",
+                    "https://dlhd.dad/stream/stream-550.php?id=757",
+                    "https://dlhd.dad/stream/stream-550.php?id=75"
+                ]
+            },
+            {
+                "unix_timestamp": 1765692000,
+                "sport": "Boxing",
+                "tournament": "IBF Title Fights",
+                "match": "Badou Jack - Norair Mikaeljan",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=451",
+                    "https://dlhd.dad/stream/stream-550.php?id=128"
+                ]
+            },
+            {
+                "unix_timestamp": 1765699200,
+                "sport": "Boxing",
+                "tournament": "Boxing",
+                "match": "Diego Pacheco - Kevin Lele Sadjo",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=230",
+                    "https://dlhd.dad/stream/stream-550.php?id=629"
+                ]
+            },
+            {
                 "unix_timestamp": 1765645200,
                 "sport": "Mixed Martial Arts",
                 "tournament": "RWS",
