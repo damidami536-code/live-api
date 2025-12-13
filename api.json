@@ -1,6 +1,132 @@
 {
     "events": {
         "2025-12-13": [
+            {
+                "unix_timestamp": 1765670400,
+                "sport": "American Football",
+                "tournament": "NCAA Football",
+                "match": "Newberry - #1 Ferris State",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=44"
+                ]
+            },
+            {
+                "unix_timestamp": 1765670400,
+                "sport": "American Football",
+                "tournament": "NCAA Football",
+                "match": "Susquehanna - Johns Hopkins",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=44"
+                ]
+            },
+            {
+                "unix_timestamp": 1765670400,
+                "sport": "American Football",
+                "tournament": "NCAA Football",
+                "match": "John Carroll (OH) - Berry",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=44"
+                ]
+            },
+            {
+                "unix_timestamp": 1765670400,
+                "sport": "American Football",
+                "tournament": "NCAA FCS",
+                "match": "Tarleton State University - Villanova Wildcats",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=44"
+                ]
+            },
+            {
+                "unix_timestamp": 1765670400,
+                "sport": "American Football",
+                "tournament": "NCAA FCS",
+                "match": "Prairie View A&M - South Carolina State",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=51",
+                    "https://dlhd.dad/stream/stream-550.php?id=766",
+                    "https://dlhd.dad/stream/stream-550.php?id=111",
+                    "https://dlhd.dad/stream/stream-550.php?id=114"
+                ]
+            },
+            {
+                "unix_timestamp": 1765674000,
+                "sport": "American Football",
+                "tournament": "NCAA Football",
+                "match": "Bethel (MN) - North Central (IL)",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=44"
+                ]
+            },
+            {
+                "unix_timestamp": 1765683000,
+                "sport": "American Football",
+                "tournament": "High School Football State Championship",
+                "match": "Division II-A: Sonora - Rio Hondo Prep",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=982"
+                ]
+            },
+            {
+                "unix_timestamp": 1765686600,
+                "sport": "American Football",
+                "tournament": "NCAA FCS",
+                "match": "Montana Grizzlies - South Dakota Coyotes",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=51",
+                    "https://dlhd.dad/stream/stream-550.php?id=766",
+                    "https://dlhd.dad/stream/stream-550.php?id=111"
+                ]
+            },
+            {
+                "unix_timestamp": 1765686600,
+                "sport": "American Football",
+                "tournament": "NCAA Football",
+                "match": "#1 Harding - #1 Kutztown (PA)",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=44"
+                ]
+            },
+            {
+                "unix_timestamp": 1765695600,
+                "sport": "American Football",
+                "tournament": "NCAA Football",
+                "match": "UC Davis - Illinois State",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=44"
+                ]
+            },
+            {
+                "unix_timestamp": 1765701000,
+                "sport": "American Football",
+                "tournament": "High School Football State Championship",
+                "match": "Division I-A: Central East - Pacifica",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=982"
+                ]
+            },
+            {
+                "unix_timestamp": 1765706400,
+                "sport": "American Football",
+                "tournament": "NCAA FBS",
+                "match": "Boise State - Washington Huskies",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=51",
+                    "https://dlhd.dad/stream/stream-550.php?id=766",
+                    "https://dlhd.dad/stream/stream-550.php?id=111",
+                    "https://dlhd.dad/stream/stream-550.php?id=113",
+                    "https://dlhd.dad/stream/stream-550.php?id=101"
+                ]
+            },
+            {
+                "unix_timestamp": 1765717200,
+                "sport": "American Football",
+                "tournament": "High School Football State Championship",
+                "match": "Open Division: De La Salle - Santa Margarita",
+                "channels": [
+                    "https://dlhd.dad/stream/stream-550.php?id=982"
+                ]
+            },
                         {
                 "unix_timestamp": 1765641600,
                 "sport": "Rugby Union",
