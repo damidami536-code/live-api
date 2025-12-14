@@ -1,7 +1,6 @@
 {
     "events": {
         "2025-12-14": [
-            /* ==== ANTENASPORT.ORG EVENTS (GMT+2) ==== */
             {"unix_timestamp": 1765656000, "sport": "Biathlon", "tournament": "Biathlon World Cup Stage 2", "match": "Men's 4x7.5 km Relay", "channels": ["https://antenasport.org/okkosport2.php"]},
             {"unix_timestamp": 1765663200, "sport": "Football", "tournament": "Primera División", "match": "Racing Club - Estudiantes", "channels": ["https://antenasport.org/arena1premiumserbia.php"]},
             {"unix_timestamp": 1765674000, "sport": "Football", "tournament": "Ukrainian Premier League", "match": "SK Poltava - Rukh Vynnyky", "channels": ["https://antenasport.org/upltv.php"]},
@@ -71,7 +70,6 @@
             {"unix_timestamp": 1765760400, "sport": "Football", "tournament": "La Liga", "match": "Deportivo Alavés - Real Madrid", "channels": ["https://antenasport.org/arena2premiumserbia.php", "https://antenasport.org/dazn1pt.php", "https://antenasport.org/setantasport1.php", "https://antenasport.org/beinsport1en.php", "https://antenasport.org/viaplaylaliga.php", "https://antenasport.org/espndeportes.php", "https://antenasport.org/match2.php", "https://antenasport.org/arenasport3hr.php"]},
             {"unix_timestamp": 1765762200, "sport": "Football", "tournament": "Primeira Liga", "match": "Arouca - Alverca", "channels": ["https://antenasport.org/sport1pt.php"]},
 
-            /* ==== DLHD.DAD NFL EVENTS - WAKTU DIKONVERSI & DIGABUNG ==== */
             {"unix_timestamp": 1765742400, "sport": "American Football", "tournament": "NFL", "match": "Philadelphia Eagles - Las Vegas Raiders", "channels": ["https://antenasport.org/nfl6.php", "https://dlhd.dad/stream/stream-845.php"]},
             {"unix_timestamp": 1765742400, "sport": "American Football", "tournament": "NFL", "match": "New York Giants - Washington Commanders", "channels": ["https://antenasport.org/nfl5.php", "https://dlhd.dad/stream/stream-845.php"]},
             {"unix_timestamp": 1765742400, "sport": "American Football", "tournament": "NFL", "match": "New England Patriots - Buffalo Bills", "channels": ["https://antenasport.org/nfl4.php", "https://dlhd.dad/stream/stream-845.php"]},
@@ -111,7 +109,6 @@
             {"unix_timestamp": 1765748700, "sport": "Ice Hockey", "tournament": "Swiss Hockey Games", "match": "Switzerland - Finland", "channels": ["https://dlhd.dad/stream/stream-845.php"]}
         ],
         "2025-12-15": [
-            /* ==== ANTENASPORT.ORG EVENTS ==== */
             {"unix_timestamp": 1765754400, "sport": "American Football", "tournament": "NFL", "match": "Dallas Cowboys - Minnesota Vikings", "channels": ["https://antenasport.org/nfl14.php", "https://topembed.pw/channel/TSN1[Canada]"]},
             {"unix_timestamp": 1765733400, "sport": "Football", "tournament": "Segunda Division", "match": "CD Castellon - Mirandés", "channels": ["https://antenasport.org/arenasport6hr.php"]},
             {"unix_timestamp": 1765816200, "sport": "Football", "tournament": "Super Lig", "match": "Fenerbahçe - Konyaspor", "channels": ["https://antenasport.org/arena5premiumserbia.php"]},
