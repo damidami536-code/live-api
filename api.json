@@ -84,7 +84,7 @@
                 "unix_timestamp": 1765666800,
                 "sport": "Handball",
                 "tournament": "Handball World Cup",
-                "match": "Handball WC: Netherlands vs France",
+                "match": "Netherlands vs France",
                 "channels": [
                     "https://antenasport.org/tv3norge.php",
                     "https://antenasport.org/digisport2.php"
@@ -202,7 +202,8 @@
             },
             {
                 "unix_timestamp": 1765670400,
-                "sport": "Bulgarian First League",
+                "sport": "Football",
+                "tournament": "Bulgarian First League",
                 "match": "Lokomotiv Plovdiv vs Montana",
                 "channels": [
                     "https://antenasport.org/diemasport.php"
@@ -244,7 +245,8 @@
             },
             {
                 "unix_timestamp": 1765675800,
-                "sport": "Bundesliga",
+                "sport": "Football",
+                "tournament": "Bundesliga",
                 "match": "Freiburg vs Borussia Dortmund",
                 "channels": [
                     "https://antenasport.org/arena3premiumserbia.php",
@@ -253,7 +255,8 @@
             },
             {
                 "unix_timestamp": 1765675800,
-                "sport": "Eredivisie",
+                "sport": "Football",
+                "tournament": "Eredivisie",
                 "match": "Ajax vs Feyenoord",
                 "channels": [
                     "https://antenasport.org/arena5premiumserbia.php",
@@ -262,7 +265,8 @@
             },
             {
                 "unix_timestamp": 1765675800,
-                "sport": "Greek Super League",
+                "sport": "Football",
+                "tournament": "Greek Super League",
                 "match": "Atromitos vs PAOK",
                 "channels": [
                     "https://antenasport.org/novasport2gr.php"
@@ -270,7 +274,8 @@
             },
             {
                 "unix_timestamp": 1765675800,
-                "sport": "La Liga",
+                "sport": "Football",
+                "tournament": "La Liga",
                 "match": "Celta de Vigo vs Athletic Club",
                 "channels": [
                     "https://antenasport.org/arena4premiumserbia.php",
@@ -284,7 +289,8 @@
             },
             {
                 "unix_timestamp": 1765675800,
-                "sport": "Scottish League Cup",
+                "sport": "Football",
+                "tournament": "Scottish League Cup",
                 "match": "St. Mirren vs Celtic",
                 "channels": [
                     "https://antenasport.org/arena5premiumserbia.php",
@@ -293,7 +299,8 @@
             },
             {
                 "unix_timestamp": 1765675800,
-                "sport": "Bundesliga 2",
+                "sport": "Football",
+                "tournament": "Bundesliga 2",
                 "match": "Schalke 04 vs Nürnberg",
                 "channels": [
                     "https://antenasport.org/arena3premiumserbia.php"
@@ -303,7 +310,7 @@
                 "unix_timestamp": 1765677600,
                 "sport": "Handball",
                 "tournament": "Handball World Cup",
-                "match": "Handball WC: Germany vs Norway",
+                "match": "Germany vs Norway",
                 "channels": [
                     "https://antenasport.org/tv3norge.php",
                     "https://antenasport.org/digisport2.php"
@@ -311,7 +318,8 @@
             },
             {
                 "unix_timestamp": 1765677600,
-                "sport": "Ekstraklasa",
+                "sport": "Football",
+                "tournament": "Ekstraklasa",
                 "match": "Motor Lublin vs Jagiellonia Bialystok",
                 "channels": [
                     "https://antenasport.org/canal3poland.php"
@@ -319,7 +327,8 @@
             },
             {
                 "unix_timestamp": 1765677600,
-                "sport": "Premier League of Bosnia and Herzegovina",
+                "sport": "Football",
+                "tournament": "Premier League of Bosnia and Herzegovina",
                 "match": "Zrinjski vs Sarajevo",
                 "channels": [
                     "https://antenasport.org/arena1premiumbosnia.php"
@@ -327,7 +336,8 @@
             },
             {
                 "unix_timestamp": 1765677600,
-                "sport": "Croatian First Football League",
+                "sport": "Football",
+                "tournament": "Croatian First Football League",
                 "match": "Istra 1961 vs Rijeka",
                 "channels": [
                     "https://antenasport.org/maxsport1croatia.php"
@@ -335,7 +345,8 @@
             },
             {
                 "unix_timestamp": 1765679400,
-                "sport": "Bundesliga",
+                "sport": "Football",
+                "tournament": "Bundesliga",
                 "match": "Bayern München vs Mainz 05",
                 "channels": [
                     "https://antenasport.org/arena3premiumserbia.php",
@@ -409,7 +420,8 @@
             },
             {
                 "unix_timestamp": 1765683000,
-                "sport": "Bundesliga",
+                "sport": "Football",
+                "tournament": "Bundesliga",
                 "match": "Werder Bremen vs Stuttgart",
                 "channels": [
                     "https://antenasport.org/dazn2pt.php",
@@ -419,7 +431,8 @@
             },
             {
                 "unix_timestamp": 1765683000,
-                "sport": "Liga I",
+                "sport": "Football",
+                "tournament": "Liga I",
                 "match": "Dinamo Bucuresti vs Metaloglobus",
                 "channels": [
                     "https://antenasport.org/arenasport6hr.php"
@@ -449,7 +462,8 @@
             },
             {
                 "unix_timestamp": 1765686600,
-                "sport": "Ekstraklasa",
+                "sport": "Football",
+                "tournament": "Ekstraklasa",
                 "match": "Legia Warszawa vs Piast Gliwice",
                 "channels": [
                     "https://antenasport.org/canal3poland.php",
@@ -488,7 +502,8 @@
             },
             {
                 "unix_timestamp": 1765688400,
-                "sport": "Portuguese Primeira Liga",
+                "sport": "Football",
+                "tournament": "Portuguese Primeira Liga",
                 "match": "Arouca vs Alverca",
                 "channels": [
                     "https://antenasport.org/sport1pt.php"
@@ -588,7 +603,8 @@
             },
             {
                 "unix_timestamp": 1765695600,
-                "sport": "La Liga",
+                "sport": "Football",
+                "tournament": "La Liga",
                 "match": "Levante vs Villarreal",
                 "channels": [
                     "https://antenasport.org/okkosport2.php"
@@ -1014,7 +1030,7 @@
             {
                 "unix_timestamp": 1765917000,
                 "sport": "Football",
-                "tournament": "Eredivisie",
+                "tournament": "Copa del Rey",
                 "match": "Excelsior Maassluis vs Ajax",
                 "channels": [
                     "https://antenasport.org/dazn1pt.php"
@@ -1054,7 +1070,7 @@
             {
                 "unix_timestamp": 1765922400,
                 "sport": "Football",
-                "tournament": "Portuguese Primeira Liga",
+                "tournament": "Copa del Rey",
                 "match": "Vila Meã vs União de Leiria",
                 "channels": [
                     "https://antenasport.org/canal11.php"
@@ -1063,7 +1079,7 @@
             {
                 "unix_timestamp": 1765926000,
                 "sport": "Football",
-                "tournament": "Portuguese Primeira Liga",
+                "tournament": "Copa del Rey",
                 "match": "Casa Pia vs Torreense",
                 "channels": [
                     "https://antenasport.org/canal11.php"
@@ -1072,7 +1088,7 @@
             {
                 "unix_timestamp": 1765931400,
                 "sport": "Football",
-                "tournament": "Portuguese Primeira Liga",
+                "tournament": "Copa del Rey",
                 "match": "Farense vs Benfica",
                 "channels": [
                     "https://antenasport.org/sport1pt.php"
@@ -1143,7 +1159,7 @@
             {
                 "unix_timestamp": 1765992600,
                 "sport": "Football",
-                "tournament": "UEFA Conference League",
+                "tournament": "Taça de Portugal",
                 "match": "Santa Clara vs Sporting CP",
                 "channels": [
                     "https://antenasport.org/beinsportusa.php",
