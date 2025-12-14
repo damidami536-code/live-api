@@ -535,6 +535,7 @@
                 "tournament": "NFL",
                 "match": "Chicago Bears vs Cleveland Browns",
                 "channels": [
+                    "https://v15.thetvapp.to/hls/NFL09/tracks-v1a1/mono.m3u8?token=FoS6GdOoP28EMr7JPyxMbQ&expires=1765748175&user_id=Wmc4ck1PbFhpaWRGMWE5SGN6NkFBY01WbGRpbDdBRTg2TW9Kb25GVQ==",
                     "https://antenasport.org/nfl1.php",
                     "https://dlhd.dad/stream/stream-21.php"
                 ]
@@ -545,6 +546,7 @@
                 "tournament": "NFL",
                 "match": "Cincinnati Bengals vs Baltimore Ravens",
                 "channels": [
+                    "https://e4.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8?token=c92TAyj55Z8FOitjQ-vpjw&expires=1765748365&user_id=azJDazdPSFh5OGZ4em9rQlIxTGNIdFNvekt6MUpyempWd0E4YmdCVA==",
                     "https://antenasport.org/nfl2.php",
                     "https://dlhd.dad/stream/stream-20.php",
                     "https://dlhd.dad/stream/stream-111.php",
@@ -558,6 +560,7 @@
                 "tournament": "NFL",
                 "match": "Kansas City Chiefs vs Los Angeles Chargers",
                 "channels": [
+                    "https://v8.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8?token=00eVWnCAQrxqL75Fd_vgFg&expires=1765748307&user_id=azJDazdPSFh5OGZ4em9rQlIxTGNIdFNvekt6MUpyempWd0E4YmdCVA==",
                     "https://antenasport.org/nfl3.php",
                     "https://dlhd.dad/stream/stream-9.php",
                     "https://dlhd.dad/stream/stream-355.php",
@@ -571,6 +574,7 @@
                 "tournament": "NFL",
                 "match": "New England Patriots vs Buffalo Bills",
                 "channels": [
+                    "https://e3.thetvapp.to/hls/NFL18/tracks-v1a1/mono.m3u8?token=N2xQuaMZKTnlIxBbm6783Q&expires=1765748205&user_id=Wmc4ck1PbFhpaWRGMWE5SGN6NkFBY01WbGRpbDdBRTg2TW9Kb25GVQ==",
                     "https://antenasport.org/nfl4.php",
                     "https://dlhd.dad/stream/stream-8.php",
                     "https://dlhd.dad/stream/stream-785.php",
@@ -591,6 +595,7 @@
                 "tournament": "NFL",
                 "match": "New York Giants vs Washington Commanders",
                 "channels": [
+                    "https://v1.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=pf5hAfMQoUjbmZb7EpyBKw&expires=1765748278&user_id=azJDazdPSFh5OGZ4em9rQlIxTGNIdFNvekt6MUpyempWd0E4YmdCVA==",
                     "https://antenasport.org/nfl5.php",
                     "https://dlhd.dad/stream/stream-5.php",
                     "https://dlhd.dad/stream/stream-54.php",
@@ -603,6 +608,7 @@
                 "tournament": "NFL",
                 "match": "Philadelphia Eagles vs Las Vegas Raiders",
                 "channels": [
+                    "https://e2.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8?token=LuCAYWd9468kzRUDnLx8Kg&expires=1765748248&user_id=azJDazdPSFh5OGZ4em9rQlIxTGNIdFNvekt6MUpyempWd0E4YmdCVA==",
                     "https://antenasport.org/nfl6.php",
                     "https://dlhd.dad/stream/stream-4.php"
                 ]
@@ -613,6 +619,7 @@
                 "tournament": "NFL",
                 "match": "Jacksonville Jaguars vs New York Jets",
                 "channels": [
+                    "https://v16.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=gfVqJd8lt_--SUAzEUZrLg&expires=1765748334&user_id=azJDazdPSFh5OGZ4em9rQlIxTGNIdFNvekt6MUpyempWd0E4YmdCVA==",
                     "https://antenasport.org/nfl7.php",
                     "https://dlhd.dad/stream/stream-14.php",
                     "https://dlhd.dad/stream/stream-52.php",
@@ -625,6 +632,7 @@
                 "tournament": "NFL",
                 "match": "Houston Texans vs Arizona Cardinals",
                 "channels": [
+                    "https://v2.thetvapp.to/hls/NFL13/tracks-v1a1/mono.m3u8?token=ZHOe5agrV1r8atH3G4D1mQ&expires=1765748001&user_id=Wmc4ck1PbFhpaWRGMWE5SGN6NkFBY01WbGRpbDdBRTg2TW9Kb25GVQ==",
                     "https://antenasport.org/nfl8.php",
                     "https://dlhd.dad/stream/stream-15.php"
                 ]
@@ -653,6 +661,7 @@
                 "tournament": "NFL",
                 "match": "Denver Broncos vs Green Bay Packers",
                 "channels": [
+                    "https://v8.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=6D_cPJVZf1aKyMr_dNE66Q&expires=1765748452&user_id=azJDazdPSFh5OGZ4em9rQlIxTGNIdFNvekt6MUpyempWd0E4YmdCVA==",
                     "https://antenasport.org/nfl9.php",
                     "https://dlhd.dad/stream/stream-52.php",
                     "https://dlhd.dad/stream/stream-767.php",
@@ -669,6 +678,7 @@
                 "tournament": "NFL",
                 "match": "Los Angeles Rams vs Detroit Lions",
                 "channels": [
+                    "https://v13.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8?token=FXsj_i9os8J1iPesW6oLkQ&expires=1765748396&user_id=azJDazdPSFh5OGZ4em9rQlIxTGNIdFNvekt6MUpyempWd0E4YmdCVA==",
                     "https://antenasport.org/nfl10.php",
                     "https://dlhd.dad/stream/stream-10.php",
                     "https://dlhd.dad/stream/stream-54.php",
@@ -689,6 +699,7 @@
                 "tournament": "NFL",
                 "match": "New Orleans Saints vs Carolina Panthers",
                 "channels": [
+                    "https://v1.thetvapp.to/hls/NFL28/tracks-v1a1/mono.m3u8?token=XXPNmhhHE5MhagrKrY42tA&expires=1765748045&user_id=Wmc4ck1PbFhpaWRGMWE5SGN6NkFBY01WbGRpbDdBRTg2TW9Kb25GVQ==",
                     "https://antenasport.org/nfl11.php",
                     "https://dlhd.dad/stream/stream-1.php"
                 ]
@@ -699,6 +710,7 @@
                 "tournament": "NFL",
                 "match": "San Francisco 49ers vs Tennessee Titans",
                 "channels": [
+                    "https://v13.thetvapp.to/hls/NFL22/tracks-v1a1/mono.m3u8?token=kv6SK2YO_G-OBFYGvC2_0A&expires=1765748085&user_id=Wmc4ck1PbFhpaWRGMWE5SGN6NkFBY01WbGRpbDdBRTg2TW9Kb25GVQ==",
                     "https://antenasport.org/nfl12.php",
                     "https://dlhd.dad/stream/stream-17.php"
                 ]
@@ -709,6 +721,7 @@
                 "tournament": "NFL",
                 "match": "Seattle Seahawks vs Indianapolis Colts",
                 "channels": [
+                    "https://v12.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8?token=6Fc4vE8ZqO6s-2IPGef5mg&expires=1765748429&user_id=azJDazdPSFh5OGZ4em9rQlIxTGNIdFNvekt6MUpyempWd0E4YmdCVA==",
                     "https://antenasport.org/nfl13.php",
                     "https://dlhd.dad/stream/stream-16.php",
                     "https://dlhd.dad/stream/stream-456.php",
@@ -732,6 +745,7 @@
                 "tournament": "NFL",
                 "match": "Dallas Cowboys vs Minnesota Vikings",
                 "channels": [
+                    "https://v14.thetvapp.to/hls/NFL05/tracks-v1a1/mono.m3u8?token=OHZ7wIL7SPcCGjxmPBt6Kg&expires=1765748140&user_id=Wmc4ck1PbFhpaWRGMWE5SGN6NkFBY01WbGRpbDdBRTg2TW9Kb25GVQ==",
                     "https://antenasport.org/nfl14.php",
                     "https://dlhd.dad/stream/stream-845.php",
                     "https://dlhd.dad/stream/stream-53.php",
