@@ -1,20 +1,7 @@
 {
-  "servers": [
-    {
-      "name": "Server 1 - Eurosport 1 ES",
-      "url": "https://daddylives.top/stream/stream-31.php"
-    },
-    {
-      "name": "Server 2 - Eurosport 2 ES",
-      "url": "https://topembed.pw/channel/Eurosport2[Spain]"
-    },
-    {
-      "name": "Server 3 - M3U8 Test",
-      "url": "https://e1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8?token=dGTGZYhyV02atoPRFeITDw&expires=1766510404&user_id=bERwUnB1ZE5KTjVTT1JQVVZiRGRWaVk1R3dVUXNick9od3MxVlZuZw=="
-    },
-    {
-      "name": "Server 4 - YouTube",
-      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
-    }
+  "live": [
+    {"name": "Eurosport 1 Spain", "url": "https://daddylives.top/stream/stream-31.php"},
+    {"name": "Eurosport 2 Spain", "url": "https://topembed.pw/channel/Eurosport2[Spain]"},
+    {"name": "M3U8 Stream", "url": "https://e1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8?token=dGTGZYhyV02atoPRFeITDw&expires=1766510404&user_id=bERwUnB1ZE5KTjVTT1JQVVZiRGRWaVk1R3dVUXNick9od3MxVlZuZw=="}
   ]
 }
