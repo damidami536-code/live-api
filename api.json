@@ -1,14 +1,14 @@
 {
   "live": [
-    {"name": "Eurosport 1 Spain", "url": "https://topembed.pw/channel/Eurosport1[Spain]"},
-    {"name": "TNTSports1 UK", "url": "https://topembed.pw/channel/TNTSports1[UK]"},
-    {"name": "TNTSports1 UK", "url": "https://antenasport.org/maxtnt1.php"},
-    {"name": "Eurosport 1 FR", "url": "https://topembed.pw/channel/Eurosport1[France]"},
-    {"name": "Eurosport 1 FR", "url": "https://antenasport.org/eurosport1fr.php"},
-    {"name": "Eurosport 1 Poland", "url": "https://topembed.pw/channel/Eurosport2[Poland]"},
+    {"name": "TNTSports2 UK", "url": "https://topembed.pw/channel/TNTSports2[UK]"},
+    {"name": "Eurosport1 Poland", "url": "https://topembed.pw/channel/Eurosport1[Poland]"},
+    {"name": "eurosport1 fr", "url": "https://antenasport.org/eurosport1fr.php"},
+    {"name": "Eurosport 1 France", "url": "https://topembed.pw/channel/Eurosport1[France]"},
+    {"name": "tnt2 UK", "url": "https://antenasport.org/maxtnt2.php"},
+    {"name": "Eurosport1 Spain", "url": "https://topembed.pw/channel/Eurosport1[Spain]"},
     {"name": "Eurosport 1 Spain", "url": "https://topembed.pw/channel/TSN1[Canada]"},
     {"name": "Eurosport 1 Spain", "url": "https://topembed.pw/channel/Sportklub3[Serbia]"},
-    {"name": "M3U8 Stream", "url": "https://e1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8?token=9o8TYT3bgO_Q7TnYBCTJ-g&expires=1766526558&user_id=amhMMUdiYWY2d1NKUkhndTBFazU4dXpyeVVzV1UzdGthQmN6UWlSbA=="},
-    {"name": "M3U8 Stream", "url": "https://e1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8?token=9o8TYT3bgO_Q7TnYBCTJ-g&expires=1766526558&user_id=amhMMUdiYWY2d1NKUkhndTBFazU4dXpyeVVzV1UzdGthQmN6UWlSbA=="}
+    {"name": "M3U8 Stream", "url": "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8"},
+    {"name": "M3U8 Stream", "url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8"}
   ]
 }
