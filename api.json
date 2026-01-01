@@ -1,11 +1,11 @@
 {
   "live": [
     {"name": "TNTSports2 UK", "url": "https://topembed.pw/channel/TNTSports2[UK]"},
-    {"name": "Eurosport1 Poland", "url": "https://topembed.pw/channel/Eurosport1[Poland]"},
-    {"name": "eurosport1 fr", "url": "https://antenasport.org/eurosport1fr.php"},
-    {"name": "Eurosport 1 France", "url": "https://topembed.pw/channel/Eurosport1[France]"},
-    {"name": "tnt2 UK", "url": "https://antenasport.org/maxtnt2.php"},
-    {"name": "Eurosport1 Spain", "url": "https://topembed.pw/channel/Eurosport1[Spain]"},
+    {"name": "maxtnt2", "url": "https://antenasport.org/maxtnt2.php"},
+    {"name": "eurosport2 fr", "url": "https://antenasport.org/eurosport2fr.php"},
+    {"name": "Eurosport 2 Spain", "url": "https://topembed.pw/channel/Eurosport2[Spain]"},
+    {"name": "Eurosport 2 Poland", "url": "https://topembed.pw/channel/Eurosport2[Poland]"},
+    {"name": "Eurosport2 France", "url": "https://topembed.pw/channel/Eurosport2[France]"},
     {"name": "Eurosport 1 Spain", "url": "https://topembed.pw/channel/TSN1[Canada]"},
     {"name": "Eurosport 1 Spain", "url": "https://topembed.pw/channel/Sportklub3[Serbia]"},
     {"name": "M3U8 Stream", "url": "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8"},
