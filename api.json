@@ -1,12 +1,12 @@
 {
   "live": [
-    {"name": "TNTSports2 UK", "url": "https://topembed.pw/channel/TNTSports2[UK]"},
-    {"name": "maxtnt2", "url": "https://antenasport.org/maxtnt2.php"},
-    {"name": "eurosport2 fr", "url": "https://antenasport.org/eurosport2fr.php"},
-    {"name": "Eurosport 2 Spain", "url": "https://topembed.pw/channel/Eurosport2[Spain]"},
-    {"name": "Eurosport 2 Poland", "url": "https://topembed.pw/channel/Eurosport2[Poland]"},
-    {"name": "Eurosport2 France", "url": "https://topembed.pw/channel/Eurosport2[France]"},
-    {"name": "Eurosport 1 Spain", "url": "https://topembed.pw/channel/TSN1[Canada]"},
+    {"name": "Eurosport1[Poland]", "url": "https://topembed.pw/channel/Eurosport1[Poland]"},
+    {"name": "Eurosport1[Spain]", "url": "https://topembed.pw/channel/Eurosport1[Spain]"},
+    {"name": "Eurosport1[France]", "url": "https://topembed.pw/channel/Eurosport1[France]"},
+    {"name": "Eurosport1[Germany]", "url": "https://topembed.pw/channel/Eurosport1[Germany]"},
+    {"name": "Eurosport1[Italy]", "url": "https://topembed.pw/channel/Eurosport1[Italy]"},
+    {"name": "eurosport1uk", "url": "https://antenasport.top/eurosport1uk.php"},
+    {"name": "eurosport1fr", "url": "https://antenasport.top/eurosport1fr.php"},
     {"name": "Eurosport 1 Spain", "url": "https://topembed.pw/channel/Sportklub3[Serbia]"},
     {"name": "M3U8 Stream", "url": "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8"},
     {"name": "M3U8 Stream", "url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8"}
