@@ -1,7 +1,7 @@
 {
   "live": [
-    {"name": "M3U8 Stream", "url": "http://145.239.5.177/530/index.m3u8"},
-    {"name": "Eurosport2[Poland]", "url": "https:\/\/topembed.pw\/channel\/Eurosport2[Poland]"},
+    {"name": "M3U8 Stream", "url": "http:\/\/145.239.5.177\/530\/index.m3u8"},
+    {"name": "tvpass abc", "url": "https:\/\/tvpass.org\/embed/channel\/abc-wabc-new-york-ny"},
     {"name": "Eurosport2[Spain]", "url": "https:\/\/topembed.pw\/channel\/Eurosport2[Spain]"},
     {"name": "Eurosport1[France]", "url": "https://topembed.pw/channel/Eurosport1[France]"},
     {"name": "Eurosport2[Germany]", "url": "https:\/\/topembed.pw\/channel\/Eurosport2[Germany]"},
@@ -9,7 +9,7 @@
     {"name": "maxtnt2", "url": "https:\/\/antenasport.top\/maxtnt2.php"},
     {"name": "eurosport2uk", "url": "https:\/\/antenasport.top\/eurosport2uk.php"},
     {"name": "eurosport2fr", "url": "https:\/\/antenasport.top\/eurosport2fr.php"},
-    {"name": "M3U8 Stream", "url": "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8"},
-    {"name": "M3U8 Stream", "url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8"}
+    {"name": "M3U8 Stream", "url": "https:\/\/viamotionhsi.netplus.ch\/live\/eds\/raisport1\/browser-HLS8\/raisport1.m3u8"},
+    {"name": "M3U8 Stream", "url": "https:\/\/d1cctoeg0n48w5.cloudfront.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-mnixw9wn5ugmv\/TeledeporteES.m3u8"}
   ]
 }
