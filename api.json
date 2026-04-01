@@ -1,9 +1,9 @@
 {
   "live": [
-    {"name": "M3U8 Stream", "url": "http:\/\/145.239.5.177\/530\/index.m3u8"},
-    {"name": "tvpass abc", "url": "https:\/\/topembed.pw\/channel\/SportTV2[Portugal]"},
-    {"name": "Eurosport2[Spain]", "url": "https:\/\/topembed.pw\/channel\/Eurosport2[Spain]"},
-    {"name": "Eurosport1[France]", "url": "https://topembed.pw/channel/Eurosport1[France]"},
+    {"name": "M3U8 Stream", "url": "https:\/\/cdn-live.tv\/api\/v1\/channels\/player\/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"},
+    {"name": "tvpass abc", "url": "https:\/\/cdn-live.tv\/api\/v1\/channels\/player\/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"},
+    {"name": "Eurosport2[Spain]", "url": "https:\/\/cdn-live.tv\/api\/v1\/channels\/player\/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"},
+    {"name": "Eurosport1[France]", "url": "https:\/\/cdn-live.tv\/api\/v1\/channels\/player\/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"},
     {"name": "Eurosport2[Germany]", "url": "https:\/\/topembed.pw\/channel\/Eurosport2[Germany]"},
     {"name": "Eurosport2[Italy]", "url": "https:\/\/topembed.pw\/channel\/Eurosport2[Italy]"},
     {"name": "maxtnt2", "url": "https:\/\/antenasport.top\/maxtnt2.php"},
