@@ -4,7 +4,7 @@
     {"name": "tvpass abc", "url": "https:\/\/cdn-live.tv\/api\/v1\/channels\/player\/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"},
     {"name": "Eurosport2[Spain]", "url": "https:\/\/cdn-live.tv\/api\/v1\/channels\/player\/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"},
     {"name": "Eurosport1[France]", "url": "https:\/\/cdn-live.tv\/api\/v1\/channels\/player\/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"},
-    {"name": "Eurosport2[Germany]", "url": "https:\/\/topembed.pw\/channel\/Eurosport2[Germany]"},
+    {"name": "Eurosport2[Germany]", "url": "https:\/\/cdn-live.tv\/api\/v1\/channels\/player\/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"},
     {"name": "Eurosport2[Italy]", "url": "https:\/\/topembed.pw\/channel\/Eurosport2[Italy]"},
     {"name": "maxtnt2", "url": "https:\/\/antenasport.top\/maxtnt2.php"},
     {"name": "eurosport2uk", "url": "https:\/\/antenasport.top\/eurosport2uk.php"},
