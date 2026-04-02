@@ -1,6 +1,6 @@
 {
   "live": [
-    {"name": "M3U8 Stream", "url": "https:\/\/cdn-live.tv\/api\/v1\/channels\/player\/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"},
+    {"name": "M3U8 Stream", "url": "https:\/\/embedsports.top\/embed\/admin\/ppv-montreal-canadiens-vs-new-york-rangers\/1"},
     {"name": "tvpass abc", "url": "https:\/\/bolaloca.my\/player\/3\/34"},
     {"name": "Eurosport2[Spain]", "url": "https:\/\/antenasport.top\/hd1.php"},
     {"name": "Eurosport1[France]", "url": "https:\/\/cdn-live.tv\/api\/v1\/channels\/player\/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"},
