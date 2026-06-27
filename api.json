@@ -1,15 +1,2828 @@
 {
-  "live": [
-    {"name": "M3U8 Stream", "url": "https:\/\/embedsports.top\/embed\/admin\/ppv-montreal-canadiens-vs-new-york-rangers\/1"},
-    {"name": "tvpass abc", "url": "https:\/\/bolaloca.my\/player\/3\/34"},
-    {"name": "Eurosport2[Spain]", "url": "https:\/\/antenasport.top\/hd1.php"},
-    {"name": "Eurosport1[France]", "url": "https:\/\/cdn-live.tv\/api\/v1\/channels\/player\/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"},
-    {"name": "Eurosport2[Germany]", "url": "https:\/\/cdn-live.tv\/api\/v1\/channels\/player\/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"},
-    {"name": "Eurosport2[Italy]", "url": "https:\/\/topembed.pw\/channel\/Eurosport2[Italy]"},
-    {"name": "maxtnt2", "url": "https:\/\/antenasport.top\/maxtnt2.php"},
-    {"name": "eurosport2uk", "url": "https:\/\/antenasport.top\/eurosport2uk.php"},
-    {"name": "eurosport2fr", "url": "https:\/\/antenasport.top\/eurosport2fr.php"},
-    {"name": "M3U8 Stream", "url": "https:\/\/viamotionhsi.netplus.ch\/live\/eds\/raisport1\/browser-HLS8\/raisport1.m3u8"},
-    {"name": "M3U8 Stream", "url": "https:\/\/d1cctoeg0n48w5.cloudfront.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-mnixw9wn5ugmv\/TeledeporteES.m3u8"}
+  "success": true,
+  "timestamp": 1782545493,
+  "READ_ME": "Free public API by DAMITV. Use embed URLs to show streams on your site. Raw m3u8 URLs are not provided. Contact: t.me/+DH8w27ZsWDViOGQ0",
+  "performance": 0.07,
+  "streams": [
+    {
+      "category": "american-football",
+      "id": 1,
+      "streams": [
+        {
+          "id": "afle/2026-06-27/rhe-alp",
+          "name": "Rhein Fire vs. Alpine Rams",
+          "poster": "https://api.ppv.to/assets/thumb/f54963edbbe051bc5f27285a0f2864da-thumbnail.jpg",
+          "starts_at": 1782573000,
+          "ends_at": 1782583800,
+          "category_name": "american-football",
+          "status": "upcoming",
+          "league": "American Football",
+          "teams": {
+            "home": {
+              "name": "Rhein Fire",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/wcxgsd1777882085.png"
+            },
+            "away": {
+              "name": "Alpine Rams",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/y8jeuu1648973843.png"
+            }
+          },
+          "uri_name": "afle/2026-06-27/rhe-alp",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "American Football",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=afle%2F2026-06-27%2Frhe-alp"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "Sport1 DE",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-641"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Backup Stream",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-2010"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=afle%2F2026-06-27%2Frhe-alp",
+          "embed": "https://dami-tv.pro/embed/?id=afle%2F2026-06-27%2Frhe-alp"
+        },
+        {
+          "id": "cfl/2026-06-27/cgy-bc",
+          "name": "Calgary Stampeders vs. BC Lions",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/jqzmtx1682151056.jpg",
+          "starts_at": 1782601200,
+          "ends_at": 1782612000,
+          "category_name": "american-football",
+          "status": "upcoming",
+          "league": "American Football",
+          "teams": {
+            "home": {
+              "name": "Calgary Stampeders",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ysxssy1424732039.png"
+            },
+            "away": {
+              "name": "BC Lions",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/lksemj1565196917.png"
+            }
+          },
+          "uri_name": "cfl/2026-06-27/cgy-bc",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "American Football",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=cfl%2F2026-06-27%2Fcgy-bc"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "CBS Sports Network",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-308"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "TSN3",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-113"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "Backup Stream",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-2011"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=cfl%2F2026-06-27%2Fcgy-bc",
+          "embed": "https://dami-tv.pro/embed/?id=cfl%2F2026-06-27%2Fcgy-bc"
+        },
+        {
+          "id": "afle/2026-06-28/pan-fir",
+          "name": "Panthers Wroclaw vs. Firenze Red Lions",
+          "poster": "https://api.ppv.to/assets/thumb/01a3892a2af8cae9e670fee446534319-thumbnail.jpg",
+          "starts_at": 1782651600,
+          "ends_at": 1782662400,
+          "category_name": "american-football",
+          "status": "upcoming",
+          "league": "American Football",
+          "teams": {
+            "home": {
+              "name": "Panthers Wroclaw",
+              "badge": ""
+            },
+            "away": {
+              "name": "Firenze Red Lions",
+              "badge": ""
+            }
+          },
+          "uri_name": "afle/2026-06-28/pan-fir",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "American Football",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=afle%2F2026-06-28%2Fpan-fir"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=afle%2F2026-06-28%2Fpan-fir",
+          "embed": "https://dami-tv.pro/embed/?id=afle%2F2026-06-28%2Fpan-fir"
+        },
+        {
+          "id": "cfl/2026-06-28/ott-mtl",
+          "name": "Ottawa RedBlacks vs. Montreal Alouettes",
+          "poster": "https://api.ppv.to/assets/thumb/76798e50de725849fa80db804acd4e9a-thumbnail.jpg",
+          "starts_at": 1782687600,
+          "ends_at": 1782698400,
+          "category_name": "american-football",
+          "status": "upcoming",
+          "league": "American Football",
+          "teams": {
+            "home": {
+              "name": "Ottawa RedBlacks",
+              "badge": ""
+            },
+            "away": {
+              "name": "Montreal Alouettes",
+              "badge": ""
+            }
+          },
+          "uri_name": "cfl/2026-06-28/ott-mtl",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "American Football",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=cfl%2F2026-06-28%2Fott-mtl"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=cfl%2F2026-06-28%2Fott-mtl",
+          "embed": "https://dami-tv.pro/embed/?id=cfl%2F2026-06-28%2Fott-mtl"
+        }
+      ]
+    },
+    {
+      "category": "afl",
+      "id": 2,
+      "streams": [
+        {
+          "id": "afl/2026-06-27/coll-rich",
+          "name": "Collingwood vs. Richmond",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/vf078a1675674152.jpg",
+          "starts_at": 1782540900,
+          "ends_at": 1782551700,
+          "category_name": "afl",
+          "status": "live",
+          "league": "AFL",
+          "teams": {
+            "home": {
+              "name": "Collingwood",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/a2uqkd1584810538.png"
+            },
+            "away": {
+              "name": "Richmond",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/xkqlvb1647870792.png"
+            }
+          },
+          "uri_name": "afl/2026-06-27/coll-rich",
+          "viewers": 12,
+          "always_live": 0,
+          "tag": "AFL",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=afl%2F2026-06-27%2Fcoll-rich"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "TNT Sports 4 UK",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-34"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Fox Soccer Plus",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-756"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "TSN3",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-113"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "Sky Sport 3 NZ",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-590"
+            },
+            {
+              "source": "hls",
+              "id": "ch5",
+              "name": "Fox Soccer Plus",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-3083"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=afl%2F2026-06-27%2Fcoll-rich",
+          "embed": "https://dami-tv.pro/embed/?id=afl%2F2026-06-27%2Fcoll-rich"
+        },
+        {
+          "id": "afl/2026-06-27/port-adel",
+          "name": "Port Adelaide vs. Adelaide Crows",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/4zp28w1656594086.jpg",
+          "starts_at": 1782552900,
+          "ends_at": 1782563700,
+          "category_name": "afl",
+          "status": "upcoming",
+          "league": "AFL",
+          "teams": {
+            "home": {
+              "name": "Port Adelaide",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/7qvqn81584810882.png"
+            },
+            "away": {
+              "name": "Adelaide Crows",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/2nh2z01731592341.png"
+            }
+          },
+          "uri_name": "afl/2026-06-27/port-adel",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "AFL",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=afl%2F2026-06-27%2Fport-adel"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "TNT Sports 4 UK",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-34"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Fox Soccer Plus",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-756"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "Backup Stream",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-2012"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "Fox Soccer Plus",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-3083"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=afl%2F2026-06-27%2Fport-adel",
+          "embed": "https://dami-tv.pro/embed/?id=afl%2F2026-06-27%2Fport-adel"
+        },
+        {
+          "id": "afl/2026-06-28/nmfc-ess",
+          "name": "North Melbourne vs. Essendon",
+          "poster": "https://api.ppv.to/assets/thumb/c76554cbb97994646880440d5e6a04ba-thumbnail.jpg",
+          "starts_at": 1782623700,
+          "ends_at": 1782634500,
+          "category_name": "afl",
+          "status": "upcoming",
+          "league": "AFL",
+          "teams": {
+            "home": {
+              "name": "North Melbourne",
+              "badge": ""
+            },
+            "away": {
+              "name": "Essendon",
+              "badge": ""
+            }
+          },
+          "uri_name": "afl/2026-06-28/nmfc-ess",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "AFL",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=afl%2F2026-06-28%2Fnmfc-ess"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=afl%2F2026-06-28%2Fnmfc-ess",
+          "embed": "https://dami-tv.pro/embed/?id=afl%2F2026-06-28%2Fnmfc-ess"
+        },
+        {
+          "id": "afl/2026-06-28/fre-gcfc",
+          "name": "Fremantle vs. Gold Coast SUNS",
+          "poster": "https://api.ppv.to/assets/thumb/5feb92d5482f51ca84509e1fedb2b3f2-thumbnail.jpg",
+          "starts_at": 1782630600,
+          "ends_at": 1782641400,
+          "category_name": "afl",
+          "status": "upcoming",
+          "league": "AFL",
+          "teams": {
+            "home": {
+              "name": "Fremantle",
+              "badge": ""
+            },
+            "away": {
+              "name": "Gold Coast SUNS",
+              "badge": ""
+            }
+          },
+          "uri_name": "afl/2026-06-28/fre-gcfc",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "AFL",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=afl%2F2026-06-28%2Ffre-gcfc"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=afl%2F2026-06-28%2Ffre-gcfc",
+          "embed": "https://dami-tv.pro/embed/?id=afl%2F2026-06-28%2Ffre-gcfc"
+        }
+      ]
+    },
+    {
+      "category": "baseball",
+      "id": 3,
+      "streams": [
+        {
+          "id": "mlb/2026-06-27/nyy-bos",
+          "name": "New York Yankees vs. Boston Red Sox",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/w52xml1780299846.jpg",
+          "starts_at": 1782579600,
+          "ends_at": 1782590400,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "New York Yankees",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
+            },
+            "away": {
+              "name": "Boston Red Sox",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/nyy-bos",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fnyy-bos"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "MLB league pass",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-14"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "TNT Sports 1 UK",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-31"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "YES USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-763"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "NESN USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-762"
+            },
+            {
+              "source": "hls",
+              "id": "ch5",
+              "name": "ESPN2 BR",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-82"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fnyy-bos",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fnyy-bos"
+        },
+        {
+          "id": "mlb/2026-06-27/hou-det",
+          "name": "Houston Astros vs. Detroit Tigers",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/bglgih1780299843.jpg",
+          "starts_at": 1782580200,
+          "ends_at": 1782591000,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Houston Astros",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
+            },
+            "away": {
+              "name": "Detroit Tigers",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/hou-det",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fhou-det"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "MLB league pass",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-7"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Space City Home Network",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-921"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "beIN Sports 4 Max France",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-494"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fhou-det",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fhou-det"
+        },
+        {
+          "id": "mlb/2026-06-27/tex-tor",
+          "name": "Texas Rangers vs. Toronto Blue Jays",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/hbm0ga1780299840.jpg",
+          "starts_at": 1782587220,
+          "ends_at": 1782598020,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Texas Rangers",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
+            },
+            "away": {
+              "name": "Toronto Blue Jays",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/tex-tor",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Ftex-tor"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "MLB league pass",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-12"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Sportsnet One",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-411"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Ftex-tor",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Ftex-tor"
+        },
+        {
+          "id": "mlb/2026-06-27/cin-pit",
+          "name": "Cincinnati Reds vs. Pittsburgh Pirates",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/ivhxob1780299839.jpg",
+          "starts_at": 1782590700,
+          "ends_at": 1782601500,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Cincinnati Reds",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
+            },
+            "away": {
+              "name": "Pittsburgh Pirates",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/cin-pit",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fcin-pit"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "MLB league pass",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-4"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "SportsNet Pittsburgh",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-922"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fcin-pit",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fcin-pit"
+        },
+        {
+          "id": "mlb/2026-06-27/phi-nym",
+          "name": "Philadelphia Phillies vs. New York Mets",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/msa25j1780299837.jpg",
+          "starts_at": 1782591000,
+          "ends_at": 1782601800,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Philadelphia Phillies",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png"
+            },
+            "away": {
+              "name": "New York Mets",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/phi-nym",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fphi-nym"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "MLB league pass",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-15"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "CW PIX 11 USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-280"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "NBCS Philadelphia USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-777"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "CW USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-300"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fphi-nym",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fphi-nym"
+        },
+        {
+          "id": "mlb/2026-06-27/kc-chw",
+          "name": "Kansas City Royals vs. Chicago White Sox",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/90r6cp1780299845.jpg",
+          "starts_at": 1782591000,
+          "ends_at": 1782601800,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Kansas City Royals",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
+            },
+            "away": {
+              "name": "Chicago White Sox",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/kc-chw",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fkc-chw"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "MLB league pass",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-17"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Chicago Sports Network",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-776"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fkc-chw",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fkc-chw"
+        },
+        {
+          "id": "mlb/2026-06-27/ari-tb",
+          "name": "Arizona Diamondbacks vs. Tampa Bay Rays",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/xo5z7r1780299838.jpg",
+          "starts_at": 1782598200,
+          "ends_at": 1782609000,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Arizona Diamondbacks",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
+            },
+            "away": {
+              "name": "Tampa Bay Rays",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/ari-tb",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fari-tb"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "MLB league pass",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-13"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fari-tb",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fari-tb"
+        },
+        {
+          "id": "mlb/2026-06-27/wsh-bal",
+          "name": "Washington Nationals vs. Baltimore Orioles",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/pt2q4s1780299847.jpg",
+          "starts_at": 1782601500,
+          "ends_at": 1782612300,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Washington Nationals",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
+            },
+            "away": {
+              "name": "Baltimore Orioles",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/wsh-bal",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fwsh-bal"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "MLB league pass",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-11"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "MASN USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-829"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fwsh-bal",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fwsh-bal"
+        },
+        {
+          "id": "mlb/2026-06-27/sea-cle",
+          "name": "Seattle Mariners vs. Cleveland Guardians",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/bfajp71780299844.jpg",
+          "starts_at": 1782601800,
+          "ends_at": 1782612600,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Seattle Mariners",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
+            },
+            "away": {
+              "name": "Cleveland Guardians",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/sea-cle",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fsea-cle"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "MLB league pass",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-16"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "MLB Network",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-399"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fsea-cle",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fsea-cle"
+        },
+        {
+          "id": "mlb/2026-06-27/chc-mil",
+          "name": "Chicago Cubs vs. Milwaukee Brewers",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/ej9orl1780299848.jpg",
+          "starts_at": 1782601800,
+          "ends_at": 1782612600,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Chicago Cubs",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+            },
+            "away": {
+              "name": "Milwaukee Brewers",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/chc-mil",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fchc-mil"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "MLB league pass",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-18"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fchc-mil",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fchc-mil"
+        },
+        {
+          "id": "mlb/2026-06-27/col-min",
+          "name": "Colorado Rockies vs. Minnesota Twins",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/4cpnrx1780299828.jpg",
+          "starts_at": 1782601800,
+          "ends_at": 1782612600,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Colorado Rockies",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
+            },
+            "away": {
+              "name": "Minnesota Twins",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/col-min",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fcol-min"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "MLB league pass",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-14"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Backup Stream",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-4025"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fcol-min",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fcol-min"
+        },
+        {
+          "id": "mlb/2026-06-27/mia-stl",
+          "name": "Miami Marlins vs. St. Louis Cardinals",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/f0aq621780299824.jpg",
+          "starts_at": 1782602100,
+          "ends_at": 1782612900,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Miami Marlins",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
+            },
+            "away": {
+              "name": "St. Louis Cardinals",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/mia-stl",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fmia-stl"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "MLB league pass",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-19"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Backup Stream",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-4026"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fmia-stl",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fmia-stl"
+        },
+        {
+          "id": "mlb/2026-06-27/lad-sd",
+          "name": "Los Angeles Dodgers vs. San Diego Padres",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/kscx6z1780299826.jpg",
+          "starts_at": 1782607200,
+          "ends_at": 1782618000,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Los Angeles Dodgers",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
+            },
+            "away": {
+              "name": "San Diego Padres",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/lad-sd",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Flad-sd"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Flad-sd",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Flad-sd"
+        },
+        {
+          "id": "mlb/2026-06-27/atl-sf",
+          "name": "Atlanta Braves vs. San Francisco Giants",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/kuh4s61780299825.jpg",
+          "starts_at": 1782608700,
+          "ends_at": 1782619500,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Atlanta Braves",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png"
+            },
+            "away": {
+              "name": "San Francisco Giants",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/atl-sf",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fatl-sf"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fatl-sf",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fatl-sf"
+        },
+        {
+          "id": "mlb/2026-06-27/ath-laa",
+          "name": "Athletics vs. Los Angeles Angels",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/84et3s1780299829.jpg",
+          "starts_at": 1782610680,
+          "ends_at": 1782621480,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Athletics",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png"
+            },
+            "away": {
+              "name": "Los Angeles Angels",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
+            }
+          },
+          "uri_name": "mlb/2026-06-27/ath-laa",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fath-laa"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fath-laa",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-06-27%2Fath-laa"
+        }
+      ]
+    },
+    {
+      "category": "basketball",
+      "id": 4,
+      "streams": [
+        {
+          "id": "wnba/2026-06-27/phx-tor",
+          "name": "Phoenix Mercury vs. Toronto Tempo",
+          "poster": "https://api.ppv.to/assets/thumb/7f98c230c187ec7aade6ad11479cca23-thumbnail.jpg",
+          "starts_at": 1782583200,
+          "ends_at": 1782594000,
+          "category_name": "basketball",
+          "status": "upcoming",
+          "league": "WNBA",
+          "teams": {
+            "home": {
+              "name": "Phoenix Mercury",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/hoqyza1778258347.png"
+            },
+            "away": {
+              "name": "Toronto Tempo",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/bcjbjy1767191655.png"
+            }
+          },
+          "uri_name": "wnba/2026-06-27/phx-tor",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "WNBA",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-06-27%2Fphx-tor"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "CBS USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-52"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "CBSNY USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-767"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "TSN1",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-111"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "TSN3",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-113"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wnba%2F2026-06-27%2Fphx-tor",
+          "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-06-27%2Fphx-tor"
+        },
+        {
+          "id": "wnba/2026-06-27/la-ind",
+          "name": "Los Angeles Sparks vs. Indiana Fever",
+          "poster": "https://api.ppv.to/assets/thumb/668459026333a0fec572daf794ce80f8-thumbnail.jpg",
+          "starts_at": 1782604800,
+          "ends_at": 1782615600,
+          "category_name": "basketball",
+          "status": "upcoming",
+          "league": "WNBA",
+          "teams": {
+            "home": {
+              "name": "Los Angeles Sparks",
+              "badge": ""
+            },
+            "away": {
+              "name": "Indiana Fever",
+              "badge": ""
+            }
+          },
+          "uri_name": "wnba/2026-06-27/la-ind",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "WNBA",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-06-27%2Fla-ind"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wnba%2F2026-06-27%2Fla-ind",
+          "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-06-27%2Fla-ind"
+        },
+        {
+          "id": "wnba/2026-06-27/atl-sea",
+          "name": "Atlanta Dream vs. Seattle Storm",
+          "poster": "https://api.ppv.to/assets/thumb/ac5bc5ddd206cca82127d55301f6f7a8-thumbnail.jpg",
+          "starts_at": 1782608400,
+          "ends_at": 1782619200,
+          "category_name": "basketball",
+          "status": "upcoming",
+          "league": "WNBA",
+          "teams": {
+            "home": {
+              "name": "Atlanta Dream",
+              "badge": ""
+            },
+            "away": {
+              "name": "Seattle Storm",
+              "badge": ""
+            }
+          },
+          "uri_name": "wnba/2026-06-27/atl-sea",
+          "viewers": 1,
+          "always_live": 0,
+          "tag": "WNBA",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-06-27%2Fatl-sea"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wnba%2F2026-06-27%2Fatl-sea",
+          "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-06-27%2Fatl-sea"
+        }
+      ]
+    },
+    {
+      "category": "fight",
+      "id": 5,
+      "streams": [
+        {
+          "id": "ufc-fight-night-fiziev-vs-torres",
+          "name": "UFC Fight Night: Fiziev vs. Torres",
+          "poster": "https://api.ppv.to/assets/thumb/0d6bc820d629204cfdda38285df58007-thumbnail.jpg",
+          "starts_at": 1782565200,
+          "ends_at": 1782576000,
+          "category_name": "fight",
+          "status": "upcoming",
+          "league": "UFC",
+          "teams": {
+            "home": {
+              "name": "UFC Fight Night: Fiziev",
+              "badge": ""
+            },
+            "away": {
+              "name": "Torres",
+              "badge": ""
+            }
+          },
+          "uri_name": "ufc-fight-night-fiziev-vs-torres",
+          "viewers": 1,
+          "always_live": 0,
+          "tag": "UFC",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=ufc-fight-night-fiziev-vs-torres"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "UFC Fight Pass",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-69"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "TNT Sports 1 UK",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-31"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "Astro Grandstand",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-123"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "RMC Sport 1 France",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-119"
+            },
+            {
+              "source": "hls",
+              "id": "ch5",
+              "name": "Match Box Russia",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-395"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=ufc-fight-night-fiziev-vs-torres",
+          "embed": "https://dami-tv.pro/embed/?id=ufc-fight-night-fiziev-vs-torres"
+        },
+        {
+          "id": "wwe/ple/2026-06-27",
+          "name": "WWE: Night of Champions Riyadh",
+          "poster": "https://api.ppv.to/assets/thumb/ad1364b4699ba49b02779938da69726b-thumbnail.jpg",
+          "starts_at": 1782579600,
+          "ends_at": 1782590400,
+          "category_name": "fight",
+          "status": "upcoming",
+          "league": "WWE",
+          "teams": {
+            "home": {
+              "name": "WWE: Night of Champions Riyadh",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "wwe/ple/2026-06-27",
+          "viewers": 1,
+          "always_live": 0,
+          "tag": "WWE",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wwe%2Fple%2F2026-06-27"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wwe%2Fple%2F2026-06-27",
+          "embed": "https://dami-tv.pro/embed/?id=wwe%2Fple%2F2026-06-27"
+        },
+        {
+          "id": "aew/collision/2026-06-27",
+          "name": "AEW: Saturday Night Collision",
+          "poster": "https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
+          "starts_at": 1782604800,
+          "ends_at": 1782615600,
+          "category_name": "fight",
+          "status": "upcoming",
+          "league": "AEW",
+          "teams": {
+            "home": {
+              "name": "AEW: Saturday Night Collision",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "aew/collision/2026-06-27",
+          "viewers": 1,
+          "always_live": 0,
+          "tag": "AEW",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=aew%2Fcollision%2F2026-06-27"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=aew%2Fcollision%2F2026-06-27",
+          "embed": "https://dami-tv.pro/embed/?id=aew%2Fcollision%2F2026-06-27"
+        },
+        {
+          "id": "pancrase-363",
+          "name": "PANCRASE 363",
+          "poster": "https://api.ppv.to/assets/thumb/a34342d04442b7eb71b01491b74cdaa3-thumbnail.jpg",
+          "starts_at": 1782617400,
+          "ends_at": 1782628200,
+          "category_name": "fight",
+          "status": "upcoming",
+          "league": "Combat Sports",
+          "teams": {
+            "home": {
+              "name": "PANCRASE 363",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "pancrase-363",
+          "viewers": 1,
+          "always_live": 0,
+          "tag": "Combat Sports",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=pancrase-363"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=pancrase-363",
+          "embed": "https://dami-tv.pro/embed/?id=pancrase-363"
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "id": 6,
+      "streams": [
+        {
+          "id": "wc/2026-06-27/cro-gha",
+          "name": "Croatia vs. Ghana",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/fwxopf1775058368.jpg",
+          "starts_at": 1782594000,
+          "ends_at": 1782604800,
+          "category_name": "football",
+          "status": "upcoming",
+          "league": "FIFA World Cup 2026",
+          "teams": {
+            "home": {
+              "name": "Croatia",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/vvtsyu1455465317.png"
+            },
+            "away": {
+              "name": "Ghana",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/j589xw1751526124.png"
+            }
+          },
+          "uri_name": "wc/2026-06-27/cro-gha",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "FIFA World Cup 2026",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcro-gha"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "FS1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcro-gha%2Ffox"
+            },
+            {
+              "source": "hls",
+              "id": "s3",
+              "name": "BBC/ITV",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcro-gha%2Fuk"
+            },
+            {
+              "source": "hls",
+              "id": "s4",
+              "name": "beIN Sports",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcro-gha%2Fbein"
+            },
+            {
+              "source": "hls",
+              "id": "s5",
+              "name": "DAZN Spain",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcro-gha%2Fdazn-spain"
+            },
+            {
+              "source": "hls",
+              "id": "s6",
+              "name": "Telemundo",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcro-gha%2Ftelemundo"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "Fox Sports 1 USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-39"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "NBC UNIVERSO",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-845"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "ITV 4 UK",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-353"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "HRT 2 Croatia",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-247"
+            },
+            {
+              "source": "hls",
+              "id": "ch5",
+              "name": "TSN2",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-112"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcro-gha",
+          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcro-gha"
+        },
+        {
+          "id": "wc/2026-06-27/pan-eng",
+          "name": "Panama vs. England",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/enrwox1775058370.jpg",
+          "starts_at": 1782594000,
+          "ends_at": 1782604800,
+          "category_name": "football",
+          "status": "upcoming",
+          "league": "FIFA World Cup 2026",
+          "teams": {
+            "home": {
+              "name": "Panama",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/asp2ck1715849700.png"
+            },
+            "away": {
+              "name": "England",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png"
+            }
+          },
+          "uri_name": "wc/2026-06-27/pan-eng",
+          "viewers": 1,
+          "always_live": 0,
+          "tag": "FIFA World Cup 2026",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fpan-eng"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "FOX",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fpan-eng%2Ffox"
+            },
+            {
+              "source": "hls",
+              "id": "s3",
+              "name": "BBC/ITV",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fpan-eng%2Fuk"
+            },
+            {
+              "source": "hls",
+              "id": "s4",
+              "name": "beIN Sports",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fpan-eng%2Fbein"
+            },
+            {
+              "source": "hls",
+              "id": "s5",
+              "name": "DAZN Spain",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fpan-eng%2Fdazn-spain"
+            },
+            {
+              "source": "hls",
+              "id": "s6",
+              "name": "Telemundo",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fpan-eng%2Ftelemundo"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "FOX USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-54"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "FOXNY USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-768"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "ITV 1 UK",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-350"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "RTE 2 Ireland",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-365"
+            },
+            {
+              "source": "hls",
+              "id": "ch5",
+              "name": "RPC Panama",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-26"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fpan-eng",
+          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fpan-eng"
+        },
+        {
+          "id": "wc/2026-06-27/col-por",
+          "name": "Colombia vs. Portugal",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/u6lsyr1775058367.jpg",
+          "starts_at": 1782603000,
+          "ends_at": 1782613800,
+          "category_name": "football",
+          "status": "upcoming",
+          "league": "FIFA World Cup 2026",
+          "teams": {
+            "home": {
+              "name": "Colombia",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png"
+            },
+            "away": {
+              "name": "Portugal",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png"
+            }
+          },
+          "uri_name": "wc/2026-06-27/col-por",
+          "viewers": 2,
+          "always_live": 0,
+          "tag": "FIFA World Cup 2026",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcol-por"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "FOX",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcol-por%2Ffox"
+            },
+            {
+              "source": "hls",
+              "id": "s3",
+              "name": "BBC/ITV",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcol-por%2Fuk"
+            },
+            {
+              "source": "hls",
+              "id": "s4",
+              "name": "beIN Sports",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcol-por%2Fbein"
+            },
+            {
+              "source": "hls",
+              "id": "s5",
+              "name": "DAZN Spain",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcol-por%2Fdazn-spain"
+            },
+            {
+              "source": "hls",
+              "id": "s6",
+              "name": "Telemundo",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcol-por%2Ftelemundo"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "FOX USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-54"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "FOXNY USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-768"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "RTE 2 Ireland",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-365"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "BBC One UK",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-356"
+            },
+            {
+              "source": "hls",
+              "id": "ch5",
+              "name": "Caracol TV Colombia",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-245"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcol-por",
+          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcol-por"
+        },
+        {
+          "id": "wc/2026-06-27/cod-uzb",
+          "name": "Congo DR vs. Uzbekistan",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/pibln91775058388.jpg",
+          "starts_at": 1782603000,
+          "ends_at": 1782613800,
+          "category_name": "football",
+          "status": "upcoming",
+          "league": "FIFA World Cup 2026",
+          "teams": {
+            "home": {
+              "name": "Congo DR",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/s85jjw1728749022.png"
+            },
+            "away": {
+              "name": "Uzbekistan",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/u5bgze1597943605.png"
+            }
+          },
+          "uri_name": "wc/2026-06-27/cod-uzb",
+          "viewers": 1,
+          "always_live": 0,
+          "tag": "FIFA World Cup 2026",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcod-uzb"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "FS1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcod-uzb%2Ffox"
+            },
+            {
+              "source": "hls",
+              "id": "s3",
+              "name": "BBC/ITV",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcod-uzb%2Fuk"
+            },
+            {
+              "source": "hls",
+              "id": "s4",
+              "name": "beIN Sports",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcod-uzb%2Fbein"
+            },
+            {
+              "source": "hls",
+              "id": "s5",
+              "name": "DAZN Spain",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcod-uzb%2Fdazn-spain"
+            },
+            {
+              "source": "hls",
+              "id": "s6",
+              "name": "Telemundo",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcod-uzb%2Ftelemundo"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "Fox Sports 1 USA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-39"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "NBC UNIVERSO",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-845"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "BBC Two UK",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-357"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "TSN2",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-112"
+            },
+            {
+              "source": "hls",
+              "id": "ch5",
+              "name": "RDS 2 CA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-840"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcod-uzb",
+          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fcod-uzb"
+        },
+        {
+          "id": "wc/2026-06-27/alg-aut",
+          "name": "Algeria vs. Austria",
+          "poster": "https://api.ppv.to/assets/thumb/6a9fed8dd51154c365c59daa708d1a07-thumbnail.jpg",
+          "starts_at": 1782612000,
+          "ends_at": 1782622800,
+          "category_name": "football",
+          "status": "upcoming",
+          "league": "FIFA World Cup 2026",
+          "teams": {
+            "home": {
+              "name": "Algeria",
+              "badge": ""
+            },
+            "away": {
+              "name": "Austria",
+              "badge": ""
+            }
+          },
+          "uri_name": "wc/2026-06-27/alg-aut",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "FIFA World Cup 2026",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Falg-aut"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "FS1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Falg-aut%2Ffox"
+            },
+            {
+              "source": "hls",
+              "id": "s3",
+              "name": "BBC/ITV",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Falg-aut%2Fuk"
+            },
+            {
+              "source": "hls",
+              "id": "s4",
+              "name": "beIN Sports",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Falg-aut%2Fbein"
+            },
+            {
+              "source": "hls",
+              "id": "s5",
+              "name": "DAZN Spain",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Falg-aut%2Fdazn-spain"
+            },
+            {
+              "source": "hls",
+              "id": "s6",
+              "name": "Telemundo",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Falg-aut%2Ftelemundo"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Falg-aut",
+          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Falg-aut"
+        },
+        {
+          "id": "wc/2026-06-27/jor-arg",
+          "name": "Jordan vs. Argentina",
+          "poster": "https://api.ppv.to/assets/thumb/9c2ca361a5b0d9a81be50ca52365f522-thumbnail.jpg",
+          "starts_at": 1782612000,
+          "ends_at": 1782622800,
+          "category_name": "football",
+          "status": "upcoming",
+          "league": "FIFA World Cup 2026",
+          "teams": {
+            "home": {
+              "name": "Jordan",
+              "badge": ""
+            },
+            "away": {
+              "name": "Argentina",
+              "badge": ""
+            }
+          },
+          "uri_name": "wc/2026-06-27/jor-arg",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "FIFA World Cup 2026",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fjor-arg"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "FOX",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fjor-arg%2Ffox"
+            },
+            {
+              "source": "hls",
+              "id": "s3",
+              "name": "BBC/ITV",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fjor-arg%2Fuk"
+            },
+            {
+              "source": "hls",
+              "id": "s4",
+              "name": "beIN Sports",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fjor-arg%2Fbein"
+            },
+            {
+              "source": "hls",
+              "id": "s5",
+              "name": "DAZN Spain",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fjor-arg%2Fdazn-spain"
+            },
+            {
+              "source": "hls",
+              "id": "s6",
+              "name": "Telemundo",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fjor-arg%2Ftelemundo"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fjor-arg",
+          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-27%2Fjor-arg"
+        },
+        {
+          "id": "wc/2026-06-28/rsa-can",
+          "name": "South Africa vs. Canada",
+          "poster": "https://api.ppv.to/assets/thumb/88155c49b58b2063d2e141c09cd19f95-thumbnail.jpg",
+          "starts_at": 1782673200,
+          "ends_at": 1782684000,
+          "category_name": "football",
+          "status": "upcoming",
+          "league": "FIFA World Cup 2026",
+          "teams": {
+            "home": {
+              "name": "South Africa",
+              "badge": ""
+            },
+            "away": {
+              "name": "Canada",
+              "badge": ""
+            }
+          },
+          "uri_name": "wc/2026-06-28/rsa-can",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "FIFA World Cup 2026",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-28%2Frsa-can"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "FOX",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-28%2Frsa-can%2Ffox"
+            },
+            {
+              "source": "hls",
+              "id": "s3",
+              "name": "BBC/ITV",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-28%2Frsa-can%2Fuk"
+            },
+            {
+              "source": "hls",
+              "id": "s4",
+              "name": "beIN Sports",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-28%2Frsa-can%2Fbein"
+            },
+            {
+              "source": "hls",
+              "id": "s5",
+              "name": "DAZN Spain",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-28%2Frsa-can%2Fdazn-spain"
+            },
+            {
+              "source": "hls",
+              "id": "s6",
+              "name": "Telemundo",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-28%2Frsa-can%2Ftelemundo"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-06-28%2Frsa-can",
+          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-06-28%2Frsa-can"
+        }
+      ]
+    },
+    {
+      "category": "hockey",
+      "id": 7,
+      "streams": [
+        {
+          "id": "2026-nhl-draft--rounds-2-7",
+          "name": "2026 NHL Draft | Rounds 2-7",
+          "poster": "https://api.ppv.to/assets/thumb/9a778bd40435ea2a0e8f55fa2ee0ac98-thumbnail.jpg",
+          "starts_at": 1782572400,
+          "ends_at": 1782583200,
+          "category_name": "hockey",
+          "status": "upcoming",
+          "league": "NHL",
+          "teams": {
+            "home": {
+              "name": "2026 NHL Draft | Rounds 2-7",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "2026-nhl-draft--rounds-2-7",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "NHL",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=2026-nhl-draft--rounds-2-7"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=2026-nhl-draft--rounds-2-7",
+          "embed": "https://dami-tv.pro/embed/?id=2026-nhl-draft--rounds-2-7"
+        }
+      ]
+    },
+    {
+      "category": "motor-sports",
+      "id": 8,
+      "streams": [
+        {
+          "id": "f1/2026/austria/fp3",
+          "name": "Austrian Grand Prix - Practice 3",
+          "poster": "https://api.ppv.to/assets/thumb/c0d8fb094b045a9fc120a74a36234887-thumbnail.jpg",
+          "starts_at": 1782556200,
+          "ends_at": 1782567000,
+          "category_name": "motor-sports",
+          "status": "upcoming",
+          "league": "Motorsports",
+          "teams": {
+            "home": {
+              "name": "Austrian Grand Prix - Practice 3",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "f1/2026/austria/fp3",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "Motorsports",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=f1%2F2026%2Faustria%2Ffp3"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "Apple TV (F1TV)",
+              "embed": "https://dami-tv.pro/embed/?id=f1%2F2026%2Faustria%2Ffp3%2Ff1tv"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=f1%2F2026%2Faustria%2Ffp3",
+          "embed": "https://dami-tv.pro/embed/?id=f1%2F2026%2Faustria%2Ffp3"
+        },
+        {
+          "id": "f1/2026/austria/qualifying",
+          "name": "Austrian Grand Prix - Qualifying",
+          "poster": "https://api.ppv.to/assets/thumb/c512ae2ea1ef8f7f44dacbbe6c557c2b-thumbnail.jpg",
+          "starts_at": 1782568800,
+          "ends_at": 1782579600,
+          "category_name": "motor-sports",
+          "status": "upcoming",
+          "league": "Motorsports",
+          "teams": {
+            "home": {
+              "name": "Austrian Grand Prix - Qualifying",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "f1/2026/austria/qualifying",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "Motorsports",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=f1%2F2026%2Faustria%2Fqualifying"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "Apple TV (F1TV)",
+              "embed": "https://dami-tv.pro/embed/?id=f1%2F2026%2Faustria%2Fqualifying%2Ff1tv"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=f1%2F2026%2Faustria%2Fqualifying",
+          "embed": "https://dami-tv.pro/embed/?id=f1%2F2026%2Faustria%2Fqualifying"
+        },
+        {
+          "id": "f1/2026/austria/race",
+          "name": "Austrian Grand Prix - Race",
+          "poster": "https://api.ppv.to/assets/thumb/4f314c3226507cd4c6d2d195a67fc728-thumbnail.jpg",
+          "starts_at": 1782651600,
+          "ends_at": 1782662400,
+          "category_name": "motor-sports",
+          "status": "upcoming",
+          "league": "Motorsports",
+          "teams": {
+            "home": {
+              "name": "Austrian Grand Prix - Race",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "f1/2026/austria/race",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "Motorsports",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=f1%2F2026%2Faustria%2Frace"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "Apple TV (F1TV)",
+              "embed": "https://dami-tv.pro/embed/?id=f1%2F2026%2Faustria%2Frace%2Ff1tv"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=f1%2F2026%2Faustria%2Frace",
+          "embed": "https://dami-tv.pro/embed/?id=f1%2F2026%2Faustria%2Frace"
+        }
+      ]
+    },
+    {
+      "category": "rugby",
+      "id": 9,
+      "streams": [
+        {
+          "id": "nrl/2026-06-27/nor-pen",
+          "name": "Cowboys vs. Panthers",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/ueio581771495281.jpg",
+          "starts_at": 1782545400,
+          "ends_at": 1782556200,
+          "category_name": "rugby",
+          "status": "live",
+          "league": "NRL",
+          "teams": {
+            "home": {
+              "name": "Cowboys",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/q6xu7c1646347820.png"
+            },
+            "away": {
+              "name": "Panthers",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/239jb41552073712.png"
+            }
+          },
+          "uri_name": "nrl/2026-06-27/nor-pen",
+          "viewers": 3,
+          "always_live": 0,
+          "tag": "NRL",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=nrl%2F2026-06-27%2Fnor-pen"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "Sky Sports Action UK",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-37"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "beIN Sports 3 France",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-118"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "Sky Sport 1 NZ",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-588"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "Backup Stream",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-2019"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=nrl%2F2026-06-27%2Fnor-pen",
+          "embed": "https://dami-tv.pro/embed/?id=nrl%2F2026-06-27%2Fnor-pen"
+        },
+        {
+          "id": "nrl/2026-06-27/man-mel",
+          "name": "Sea Eagles vs. Storm",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/l6pwkk1768513222.jpg",
+          "starts_at": 1782552900,
+          "ends_at": 1782563700,
+          "category_name": "rugby",
+          "status": "upcoming",
+          "league": "NRL",
+          "teams": {
+            "home": {
+              "name": "Sea Eagles",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/1ok3661646347740.png"
+            },
+            "away": {
+              "name": "Storm",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/hpdn401646347751.png"
+            }
+          },
+          "uri_name": "nrl/2026-06-27/man-mel",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "NRL",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=nrl%2F2026-06-27%2Fman-mel"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "Sky Sports Action UK",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-37"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Sky Sport 3 NZ",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-590"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "SPORT1+ DE",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-640"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "Backup Stream",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-2020"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=nrl%2F2026-06-27%2Fman-mel",
+          "embed": "https://dami-tv.pro/embed/?id=nrl%2F2026-06-27%2Fman-mel"
+        },
+        {
+          "id": "nrl/2026-06-28/can-st.",
+          "name": "Raiders vs. Dragons",
+          "poster": "https://api.ppv.to/assets/thumb/7865afb1eccc50bb60446531f3443094-thumbnail.jpg",
+          "starts_at": 1782619200,
+          "ends_at": 1782630000,
+          "category_name": "rugby",
+          "status": "upcoming",
+          "league": "NRL",
+          "teams": {
+            "home": {
+              "name": "Raiders",
+              "badge": ""
+            },
+            "away": {
+              "name": "Dragons",
+              "badge": ""
+            }
+          },
+          "uri_name": "nrl/2026-06-28/can-st.",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "NRL",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=nrl%2F2026-06-28%2Fcan-st."
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=nrl%2F2026-06-28%2Fcan-st.",
+          "embed": "https://dami-tv.pro/embed/?id=nrl%2F2026-06-28%2Fcan-st."
+        },
+        {
+          "id": "nrl/2026-06-28/new-wes",
+          "name": "Knights vs. Wests Tigers",
+          "poster": "https://api.ppv.to/assets/thumb/4c57dd01b2423834a377ecf8c69621dd-thumbnail.jpg",
+          "starts_at": 1782626700,
+          "ends_at": 1782637500,
+          "category_name": "rugby",
+          "status": "upcoming",
+          "league": "NRL",
+          "teams": {
+            "home": {
+              "name": "Knights",
+              "badge": ""
+            },
+            "away": {
+              "name": "Wests Tigers",
+              "badge": ""
+            }
+          },
+          "uri_name": "nrl/2026-06-28/new-wes",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "NRL",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=nrl%2F2026-06-28%2Fnew-wes"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=nrl%2F2026-06-28%2Fnew-wes",
+          "embed": "https://dami-tv.pro/embed/?id=nrl%2F2026-06-28%2Fnew-wes"
+        }
+      ]
+    },
+    {
+      "category": "volleyball",
+      "id": 10,
+      "streams": [
+        {
+          "id": "mensvnl/2026-06-27/bul-can",
+          "name": "Bulgaria vs. Canada",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/jjzbit1773067162.jpg",
+          "starts_at": 1782570600,
+          "ends_at": 1782581400,
+          "category_name": "volleyball",
+          "status": "upcoming",
+          "league": "Volleyball",
+          "teams": {
+            "home": {
+              "name": "Bulgaria",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ppry4w1625189456.png"
+            },
+            "away": {
+              "name": "Canada",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/we9m741625103188.png"
+            }
+          },
+          "uri_name": "mensvnl/2026-06-27/bul-can",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "Volleyball",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Fbul-can"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "CBC CA",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-832"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Polsat Sport Extra 1 Poland",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-993"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Fbul-can",
+          "embed": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Fbul-can"
+        },
+        {
+          "id": "mensvnl/2026-06-27/pol-ger",
+          "name": "Poland vs. Germany",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/nidfim1773067163.jpg",
+          "starts_at": 1782572400,
+          "ends_at": 1782583200,
+          "category_name": "volleyball",
+          "status": "upcoming",
+          "league": "Volleyball",
+          "teams": {
+            "home": {
+              "name": "Poland",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/7so3hv1746714784.png"
+            },
+            "away": {
+              "name": "Germany",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/o6gfrd1625193992.png"
+            }
+          },
+          "uri_name": "mensvnl/2026-06-27/pol-ger",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "Volleyball",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Fpol-ger"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "Polsat Sport 1 Poland",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-47"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Arena 4 Premium Serbia",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-6"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "Polsat Sport Extra 2 Poland",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-994"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "Sport Klub 6 Croatia",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-18"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Fpol-ger",
+          "embed": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Fpol-ger"
+        },
+        {
+          "id": "mensvnl/2026-06-27/usa-jap",
+          "name": "USA vs. Japan",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/tdabx51773067164.jpg",
+          "starts_at": 1782572400,
+          "ends_at": 1782583200,
+          "category_name": "volleyball",
+          "status": "upcoming",
+          "league": "Volleyball",
+          "teams": {
+            "home": {
+              "name": "USA",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/rxcfp71625103654.png"
+            },
+            "away": {
+              "name": "Japan",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/5pu5yx1731259433.png"
+            }
+          },
+          "uri_name": "mensvnl/2026-06-27/usa-jap",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "Volleyball",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Fusa-jap"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "Polsat Sport 2 Poland",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-50"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Arena 2 Premium Serbia",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-135"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "Sportv2 Brazil",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-79"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "Sport Klub 4 Croatia",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-104"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Fusa-jap",
+          "embed": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Fusa-jap"
+        },
+        {
+          "id": "mensvnl/2026-06-27/fra-ser",
+          "name": "France vs. Serbia",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/v6tnf61773067165.jpg",
+          "starts_at": 1782585000,
+          "ends_at": 1782595800,
+          "category_name": "volleyball",
+          "status": "upcoming",
+          "league": "Volleyball",
+          "teams": {
+            "home": {
+              "name": "France",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/2l8sqo1731259473.png"
+            },
+            "away": {
+              "name": "Serbia",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/tovlxv1676201778.png"
+            }
+          },
+          "uri_name": "mensvnl/2026-06-27/fra-ser",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "Volleyball",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Ffra-ser"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "Polsat Sport 3 Poland",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-129"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Arena 2 Premium Serbia",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-135"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "MAX Sport 1 Bulgaria",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-472"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "Sport Klub 4 Croatia",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-104"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Ffra-ser",
+          "embed": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Ffra-ser"
+        },
+        {
+          "id": "mensvnl/2026-06-27/slo-bra",
+          "name": "Slovenia vs. Brazil",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/3wurjs1773067166.jpg",
+          "starts_at": 1782585000,
+          "ends_at": 1782595800,
+          "category_name": "volleyball",
+          "status": "upcoming",
+          "league": "Volleyball",
+          "teams": {
+            "home": {
+              "name": "Slovenia",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/66c65i1625195151.png"
+            },
+            "away": {
+              "name": "Brazil",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/eitgyw1625103089.png"
+            }
+          },
+          "uri_name": "mensvnl/2026-06-27/slo-bra",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "Volleyball",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Fslo-bra"
+            },
+            {
+              "source": "hls",
+              "id": "ch1",
+              "name": "Polsat Sport 2 Poland",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-50"
+            },
+            {
+              "source": "hls",
+              "id": "ch2",
+              "name": "Sportv2 Brazil",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-79"
+            },
+            {
+              "source": "hls",
+              "id": "ch3",
+              "name": "Arena 3 Premium Serbia",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-139"
+            },
+            {
+              "source": "hls",
+              "id": "ch4",
+              "name": "MAX Sport 3 Bulgaria",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-474"
+            },
+            {
+              "source": "hls",
+              "id": "ch5",
+              "name": "Sport Klub 3 Croatia",
+              "embed": "https://dami-tv.pro/embed/?ch=dlhd-103"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Fslo-bra",
+          "embed": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Fslo-bra"
+        },
+        {
+          "id": "mensvnl/2026-06-27/tür-arg",
+          "name": "Türkiye vs. Argentina",
+          "poster": "https://api.ppv.to/assets/thumb/3e71f91e5cbf297fa982cb4e482bb1bf-thumbnail.jpg",
+          "starts_at": 1782585000,
+          "ends_at": 1782595800,
+          "category_name": "volleyball",
+          "status": "upcoming",
+          "league": "Volleyball",
+          "teams": {
+            "home": {
+              "name": "Türkiye",
+              "badge": ""
+            },
+            "away": {
+              "name": "Argentina",
+              "badge": ""
+            }
+          },
+          "uri_name": "mensvnl/2026-06-27/tür-arg",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "Volleyball",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Ft%C3%BCr-arg"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Ft%C3%BCr-arg",
+          "embed": "https://dami-tv.pro/embed/?id=mensvnl%2F2026-06-27%2Ft%C3%BCr-arg"
+        }
+      ]
+    },
+    {
+      "category": "24/7-streams",
+      "id": 11,
+      "streams": [
+        {
+          "id": "247-south-park",
+          "name": "24/7 South Park",
+          "poster": "https://thumbs.poocloud.in/southpark/preview.jpg",
+          "starts_at": 1782545492,
+          "ends_at": 1782556292,
+          "category_name": "24/7-streams",
+          "status": "live",
+          "league": "24/7 Streams",
+          "teams": {
+            "home": {
+              "name": "24/7 South Park",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "247-south-park",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "24/7 Streams",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=247-south-park"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=247-south-park",
+          "embed": "https://dami-tv.pro/embed/?id=247-south-park"
+        },
+        {
+          "id": "247-cows",
+          "name": "24/7 COWS",
+          "poster": "https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",
+          "starts_at": 1782545492,
+          "ends_at": 1782556292,
+          "category_name": "24/7-streams",
+          "status": "live",
+          "league": "24/7 Streams",
+          "teams": {
+            "home": {
+              "name": "24/7 COWS",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "247-cows",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "24/7 Streams",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=247-cows"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=247-cows",
+          "embed": "https://dami-tv.pro/embed/?id=247-cows"
+        },
+        {
+          "id": "247-family-guy",
+          "name": "24/7 Family Guy",
+          "poster": "https://thumbs.poocloud.in/familyguy/preview.jpg",
+          "starts_at": 1782545492,
+          "ends_at": 1782556292,
+          "category_name": "24/7-streams",
+          "status": "live",
+          "league": "24/7 Streams",
+          "teams": {
+            "home": {
+              "name": "24/7 Family Guy",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "247-family-guy",
+          "viewers": 2,
+          "always_live": 0,
+          "tag": "24/7 Streams",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=247-family-guy"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=247-family-guy",
+          "embed": "https://dami-tv.pro/embed/?id=247-family-guy"
+        },
+        {
+          "id": "247-the-simpsons",
+          "name": "24/7 The Simpsons",
+          "poster": "https://thumbs.poocloud.in/thesimpsons/preview.jpg",
+          "starts_at": 1782545492,
+          "ends_at": 1782556292,
+          "category_name": "24/7-streams",
+          "status": "live",
+          "league": "24/7 Streams",
+          "teams": {
+            "home": {
+              "name": "24/7 The Simpsons",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "247-the-simpsons",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "24/7 Streams",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=247-the-simpsons"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=247-the-simpsons",
+          "embed": "https://dami-tv.pro/embed/?id=247-the-simpsons"
+        },
+        {
+          "id": "247-spongebob-squarepants",
+          "name": "24/7 SpongeBob Squarepants",
+          "poster": "https://api.ppv.to/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg",
+          "starts_at": 1782545492,
+          "ends_at": 1782556292,
+          "category_name": "24/7-streams",
+          "status": "live",
+          "league": "24/7 Streams",
+          "teams": {
+            "home": {
+              "name": "24/7 SpongeBob Squarepants",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "247-spongebob-squarepants",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "24/7 Streams",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=247-spongebob-squarepants"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=247-spongebob-squarepants",
+          "embed": "https://dami-tv.pro/embed/?id=247-spongebob-squarepants"
+        },
+        {
+          "id": "rally-tv",
+          "name": "Rally TV",
+          "poster": "https://api.ppv.to/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg",
+          "starts_at": 1782545492,
+          "ends_at": 1782556292,
+          "category_name": "24/7-streams",
+          "status": "live",
+          "league": "24/7 Streams",
+          "teams": {
+            "home": {
+              "name": "Rally TV",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "rally-tv",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "24/7 Streams",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=rally-tv"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=rally-tv",
+          "embed": "https://dami-tv.pro/embed/?id=rally-tv"
+        }
+      ]
+    }
   ]
 }
