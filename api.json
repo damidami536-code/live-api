@@ -1,51 +1,17 @@
 {
   "success": true,
-  "timestamp": 1783570222,
+  "timestamp": 1783692122,
   "READ_ME": "Free public API by DAMITV. Use embed URLs to show streams on your site. Raw m3u8 URLs are not provided. Contact: t.me/+DH8w27ZsWDViOGQ0",
-  "performance": 0.16,
+  "performance": 0.12,
   "streams": [
     {
       "category": "american-football",
       "id": 1,
       "streams": [
         {
-          "id": "cfl/2026-07-09/ott-edm",
-          "name": "Ottawa RedBlacks vs. Edmonton Elks",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/0b26oo1654273865.jpg",
-          "starts_at": 1783645200,
-          "ends_at": 1783656000,
-          "category_name": "american-football",
-          "status": "upcoming",
-          "league": "American Football",
-          "teams": {
-            "home": {
-              "name": "Ottawa RedBlacks",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/5icq721630952022.png"
-            },
-            "away": {
-              "name": "Edmonton Elks",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/k8wjz71546002654.png"
-            }
-          },
-          "uri_name": "cfl/2026-07-09/ott-edm",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "American Football",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=cfl%2F2026-07-09%2Fott-edm"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=cfl%2F2026-07-09%2Fott-edm",
-          "embed": "https://dami-tv.pro/embed/?id=cfl%2F2026-07-09%2Fott-edm"
-        },
-        {
           "id": "cfl/2026-07-10/tor-wpg",
           "name": "Toronto Argonauts vs. Winnipeg Blue Bombers",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/d26i651780299964.jpg",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/2x42d31713053110.jpg",
           "starts_at": 1783729800,
           "ends_at": 1783740600,
           "category_name": "american-football",
@@ -54,11 +20,11 @@
           "teams": {
             "home": {
               "name": "Toronto Argonauts",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png"
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/4bo4wj1561667273.png"
             },
             "away": {
               "name": "Winnipeg Blue Bombers",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/5a57ou1628555372.png"
             }
           },
           "uri_name": "cfl/2026-07-10/tor-wpg",
@@ -198,7 +164,7 @@
             }
           },
           "uri_name": "afle/2026-07-12/fir-ber",
-          "viewers": 0,
+          "viewers": 1,
           "always_live": 0,
           "tag": "American Football",
           "sources": [
@@ -287,40 +253,6 @@
       "id": 2,
       "streams": [
         {
-          "id": "afl/2026-07-09/fre-syd",
-          "name": "Fremantle vs. Sydney Swans",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/01chuj1656594065.jpg",
-          "starts_at": 1783591800,
-          "ends_at": 1783602600,
-          "category_name": "afl",
-          "status": "upcoming",
-          "league": "AFL",
-          "teams": {
-            "home": {
-              "name": "Fremantle",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/hw34ii1647870691.png"
-            },
-            "away": {
-              "name": "Sydney Swans",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ndeir91647870648.png"
-            }
-          },
-          "uri_name": "afl/2026-07-09/fre-syd",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "AFL",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=afl%2F2026-07-09%2Ffre-syd"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=afl%2F2026-07-09%2Ffre-syd",
-          "embed": "https://dami-tv.pro/embed/?id=afl%2F2026-07-09%2Ffre-syd"
-        },
-        {
           "id": "afl/2026-07-10/coll-nmfc",
           "name": "Collingwood vs. North Melbourne",
           "poster": "https://r2.thesportsdb.com/images/media/event/thumb/veerpe1656594059.jpg",
@@ -340,7 +272,7 @@
             }
           },
           "uri_name": "afl/2026-07-10/coll-nmfc",
-          "viewers": 0,
+          "viewers": 1,
           "always_live": 0,
           "tag": "AFL",
           "sources": [
@@ -599,399 +531,25 @@
       "id": 3,
       "streams": [
         {
-          "id": "mlb/2026-07-08/ari-sd",
-          "name": "Arizona Diamondbacks vs. San Diego Padres",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/66l8881780299965.jpg",
-          "starts_at": 1783562400,
-          "ends_at": 1783573200,
-          "category_name": "baseball",
-          "status": "live",
-          "league": "MLB",
-          "teams": {
-            "home": {
-              "name": "Arizona Diamondbacks",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
-            },
-            "away": {
-              "name": "San Diego Padres",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
-            }
-          },
-          "uri_name": "mlb/2026-07-08/ari-sd",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "MLB",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-08%2Fari-sd"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-08%2Fari-sd",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-08%2Fari-sd"
-        },
-        {
-          "id": "mlb/2026-07-08/col-lad",
-          "name": "Colorado Rockies vs. Los Angeles Dodgers",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/4y2i5i1780299968.jpg",
-          "starts_at": 1783563000,
-          "ends_at": 1783573800,
-          "category_name": "baseball",
-          "status": "live",
-          "league": "MLB",
-          "teams": {
-            "home": {
-              "name": "Colorado Rockies",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
-            },
-            "away": {
-              "name": "Los Angeles Dodgers",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
-            }
-          },
-          "uri_name": "mlb/2026-07-08/col-lad",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "MLB",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-08%2Fcol-lad"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-08%2Fcol-lad",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-08%2Fcol-lad"
-        },
-        {
-          "id": "mlb/2026-07-09/atl-pit",
-          "name": "Atlanta Braves vs. Pittsburgh Pirates",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/0pfijf1780299974.jpg",
-          "starts_at": 1783614900,
-          "ends_at": 1783625700,
-          "category_name": "baseball",
-          "status": "upcoming",
-          "league": "MLB",
-          "teams": {
-            "home": {
-              "name": "Atlanta Braves",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
-            },
-            "away": {
-              "name": "Pittsburgh Pirates",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
-            }
-          },
-          "uri_name": "mlb/2026-07-09/atl-pit",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "MLB",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fatl-pit"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fatl-pit",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fatl-pit"
-        },
-        {
-          "id": "mlb/2026-07-09/kc-nym",
-          "name": "Kansas City Royals vs. New York Mets",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/hf1tlf1780299980.jpg",
-          "starts_at": 1783617000,
-          "ends_at": 1783627800,
-          "category_name": "baseball",
-          "status": "upcoming",
-          "league": "MLB",
-          "teams": {
-            "home": {
-              "name": "Kansas City Royals",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png"
-            },
-            "away": {
-              "name": "New York Mets",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
-            }
-          },
-          "uri_name": "mlb/2026-07-09/kc-nym",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "MLB",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fkc-nym"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fkc-nym",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fkc-nym"
-        },
-        {
-          "id": "mlb/2026-07-09/nyy-tb",
-          "name": "New York Yankees vs. Tampa Bay Rays",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/78jiq21780299975.jpg",
-          "starts_at": 1783617000,
-          "ends_at": 1783627800,
-          "category_name": "baseball",
-          "status": "upcoming",
-          "league": "MLB",
-          "teams": {
-            "home": {
-              "name": "New York Yankees",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
-            },
-            "away": {
-              "name": "Tampa Bay Rays",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
-            }
-          },
-          "uri_name": "mlb/2026-07-09/nyy-tb",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "MLB",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fnyy-tb"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fnyy-tb",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fnyy-tb"
-        },
-        {
-          "id": "mlb/2026-07-09/chc-bal",
-          "name": "Chicago Cubs vs. Baltimore Orioles",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/hca8g41780299986.jpg",
-          "starts_at": 1783618500,
-          "ends_at": 1783629300,
-          "category_name": "baseball",
-          "status": "upcoming",
-          "league": "MLB",
-          "teams": {
-            "home": {
-              "name": "Chicago Cubs",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
-            },
-            "away": {
-              "name": "Baltimore Orioles",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
-            }
-          },
-          "uri_name": "mlb/2026-07-09/chc-bal",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "MLB",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fchc-bal"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fchc-bal",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fchc-bal"
-        },
-        {
-          "id": "mlb/2026-07-09/cle-min",
-          "name": "Cleveland Guardians vs. Minnesota Twins",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/lnr4on1780299981.jpg",
-          "starts_at": 1783618800,
-          "ends_at": 1783629600,
-          "category_name": "baseball",
-          "status": "upcoming",
-          "league": "MLB",
-          "teams": {
-            "home": {
-              "name": "Cleveland Guardians",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
-            },
-            "away": {
-              "name": "Minnesota Twins",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
-            }
-          },
-          "uri_name": "mlb/2026-07-09/cle-min",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "MLB",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fcle-min"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fcle-min",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fcle-min"
-        },
-        {
-          "id": "mlb/2026-07-09/bos-chw",
-          "name": "Boston Red Sox vs. Chicago White Sox",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/ll14n41780299986.jpg",
-          "starts_at": 1783620600,
-          "ends_at": 1783631400,
-          "category_name": "baseball",
-          "status": "upcoming",
-          "league": "MLB",
-          "teams": {
-            "home": {
-              "name": "Boston Red Sox",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
-            },
-            "away": {
-              "name": "Chicago White Sox",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
-            }
-          },
-          "uri_name": "mlb/2026-07-09/bos-chw",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "MLB",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fbos-chw"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fbos-chw",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fbos-chw"
-        },
-        {
-          "id": "mlb/2026-07-09/ath-det",
-          "name": "Athletics vs. Detroit Tigers",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/y4n0x61780299984.jpg",
-          "starts_at": 1783636800,
-          "ends_at": 1783647600,
-          "category_name": "baseball",
-          "status": "upcoming",
-          "league": "MLB",
-          "teams": {
-            "home": {
-              "name": "Athletics",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
-            },
-            "away": {
-              "name": "Detroit Tigers",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
-            }
-          },
-          "uri_name": "mlb/2026-07-09/ath-det",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "MLB",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fath-det"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fath-det",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fath-det"
-        },
-        {
-          "id": "mlb/2026-07-09/sea-mia",
-          "name": "Seattle Mariners vs. Miami Marlins",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/vze5uy1780299982.jpg",
-          "starts_at": 1783636800,
-          "ends_at": 1783647600,
-          "category_name": "baseball",
-          "status": "upcoming",
-          "league": "MLB",
-          "teams": {
-            "home": {
-              "name": "Seattle Mariners",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png"
-            },
-            "away": {
-              "name": "Miami Marlins",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png"
-            }
-          },
-          "uri_name": "mlb/2026-07-09/sea-mia",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "MLB",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fsea-mia"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fsea-mia",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fsea-mia"
-        },
-        {
-          "id": "mlb/2026-07-09/phi-cin",
-          "name": "Philadelphia Phillies vs. Cincinnati Reds",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/vja7bj1780299985.jpg",
-          "starts_at": 1783638600,
-          "ends_at": 1783649400,
-          "category_name": "baseball",
-          "status": "upcoming",
-          "league": "MLB",
-          "teams": {
-            "home": {
-              "name": "Philadelphia Phillies",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
-            },
-            "away": {
-              "name": "Cincinnati Reds",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
-            }
-          },
-          "uri_name": "mlb/2026-07-09/phi-cin",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "MLB",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fphi-cin"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fphi-cin",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fphi-cin"
-        },
-        {
-          "id": "mlb/2026-07-09/mil-stl",
-          "name": "Milwaukee Brewers vs. St. Louis Cardinals",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/983nbp1780299976.jpg",
-          "starts_at": 1783640700,
-          "ends_at": 1783651500,
+          "id": "mlb/2026-07-10/mil-pit",
+          "name": "Milwaukee Brewers vs. Pittsburgh Pirates",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/dr146v1780299999.jpg",
+          "starts_at": 1783723200,
+          "ends_at": 1783734000,
           "category_name": "baseball",
           "status": "upcoming",
           "league": "MLB",
           "teams": {
             "home": {
               "name": "Milwaukee Brewers",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
             },
             "away": {
-              "name": "St. Louis Cardinals",
+              "name": "Pittsburgh Pirates",
               "badge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
             }
           },
-          "uri_name": "mlb/2026-07-09/mil-stl",
+          "uri_name": "mlb/2026-07-10/mil-pit",
           "viewers": 0,
           "always_live": 0,
           "tag": "MLB",
@@ -1000,32 +558,338 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fmil-stl"
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fmil-pit"
             }
           ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fmil-stl",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fmil-stl"
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fmil-pit",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fmil-pit"
         },
         {
-          "id": "mlb/2026-07-09/laa-tex",
-          "name": "Los Angeles Angels vs. Texas Rangers",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/ef6qrs1780299962.jpg",
-          "starts_at": 1783641900,
-          "ends_at": 1783652700,
+          "id": "mlb/2026-07-10/phi-det",
+          "name": "Philadelphia Phillies vs. Detroit Tigers",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/5y6lk91783101522.jpg",
+          "starts_at": 1783723200,
+          "ends_at": 1783734000,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Philadelphia Phillies",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/j6rlbi1778226857.png"
+            },
+            "away": {
+              "name": "Detroit Tigers",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png"
+            }
+          },
+          "uri_name": "mlb/2026-07-10/phi-det",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fphi-det"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fphi-det",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fphi-det"
+        },
+        {
+          "id": "mlb/2026-07-10/nyy-wsh",
+          "name": "New York Yankees vs. Washington Nationals",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/nl20p11780300000.jpg",
+          "starts_at": 1783723500,
+          "ends_at": 1783734300,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "New York Yankees",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png"
+            },
+            "away": {
+              "name": "Washington Nationals",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
+            }
+          },
+          "uri_name": "mlb/2026-07-10/nyy-wsh",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fnyy-wsh"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fnyy-wsh",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fnyy-wsh"
+        },
+        {
+          "id": "mlb/2026-07-10/kc-bal",
+          "name": "Kansas City Royals vs. Baltimore Orioles",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/2v1k2z1780300005.jpg",
+          "starts_at": 1783724700,
+          "ends_at": 1783735500,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Kansas City Royals",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
+            },
+            "away": {
+              "name": "Baltimore Orioles",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
+            }
+          },
+          "uri_name": "mlb/2026-07-10/kc-bal",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fkc-bal"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fkc-bal",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fkc-bal"
+        },
+        {
+          "id": "mlb/2026-07-10/chc-cin",
+          "name": "Chicago Cubs vs. Cincinnati Reds",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/6ib1991780300011.jpg",
+          "starts_at": 1783725000,
+          "ends_at": 1783735800,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Chicago Cubs",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
+            },
+            "away": {
+              "name": "Cincinnati Reds",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+            }
+          },
+          "uri_name": "mlb/2026-07-10/chc-cin",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fchc-cin"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fchc-cin",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fchc-cin"
+        },
+        {
+          "id": "mlb/2026-07-10/cle-mia",
+          "name": "Cleveland Guardians vs. Miami Marlins",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/dcv7di1780300008.jpg",
+          "starts_at": 1783725000,
+          "ends_at": 1783735800,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Cleveland Guardians",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png"
+            },
+            "away": {
+              "name": "Miami Marlins",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
+            }
+          },
+          "uri_name": "mlb/2026-07-10/cle-mia",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fcle-mia"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fcle-mia",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fcle-mia"
+        },
+        {
+          "id": "mlb/2026-07-10/sea-tb",
+          "name": "Seattle Mariners vs. Tampa Bay Rays",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/597ggm1780300002.jpg",
+          "starts_at": 1783725000,
+          "ends_at": 1783735800,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Seattle Mariners",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
+            },
+            "away": {
+              "name": "Tampa Bay Rays",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png"
+            }
+          },
+          "uri_name": "mlb/2026-07-10/sea-tb",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fsea-tb"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fsea-tb",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fsea-tb"
+        },
+        {
+          "id": "mlb/2026-07-10/bos-nym",
+          "name": "Boston Red Sox vs. New York Mets",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/i7fmul1780300007.jpg",
+          "starts_at": 1783725300,
+          "ends_at": 1783736100,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Boston Red Sox",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png"
+            },
+            "away": {
+              "name": "New York Mets",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
+            }
+          },
+          "uri_name": "mlb/2026-07-10/bos-nym",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fbos-nym"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fbos-nym",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fbos-nym"
+        },
+        {
+          "id": "mlb/2026-07-10/ath-chw",
+          "name": "Athletics vs. Chicago White Sox",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/o0mrw91780300012.jpg",
+          "starts_at": 1783726800,
+          "ends_at": 1783737600,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Athletics",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
+            },
+            "away": {
+              "name": "Chicago White Sox",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
+            }
+          },
+          "uri_name": "mlb/2026-07-10/ath-chw",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fath-chw"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fath-chw",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fath-chw"
+        },
+        {
+          "id": "mlb/2026-07-10/hou-tex",
+          "name": "Houston Astros vs. Texas Rangers",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/06jszf1780300001.jpg",
+          "starts_at": 1783728300,
+          "ends_at": 1783739100,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Houston Astros",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png"
+            },
+            "away": {
+              "name": "Texas Rangers",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
+            }
+          },
+          "uri_name": "mlb/2026-07-10/hou-tex",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fhou-tex"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fhou-tex",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fhou-tex"
+        },
+        {
+          "id": "mlb/2026-07-10/laa-min",
+          "name": "Los Angeles Angels vs. Minnesota Twins",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/t7o7li1780300007.jpg",
+          "starts_at": 1783728600,
+          "ends_at": 1783739400,
           "category_name": "baseball",
           "status": "upcoming",
           "league": "MLB",
           "teams": {
             "home": {
               "name": "Los Angeles Angels",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png"
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
             },
             "away": {
-              "name": "Texas Rangers",
+              "name": "Minnesota Twins",
               "badge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png"
             }
           },
-          "uri_name": "mlb/2026-07-09/laa-tex",
+          "uri_name": "mlb/2026-07-10/laa-min",
           "viewers": 0,
           "always_live": 0,
           "tag": "MLB",
@@ -1034,32 +898,100 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Flaa-tex"
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Flaa-min"
             }
           ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Flaa-tex",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Flaa-tex"
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Flaa-min",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Flaa-min"
         },
         {
-          "id": "mlb/2026-07-09/ari-sd",
-          "name": "Arizona Diamondbacks vs. San Diego Padres",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/66l8881780299965.jpg",
-          "starts_at": 1783647600,
-          "ends_at": 1783658400,
+          "id": "mlb/2026-07-10/atl-stl",
+          "name": "Atlanta Braves vs. St. Louis Cardinals",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/w8e27i1780300003.jpg",
+          "starts_at": 1783728900,
+          "ends_at": 1783739700,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Atlanta Braves",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
+            },
+            "away": {
+              "name": "St. Louis Cardinals",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
+            }
+          },
+          "uri_name": "mlb/2026-07-10/atl-stl",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fatl-stl"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fatl-stl",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fatl-stl"
+        },
+        {
+          "id": "mlb/2026-07-10/tor-sd",
+          "name": "Toronto Blue Jays vs. San Diego Padres",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/hj1nsm1780300005.jpg",
+          "starts_at": 1783734000,
+          "ends_at": 1783744800,
+          "category_name": "baseball",
+          "status": "upcoming",
+          "league": "MLB",
+          "teams": {
+            "home": {
+              "name": "Toronto Blue Jays",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
+            },
+            "away": {
+              "name": "San Diego Padres",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
+            }
+          },
+          "uri_name": "mlb/2026-07-10/tor-sd",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "MLB",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Ftor-sd"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Ftor-sd",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Ftor-sd"
+        },
+        {
+          "id": "mlb/2026-07-10/ari-lad",
+          "name": "Arizona Diamondbacks vs. Los Angeles Dodgers",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/krdpc61780300009.jpg",
+          "starts_at": 1783735800,
+          "ends_at": 1783746600,
           "category_name": "baseball",
           "status": "upcoming",
           "league": "MLB",
           "teams": {
             "home": {
               "name": "Arizona Diamondbacks",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
             },
             "away": {
-              "name": "San Diego Padres",
+              "name": "Los Angeles Dodgers",
               "badge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
             }
           },
-          "uri_name": "mlb/2026-07-09/ari-sd",
+          "uri_name": "mlb/2026-07-10/ari-lad",
           "viewers": 0,
           "always_live": 0,
           "tag": "MLB",
@@ -1068,18 +1000,18 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fari-sd"
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fari-lad"
             }
           ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fari-sd",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fari-sd"
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fari-lad",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fari-lad"
         },
         {
-          "id": "mlb/2026-07-09/col-sf",
+          "id": "mlb/2026-07-10/col-sf",
           "name": "Colorado Rockies vs. San Francisco Giants",
           "poster": "https://r2.thesportsdb.com/images/media/event/thumb/qjao7y1780299990.jpg",
-          "starts_at": 1783647900,
-          "ends_at": 1783658700,
+          "starts_at": 1783736100,
+          "ends_at": 1783746900,
           "category_name": "baseball",
           "status": "upcoming",
           "league": "MLB",
@@ -1093,7 +1025,7 @@
               "badge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
             }
           },
-          "uri_name": "mlb/2026-07-09/col-sf",
+          "uri_name": "mlb/2026-07-10/col-sf",
           "viewers": 0,
           "always_live": 0,
           "tag": "MLB",
@@ -1102,11 +1034,11 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fcol-sf"
+              "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fcol-sf"
             }
           ],
-          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fcol-sf",
-          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-09%2Fcol-sf"
+          "iframe": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fcol-sf",
+          "embed": "https://dami-tv.pro/embed/?id=mlb%2F2026-07-10%2Fcol-sf"
         }
       ]
     },
@@ -1114,380 +1046,6 @@
       "category": "basketball",
       "id": 4,
       "streams": [
-        {
-          "id": "wnba/2026-07-08/ind-la",
-          "name": "Indiana Fever vs. Los Angeles Sparks",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/zg7y4d1651998454.jpg",
-          "starts_at": 1783562400,
-          "ends_at": 1783573200,
-          "category_name": "basketball",
-          "status": "live",
-          "league": "WNBA",
-          "teams": {
-            "home": {
-              "name": "Indiana Fever",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/j70g2o1624031498.png"
-            },
-            "away": {
-              "name": "Los Angeles Sparks",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/9xp4y31552586027.png"
-            }
-          },
-          "uri_name": "wnba/2026-07-08/ind-la",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "WNBA",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-08%2Find-la"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-08%2Find-la",
-          "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-08%2Find-la"
-        },
-        {
-          "id": "nba/2026-07-09/min-no",
-          "name": "Minnesota Timberwolves vs. New Orleans Pelicans",
-          "poster": "https://www.thesportsdb.com/images/media/event/thumb/xsrtnl1783101518.jpg",
-          "starts_at": 1783625400,
-          "ends_at": 1783636200,
-          "category_name": "basketball",
-          "status": "upcoming",
-          "league": "NBA",
-          "teams": {
-            "home": {
-              "name": "Minnesota Timberwolves",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/xoxjsr1778226698.png"
-            },
-            "away": {
-              "name": "New Orleans Pelicans",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/epenxg1781034811.png"
-            }
-          },
-          "uri_name": "nba/2026-07-09/min-no",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "NBA",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fmin-no"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fmin-no",
-          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fmin-no"
-        },
-        {
-          "id": "nba/2026-07-09/sa-atl",
-          "name": "San Antonio Spurs vs. Atlanta Hawks",
-          "poster": "https://www.thesportsdb.com/images/media/event/thumb/z6bna01783101520.jpg",
-          "starts_at": 1783629000,
-          "ends_at": 1783639800,
-          "category_name": "basketball",
-          "status": "upcoming",
-          "league": "NBA",
-          "teams": {
-            "home": {
-              "name": "San Antonio Spurs",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/7o1noy1778226315.png"
-            },
-            "away": {
-              "name": "Atlanta Hawks",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png"
-            }
-          },
-          "uri_name": "nba/2026-07-09/sa-atl",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "NBA",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fsa-atl"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fsa-atl",
-          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fsa-atl"
-        },
-        {
-          "id": "nba/2026-07-09/det-phi",
-          "name": "Detroit Pistons vs. Philadelphia 76ers",
-          "poster": "https://www.thesportsdb.com/images/media/event/thumb/5y6lk91783101522.jpg",
-          "starts_at": 1783632600,
-          "ends_at": 1783643400,
-          "category_name": "basketball",
-          "status": "upcoming",
-          "league": "NBA",
-          "teams": {
-            "home": {
-              "name": "Detroit Pistons",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/j6rlbi1778226857.png"
-            },
-            "away": {
-              "name": "Philadelphia 76ers",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png"
-            }
-          },
-          "uri_name": "nba/2026-07-09/det-phi",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "NBA",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fdet-phi"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fdet-phi",
-          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fdet-phi"
-        },
-        {
-          "id": "nba/2026-07-09/gs-dal",
-          "name": "Golden State Warriors vs. Dallas Mavericks",
-          "poster": "https://www.thesportsdb.com/images/media/event/thumb/4d4maz1783101524.jpg",
-          "starts_at": 1783638000,
-          "ends_at": 1783648800,
-          "category_name": "basketball",
-          "status": "upcoming",
-          "league": "NBA",
-          "teams": {
-            "home": {
-              "name": "Golden State Warriors",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/s5dx7c1778197536.png"
-            },
-            "away": {
-              "name": "Dallas Mavericks",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png"
-            }
-          },
-          "uri_name": "nba/2026-07-09/gs-dal",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "NBA",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fgs-dal"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fgs-dal",
-          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fgs-dal"
-        },
-        {
-          "id": "nba/2026-07-09/cha-orl",
-          "name": "Charlotte Hornets vs. Orlando Magic",
-          "poster": "https://www.thesportsdb.com/images/media/event/thumb/4xfhoy1783101525.jpg",
-          "starts_at": 1783639800,
-          "ends_at": 1783650600,
-          "category_name": "basketball",
-          "status": "upcoming",
-          "league": "NBA",
-          "teams": {
-            "home": {
-              "name": "Charlotte Hornets",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/j0mpu81778198371.png"
-            },
-            "away": {
-              "name": "Orlando Magic",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png"
-            }
-          },
-          "uri_name": "nba/2026-07-09/cha-orl",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "NBA",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fcha-orl"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fcha-orl",
-          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fcha-orl"
-        },
-        {
-          "id": "wnba/2026-07-09/sea-atl",
-          "name": "Seattle Storm vs. Atlanta Dream",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/7xl0b91651998439.jpg",
-          "starts_at": 1783641600,
-          "ends_at": 1783652400,
-          "category_name": "basketball",
-          "status": "upcoming",
-          "league": "WNBA",
-          "teams": {
-            "home": {
-              "name": "Seattle Storm",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/wtqjpk1702757695.png"
-            },
-            "away": {
-              "name": "Atlanta Dream",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ygz07x1624031566.png"
-            }
-          },
-          "uri_name": "wnba/2026-07-09/sea-atl",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "WNBA",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-09%2Fsea-atl"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-09%2Fsea-atl",
-          "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-09%2Fsea-atl"
-        },
-        {
-          "id": "nba/2026-07-09/utah-wsh",
-          "name": "Utah Jazz vs. Washington Wizards",
-          "poster": "https://www.thesportsdb.com/images/media/event/thumb/64cmih1783101526.jpg",
-          "starts_at": 1783645200,
-          "ends_at": 1783656000,
-          "category_name": "basketball",
-          "status": "upcoming",
-          "league": "NBA",
-          "teams": {
-            "home": {
-              "name": "Utah Jazz",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/dxac7a1778227278.png"
-            },
-            "away": {
-              "name": "Washington Wizards",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/trct8w1778198868.png"
-            }
-          },
-          "uri_name": "nba/2026-07-09/utah-wsh",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "NBA",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Futah-wsh"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Futah-wsh",
-          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Futah-wsh"
-        },
-        {
-          "id": "wnba/2026-07-09/ind-phx",
-          "name": "Indiana Fever vs. Phoenix Mercury",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/8lm5y51651998435.jpg",
-          "starts_at": 1783648800,
-          "ends_at": 1783659600,
-          "category_name": "basketball",
-          "status": "upcoming",
-          "league": "WNBA",
-          "teams": {
-            "home": {
-              "name": "Indiana Fever",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/bcjbjy1767191655.png"
-            },
-            "away": {
-              "name": "Phoenix Mercury",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/9xp4y31552586027.png"
-            }
-          },
-          "uri_name": "wnba/2026-07-09/ind-phx",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "WNBA",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-09%2Find-phx"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-09%2Find-phx",
-          "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-09%2Find-phx"
-        },
-        {
-          "id": "wnba/2026-07-09/lv-por",
-          "name": "Las Vegas Aces vs. Portland Fire",
-          "poster": "https://static.assetstorage.net/assets/thumb/6d459928e6cdb68def6ec26a7ee8e083-thumbnail.jpg",
-          "starts_at": 1783648800,
-          "ends_at": 1783659600,
-          "category_name": "basketball",
-          "status": "upcoming",
-          "league": "WNBA",
-          "teams": {
-            "home": {
-              "name": "Las Vegas Aces",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/0wqbhm1752599825.png"
-            },
-            "away": {
-              "name": "Portland Fire",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/jnvk6x1741462255.png"
-            }
-          },
-          "uri_name": "wnba/2026-07-09/lv-por",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "WNBA",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-09%2Flv-por"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-09%2Flv-por",
-          "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-09%2Flv-por"
-        },
-        {
-          "id": "nba/2026-07-09/sac-lac",
-          "name": "Sacramento Kings vs. LA Clippers",
-          "poster": "https://www.thesportsdb.com/images/media/event/thumb/lp0plo1783101528.jpg",
-          "starts_at": 1783652400,
-          "ends_at": 1783663200,
-          "category_name": "basketball",
-          "status": "upcoming",
-          "league": "NBA",
-          "teams": {
-            "home": {
-              "name": "Sacramento Kings",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png"
-            },
-            "away": {
-              "name": "LA Clippers",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/k2buwo1778227426.png"
-            }
-          },
-          "uri_name": "nba/2026-07-09/sac-lac",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "NBA",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fsac-lac"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fsac-lac",
-          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-09%2Fsac-lac"
-        },
         {
           "id": "nba/2026-07-10/mil-mia",
           "name": "Milwaukee Bucks vs. Miami Heat",
@@ -1625,6 +1183,74 @@
           "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-10%2Fhou-den"
         },
         {
+          "id": "wnba/2026-07-10/gs-con",
+          "name": "Golden State Valkyries vs. Connecticut Sun",
+          "poster": "https://static.assetstorage.net/assets/thumb/83cc7bb206e72e01c233077ed784b204-thumbnail.jpg",
+          "starts_at": 1783726200,
+          "ends_at": 1783737000,
+          "category_name": "basketball",
+          "status": "upcoming",
+          "league": "WNBA",
+          "teams": {
+            "home": {
+              "name": "Golden State Valkyries",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/p4xzce1552679905.png"
+            },
+            "away": {
+              "name": "Connecticut Sun",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/24p2fj1738315525.png"
+            }
+          },
+          "uri_name": "wnba/2026-07-10/gs-con",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "WNBA",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-10%2Fgs-con"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-10%2Fgs-con",
+          "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-10%2Fgs-con"
+        },
+        {
+          "id": "wnba/2026-07-10/dal-tor",
+          "name": "Dallas Wings vs. Toronto Tempo",
+          "poster": "https://static.assetstorage.net/assets/thumb/51bcf35c3e9b7a320e4272fd3a866e86-thumbnail.jpg",
+          "starts_at": 1783726200,
+          "ends_at": 1783737000,
+          "category_name": "basketball",
+          "status": "upcoming",
+          "league": "WNBA",
+          "teams": {
+            "home": {
+              "name": "Dallas Wings",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/hoqyza1778258347.png"
+            },
+            "away": {
+              "name": "Toronto Tempo",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/vg11pw1552585970.png"
+            }
+          },
+          "uri_name": "wnba/2026-07-10/dal-tor",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "WNBA",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-10%2Fdal-tor"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-10%2Fdal-tor",
+          "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-10%2Fdal-tor"
+        },
+        {
           "id": "nba/2026-07-10/chi-mem",
           "name": "Chicago Bulls vs. Memphis Grizzlies",
           "poster": "https://www.thesportsdb.com/images/media/event/thumb/1j50cl1783101535.jpg",
@@ -1727,6 +1353,40 @@
           "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-10%2Fokc-lal"
         },
         {
+          "id": "wnba/2026-07-10/chi-la",
+          "name": "Chicago Sky vs. Los Angeles Sparks",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/092yx71651998450.jpg",
+          "starts_at": 1783735200,
+          "ends_at": 1783746000,
+          "category_name": "basketball",
+          "status": "upcoming",
+          "league": "WNBA",
+          "teams": {
+            "home": {
+              "name": "Chicago Sky",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/j70g2o1624031498.png"
+            },
+            "away": {
+              "name": "Los Angeles Sparks",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/h4e2t21552585926.png"
+            }
+          },
+          "uri_name": "wnba/2026-07-10/chi-la",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "WNBA",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-10%2Fchi-la"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-10%2Fchi-la",
+          "embed": "https://dami-tv.pro/embed/?id=wnba%2F2026-07-10%2Fchi-la"
+        },
+        {
           "id": "nba/2026-07-10/por-phx",
           "name": "Portland Trail Blazers vs. Phoenix Suns",
           "poster": "https://www.thesportsdb.com/images/media/event/thumb/xbyw7i1783101540.jpg",
@@ -1759,89 +1419,405 @@
           ],
           "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-10%2Fpor-phx",
           "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-10%2Fpor-phx"
-        }
-      ]
-    },
-    {
-      "category": "football",
-      "id": 5,
-      "streams": [
+        },
         {
-          "id": "wc/2026-07-09/fra-mar",
-          "name": "France vs. Morocco",
-          "poster": "https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg",
-          "starts_at": 1783627200,
-          "ends_at": 1783638000,
-          "category_name": "football",
+          "id": "nba/2026-07-11/mia-orl",
+          "name": "Miami Heat vs. Orlando Magic",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/e2ezjf1783101541.jpg",
+          "starts_at": 1783798200,
+          "ends_at": 1783809000,
+          "category_name": "basketball",
           "status": "upcoming",
-          "league": "FIFA World Cup 2026",
+          "league": "NBA",
           "teams": {
             "home": {
-              "name": "France",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png"
+              "name": "Miami Heat",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/j0mpu81778198371.png"
             },
             "away": {
-              "name": "Morocco",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png"
+              "name": "Orlando Magic",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/b9tye31778226616.png"
             }
           },
-          "uri_name": "wc/2026-07-09/fra-mar",
+          "uri_name": "nba/2026-07-11/mia-orl",
           "viewers": 0,
           "always_live": 0,
-          "tag": "FIFA World Cup 2026",
+          "tag": "NBA",
           "sources": [
             {
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-09%2Ffra-mar"
+              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fmia-orl"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fmia-orl",
+          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fmia-orl"
+        },
+        {
+          "id": "nba/2026-07-11/no-cha",
+          "name": "New Orleans Pelicans vs. Charlotte Hornets",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/atuyhv1783101543.jpg",
+          "starts_at": 1783800000,
+          "ends_at": 1783810800,
+          "category_name": "basketball",
+          "status": "upcoming",
+          "league": "NBA",
+          "teams": {
+            "home": {
+              "name": "New Orleans Pelicans",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png"
+            },
+            "away": {
+              "name": "Charlotte Hornets",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/xoxjsr1778226698.png"
+            }
+          },
+          "uri_name": "nba/2026-07-11/no-cha",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "NBA",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fno-cha"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fno-cha",
+          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fno-cha"
+        },
+        {
+          "id": "nba/2026-07-11/ind-phi",
+          "name": "Indiana Pacers vs. Philadelphia 76ers",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/or13nk1783101544.jpg",
+          "starts_at": 1783805400,
+          "ends_at": 1783816200,
+          "category_name": "basketball",
+          "status": "upcoming",
+          "league": "NBA",
+          "teams": {
+            "home": {
+              "name": "Indiana Pacers",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/j6rlbi1778226857.png"
+            },
+            "away": {
+              "name": "Philadelphia 76ers",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/y3lutb1778226511.png"
+            }
+          },
+          "uri_name": "nba/2026-07-11/ind-phi",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "NBA",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Find-phi"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Find-phi",
+          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Find-phi"
+        },
+        {
+          "id": "nba/2026-07-11/ny-sa",
+          "name": "New York Knicks vs. San Antonio Spurs",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/pfjki41782366286.jpg",
+          "starts_at": 1783807200,
+          "ends_at": 1783818000,
+          "category_name": "basketball",
+          "status": "upcoming",
+          "league": "NBA",
+          "teams": {
+            "home": {
+              "name": "New York Knicks",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/i4lxb71689146303.png"
+            },
+            "away": {
+              "name": "San Antonio Spurs",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/k6pv961689146306.png"
+            }
+          },
+          "uri_name": "nba/2026-07-11/ny-sa",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "NBA",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fny-sa"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fny-sa",
+          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fny-sa"
+        },
+        {
+          "id": "nba/2026-07-11/den-min",
+          "name": "Denver Nuggets vs. Minnesota Timberwolves",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/rxi2p51783101547.jpg",
+          "starts_at": 1783812600,
+          "ends_at": 1783823400,
+          "category_name": "basketball",
+          "status": "upcoming",
+          "league": "NBA",
+          "teams": {
+            "home": {
+              "name": "Denver Nuggets",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/epenxg1781034811.png"
+            },
+            "away": {
+              "name": "Minnesota Timberwolves",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/s8ch7m1778197814.png"
+            }
+          },
+          "uri_name": "nba/2026-07-11/den-min",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "NBA",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fden-min"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fden-min",
+          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fden-min"
+        },
+        {
+          "id": "nba/2026-07-11/atl-bkn",
+          "name": "Atlanta Hawks vs. Brooklyn Nets",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/dbxx7g1783101548.jpg",
+          "starts_at": 1783814400,
+          "ends_at": 1783825200,
+          "category_name": "basketball",
+          "status": "upcoming",
+          "league": "NBA",
+          "teams": {
+            "home": {
+              "name": "Atlanta Hawks",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/hkafe61739948361.png"
+            },
+            "away": {
+              "name": "Brooklyn Nets",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/7o1noy1778226315.png"
+            }
+          },
+          "uri_name": "nba/2026-07-11/atl-bkn",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "NBA",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fatl-bkn"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fatl-bkn",
+          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fatl-bkn"
+        },
+        {
+          "id": "nba/2026-07-11/hou-tor",
+          "name": "Houston Rockets vs. Toronto Raptors",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/k1bw7q1783101550.jpg",
+          "starts_at": 1783819800,
+          "ends_at": 1783830600,
+          "category_name": "basketball",
+          "status": "upcoming",
+          "league": "NBA",
+          "teams": {
+            "home": {
+              "name": "Houston Rockets",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/lct96a1778227205.png"
+            },
+            "away": {
+              "name": "Toronto Raptors",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/azoktf1780729261.png"
+            }
+          },
+          "uri_name": "nba/2026-07-11/hou-tor",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "NBA",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fhou-tor"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fhou-tor",
+          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Fhou-tor"
+        },
+        {
+          "id": "nba/2026-07-11/lal-dal",
+          "name": "Los Angeles Lakers vs. Dallas Mavericks",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/yz792v1783101551.jpg",
+          "starts_at": 1783821600,
+          "ends_at": 1783832400,
+          "category_name": "basketball",
+          "status": "upcoming",
+          "league": "NBA",
+          "teams": {
+            "home": {
+              "name": "Los Angeles Lakers",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/s5dx7c1778197536.png"
+            },
+            "away": {
+              "name": "Dallas Mavericks",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
+            }
+          },
+          "uri_name": "nba/2026-07-11/lal-dal",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "NBA",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Flal-dal"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Flal-dal",
+          "embed": "https://dami-tv.pro/embed/?id=nba%2F2026-07-11%2Flal-dal"
+        }
+      ]
+    },
+    {
+      "category": "fight",
+      "id": 5,
+      "streams": [
+        {
+          "id": "wwe/smackdown/2026-07-10",
+          "name": "WWE: Friday Night Smackdown",
+          "poster": "https://static.assetstorage.net/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
+          "starts_at": 1783728000,
+          "ends_at": 1783738800,
+          "category_name": "fight",
+          "status": "upcoming",
+          "league": "WWE",
+          "teams": {
+            "home": {
+              "name": "WWE: Friday Night Smackdown",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "wwe/smackdown/2026-07-10",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "WWE",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wwe%2Fsmackdown%2F2026-07-10"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wwe%2Fsmackdown%2F2026-07-10",
+          "embed": "https://dami-tv.pro/embed/?id=wwe%2Fsmackdown%2F2026-07-10"
+        },
+        {
+          "id": "ufc-329",
+          "name": "UFC 329: McGregor vs. Holloway 2",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/n0e9ex1783062734.jpg",
+          "starts_at": 1783803600,
+          "ends_at": 1783814400,
+          "category_name": "fight",
+          "status": "upcoming",
+          "league": "UFC",
+          "teams": {
+            "home": {
+              "name": "UFC 329: McGregor",
+              "badge": ""
+            },
+            "away": {
+              "name": "Holloway 2",
+              "badge": ""
+            }
+          },
+          "uri_name": "ufc-329",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "UFC",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=ufc-329"
             },
             {
               "source": "hls",
               "id": "s2",
-              "name": "FOX",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-09%2Ffra-mar%2Ffox"
+              "name": "Paramount+ (Spanish)",
+              "embed": "https://dami-tv.pro/embed/?id=ufc-329%2Fspanish"
             },
             {
               "source": "hls",
               "id": "s3",
-              "name": "FOX 4K (HEVC)",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-09%2Ffra-mar%2Ffox-4k-hevc"
-            },
-            {
-              "source": "hls",
-              "id": "s4",
-              "name": "BBC/ITV",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-09%2Ffra-mar%2Fuk"
-            },
-            {
-              "source": "hls",
-              "id": "s5",
-              "name": "beIN Sports 1",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-09%2Ffra-mar%2Fbein-sports-1"
-            },
-            {
-              "source": "hls",
-              "id": "s6",
-              "name": "DAZN Spain",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-09%2Ffra-mar%2Fdazn-spain"
-            },
-            {
-              "source": "hls",
-              "id": "s7",
-              "name": "Telemundo",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-09%2Ffra-mar%2Ftelemundo"
-            },
-            {
-              "source": "hls",
-              "id": "s8",
-              "name": "Peacock 4K (HEVC)",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-09%2Ffra-mar%2Fpeacock-4k-hevc"
+              "name": "Paramount+ (Portuguese)",
+              "embed": "https://dami-tv.pro/embed/?id=ufc-329%2Fportuguese"
             }
           ],
-          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-07-09%2Ffra-mar",
-          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-09%2Ffra-mar"
+          "iframe": "https://dami-tv.pro/embed/?id=ufc-329",
+          "embed": "https://dami-tv.pro/embed/?id=ufc-329"
         },
+        {
+          "id": "aew/collision/2026-07-11",
+          "name": "AEW: Saturday Night Collision",
+          "poster": "https://static.assetstorage.net/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
+          "starts_at": 1783814400,
+          "ends_at": 1783825200,
+          "category_name": "fight",
+          "status": "upcoming",
+          "league": "AEW",
+          "teams": {
+            "home": {
+              "name": "AEW: Saturday Night Collision",
+              "badge": ""
+            },
+            "away": {
+              "name": "",
+              "badge": ""
+            }
+          },
+          "uri_name": "aew/collision/2026-07-11",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "AEW",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=aew%2Fcollision%2F2026-07-11"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=aew%2Fcollision%2F2026-07-11",
+          "embed": "https://dami-tv.pro/embed/?id=aew%2Fcollision%2F2026-07-11"
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "id": 6,
+      "streams": [
         {
           "id": "wc/2026-07-10/esp-bel",
           "name": "Spain vs. Belgium",
@@ -1862,7 +1838,7 @@
             }
           },
           "uri_name": "wc/2026-07-10/esp-bel",
-          "viewers": 0,
+          "viewers": 7,
           "always_live": 0,
           "tag": "FIFA World Cup 2026",
           "sources": [
@@ -1917,53 +1893,165 @@
           ],
           "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel",
           "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel"
-        }
-      ]
-    },
-    {
-      "category": "miscellaneous",
-      "id": 6,
-      "streams": [
+        },
         {
-          "id": "tour-de-france/2026/stage-6",
-          "name": "Tour de France- Stage 6",
-          "poster": "https://static.assetstorage.net/assets/thumb/17049c40612f2598ca006e6575be14f6-thumbnail.jpg",
-          "starts_at": 1783591200,
-          "ends_at": 1783602000,
-          "category_name": "miscellaneous",
+          "id": "wc/2026-07-11/nor-eng",
+          "name": "Norway vs. England",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/h00wfo1783322757.jpg",
+          "starts_at": 1783803600,
+          "ends_at": 1783814400,
+          "category_name": "football",
           "status": "upcoming",
-          "league": "Miscellaneous",
+          "league": "FIFA World Cup 2026",
           "teams": {
             "home": {
-              "name": "Tour de France- Stage 6",
-              "badge": ""
+              "name": "Norway",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png"
             },
             "away": {
-              "name": "",
-              "badge": ""
+              "name": "England",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png"
             }
           },
-          "uri_name": "tour-de-france/2026/stage-6",
+          "uri_name": "wc/2026-07-11/nor-eng",
           "viewers": 0,
           "always_live": 0,
-          "tag": "Miscellaneous",
+          "tag": "FIFA World Cup 2026",
           "sources": [
             {
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=tour-de-france%2F2026%2Fstage-6"
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng"
             },
             {
               "source": "hls",
               "id": "s2",
-              "name": "Peacock",
-              "embed": "https://dami-tv.pro/embed/?id=tour-de-france%2F2026%2Fstage-6%2Fpeacock"
+              "name": "FOX",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Ffox-en"
+            },
+            {
+              "source": "hls",
+              "id": "s3",
+              "name": "FOX 4K (HEVC)",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Ffox-4k-hevc-en"
+            },
+            {
+              "source": "hls",
+              "id": "s4",
+              "name": "BBC/ITV",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Fuk"
+            },
+            {
+              "source": "hls",
+              "id": "s5",
+              "name": "beIN Sports 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Fbein-sports-1-fr"
+            },
+            {
+              "source": "hls",
+              "id": "s6",
+              "name": "DAZN Spain",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Fdazn-spain-es"
+            },
+            {
+              "source": "hls",
+              "id": "s7",
+              "name": "Telemundo",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Ftelemundo-es"
+            },
+            {
+              "source": "hls",
+              "id": "s8",
+              "name": "Peacock 4K (HEVC)",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Fpeacock-4k-hevc-es"
             }
           ],
-          "iframe": "https://dami-tv.pro/embed/?id=tour-de-france%2F2026%2Fstage-6",
-          "embed": "https://dami-tv.pro/embed/?id=tour-de-france%2F2026%2Fstage-6"
+          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng",
+          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng"
         },
+        {
+          "id": "wc/2026-07-11/arg-sui",
+          "name": "Argentina vs. Switzerland",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/egw53q1783490092.jpg",
+          "starts_at": 1783818000,
+          "ends_at": 1783828800,
+          "category_name": "football",
+          "status": "upcoming",
+          "league": "FIFA World Cup 2026",
+          "teams": {
+            "home": {
+              "name": "Argentina",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png"
+            },
+            "away": {
+              "name": "Switzerland",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/mb7yqe1717365808.png"
+            }
+          },
+          "uri_name": "wc/2026-07-11/arg-sui",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "FIFA World Cup 2026",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "FOX",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Ffox-en"
+            },
+            {
+              "source": "hls",
+              "id": "s3",
+              "name": "FOX 4K (HEVC)",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Ffox-4k-hevc-en"
+            },
+            {
+              "source": "hls",
+              "id": "s4",
+              "name": "BBC/ITV",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Fuk"
+            },
+            {
+              "source": "hls",
+              "id": "s5",
+              "name": "beIN Sports 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Fbein-sports-1-fr"
+            },
+            {
+              "source": "hls",
+              "id": "s6",
+              "name": "DAZN Spain",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Fdazn-spain-es"
+            },
+            {
+              "source": "hls",
+              "id": "s7",
+              "name": "Telemundo",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Ftelemundo-es"
+            },
+            {
+              "source": "hls",
+              "id": "s8",
+              "name": "Peacock 4K (HEVC)",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Fpeacock-4k-hevc-es"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui",
+          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui"
+        }
+      ]
+    },
+    {
+      "category": "miscellaneous",
+      "id": 7,
+      "streams": [
         {
           "id": "tour-de-france/2026/stage-7",
           "name": "Tour de France- Stage 7",
@@ -1971,7 +2059,7 @@
           "starts_at": 1783681200,
           "ends_at": 1783692000,
           "category_name": "miscellaneous",
-          "status": "upcoming",
+          "status": "live",
           "league": "Miscellaneous",
           "teams": {
             "home": {
@@ -1984,7 +2072,7 @@
             }
           },
           "uri_name": "tour-de-france/2026/stage-7",
-          "viewers": 0,
+          "viewers": 22,
           "always_live": 0,
           "tag": "Miscellaneous",
           "sources": [
@@ -2048,7 +2136,7 @@
     },
     {
       "category": "motor-sports",
-      "id": 7,
+      "id": 8,
       "streams": [
         {
           "id": "f1/2026/belgium/fp1",
@@ -2262,7 +2350,7 @@
             }
           },
           "uri_name": "f1/2026/belgium/qualifying",
-          "viewers": 0,
+          "viewers": 1,
           "always_live": 0,
           "tag": "Motorsports",
           "sources": [
@@ -2374,7 +2462,7 @@
     },
     {
       "category": "rugby",
-      "id": 8,
+      "id": 9,
       "streams": [
         {
           "id": "nrl/2026-07-10/wes-new",
@@ -2396,7 +2484,7 @@
             }
           },
           "uri_name": "nrl/2026-07-10/wes-new",
-          "viewers": 0,
+          "viewers": 3,
           "always_live": 0,
           "tag": "NRL",
           "sources": [
@@ -2617,29 +2705,171 @@
       ]
     },
     {
-      "category": "volleyball",
-      "id": 9,
+      "category": "tennis",
+      "id": 10,
       "streams": [
         {
-          "id": "womensvnl/2026-07-09/usa-pol",
-          "name": "USA vs. Poland",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/rhov2i1773067292.jpg",
-          "starts_at": 1783569600,
-          "ends_at": 1783580400,
-          "category_name": "volleyball",
+          "id": "wimbledon/2026-07-10/aoyama-liang-dabrowski-stefani",
+          "name": "Shuko Aoyama / En-Shuo Liang vs. Gabriela Dabrowski / Luisa Stefani",
+          "poster": "https://static.assetstorage.net/assets/thumb/2ce130efc08f55ce73339ec6bc3a4a76-thumbnail.jpg",
+          "starts_at": 1783684800,
+          "ends_at": 1783695600,
+          "category_name": "tennis",
           "status": "live",
+          "league": "Tennis",
+          "teams": {
+            "home": {
+              "name": "Shuko Aoyama / En-Shuo Liang",
+              "badge": ""
+            },
+            "away": {
+              "name": "Gabriela Dabrowski / Luisa Stefani",
+              "badge": ""
+            }
+          },
+          "uri_name": "wimbledon/2026-07-10/aoyama-liang-dabrowski-stefani",
+          "viewers": 2,
+          "always_live": 0,
+          "tag": "Tennis",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wimbledon%2F2026-07-10%2Faoyama-liang-dabrowski-stefani"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wimbledon%2F2026-07-10%2Faoyama-liang-dabrowski-stefani",
+          "embed": "https://dami-tv.pro/embed/?id=wimbledon%2F2026-07-10%2Faoyama-liang-dabrowski-stefani"
+        },
+        {
+          "id": "wimbledon/2026-07-10/fery-zverev",
+          "name": "Arthur Fery vs. Alexander Zverev",
+          "poster": "https://static.assetstorage.net/assets/thumb/adac4a3884083ede5b3a8890f1ea117d-thumbnail.jpg",
+          "starts_at": 1783686600,
+          "ends_at": 1783697400,
+          "category_name": "tennis",
+          "status": "live",
+          "league": "Tennis",
+          "teams": {
+            "home": {
+              "name": "Arthur Fery",
+              "badge": ""
+            },
+            "away": {
+              "name": "Alexander Zverev",
+              "badge": ""
+            }
+          },
+          "uri_name": "wimbledon/2026-07-10/fery-zverev",
+          "viewers": 135,
+          "always_live": 0,
+          "tag": "Tennis",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wimbledon%2F2026-07-10%2Ffery-zverev"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wimbledon%2F2026-07-10%2Ffery-zverev",
+          "embed": "https://dami-tv.pro/embed/?id=wimbledon%2F2026-07-10%2Ffery-zverev"
+        },
+        {
+          "id": "wimbledon/2026-07-10/sinner-djokovic",
+          "name": "Jannik Sinner vs. Novak Djokovic",
+          "poster": "https://static.assetstorage.net/assets/thumb/3d9b2fe8511b7cfd24e8f41c825a9e83-thumbnail.jpg",
+          "starts_at": 1783693800,
+          "ends_at": 1783704600,
+          "category_name": "tennis",
+          "status": "upcoming",
+          "league": "Tennis",
+          "teams": {
+            "home": {
+              "name": "Jannik Sinner",
+              "badge": ""
+            },
+            "away": {
+              "name": "Novak Djokovic",
+              "badge": ""
+            }
+          },
+          "uri_name": "wimbledon/2026-07-10/sinner-djokovic",
+          "viewers": 2,
+          "always_live": 0,
+          "tag": "Tennis",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wimbledon%2F2026-07-10%2Fsinner-djokovic"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wimbledon%2F2026-07-10%2Fsinner-djokovic",
+          "embed": "https://dami-tv.pro/embed/?id=wimbledon%2F2026-07-10%2Fsinner-djokovic"
+        },
+        {
+          "id": "wimbledon/2026-07-10/hanyu-mladenovic-xinyu-yifan",
+          "name": "Guo Hanyu / Kristina Mladenovic vs. Jiang Xinyu / Xu Yifan",
+          "poster": "https://static.assetstorage.net/assets/thumb/fea2fd1d23f21185fe79bed4f3fb6c6b-thumbnail.jpg",
+          "starts_at": 1783695600,
+          "ends_at": 1783706400,
+          "category_name": "tennis",
+          "status": "upcoming",
+          "league": "Tennis",
+          "teams": {
+            "home": {
+              "name": "Guo Hanyu / Kristina Mladenovic",
+              "badge": ""
+            },
+            "away": {
+              "name": "Jiang Xinyu / Xu Yifan",
+              "badge": ""
+            }
+          },
+          "uri_name": "wimbledon/2026-07-10/hanyu-mladenovic-xinyu-yifan",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "Tennis",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wimbledon%2F2026-07-10%2Fhanyu-mladenovic-xinyu-yifan"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wimbledon%2F2026-07-10%2Fhanyu-mladenovic-xinyu-yifan",
+          "embed": "https://dami-tv.pro/embed/?id=wimbledon%2F2026-07-10%2Fhanyu-mladenovic-xinyu-yifan"
+        }
+      ]
+    },
+    {
+      "category": "volleyball",
+      "id": 11,
+      "streams": [
+        {
+          "id": "womensvnl/2026-07-10/ukr-dom",
+          "name": "Ukraine vs. Dominican Republic",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/xho4cj1773067298.jpg",
+          "starts_at": 1783674000,
+          "ends_at": 1783684800,
+          "category_name": "volleyball",
+          "status": "upcoming",
           "league": "Volleyball",
           "teams": {
             "home": {
-              "name": "USA",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/vh0hma1625365573.png"
+              "name": "Ukraine",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/g9f4id1752869882.png"
             },
             "away": {
-              "name": "Poland",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/fez63y1625365387.png"
+              "name": "Dominican Republic",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/pifoh71625365245.png"
             }
           },
-          "uri_name": "womensvnl/2026-07-09/usa-pol",
+          "uri_name": "womensvnl/2026-07-10/ukr-dom",
           "viewers": 0,
           "always_live": 0,
           "tag": "Volleyball",
@@ -2648,20 +2878,54 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fusa-pol"
+              "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fukr-dom"
             }
           ],
-          "iframe": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fusa-pol",
-          "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fusa-pol"
+          "iframe": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fukr-dom",
+          "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fukr-dom"
         },
         {
-          "id": "womensvnl/2026-07-09/bel-can",
-          "name": "Belgium vs. Canada",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/b7vymn1773067293.jpg",
-          "starts_at": 1783587600,
-          "ends_at": 1783598400,
+          "id": "womensvnl/2026-07-10/pol-bra",
+          "name": "Poland vs. Brazil",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/5esskt1773067299.jpg",
+          "starts_at": 1783678800,
+          "ends_at": 1783689600,
           "category_name": "volleyball",
           "status": "upcoming",
+          "league": "Volleyball",
+          "teams": {
+            "home": {
+              "name": "Poland",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/fez63y1625365387.png"
+            },
+            "away": {
+              "name": "Brazil",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/t3jr2f1625365055.png"
+            }
+          },
+          "uri_name": "womensvnl/2026-07-10/pol-bra",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "Volleyball",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fpol-bra"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fpol-bra",
+          "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fpol-bra"
+        },
+        {
+          "id": "womensvnl/2026-07-10/bel-ita",
+          "name": "Belgium vs. Italy",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/qckhok1773067300.jpg",
+          "starts_at": 1783686600,
+          "ends_at": 1783697400,
+          "category_name": "volleyball",
+          "status": "live",
           "league": "Volleyball",
           "teams": {
             "home": {
@@ -2669,12 +2933,12 @@
               "badge": "https://r2.thesportsdb.com/images/media/team/badge/rd7a8j1625365034.png"
             },
             "away": {
-              "name": "Canada",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/r5c3kd1625365078.png"
+              "name": "Italy",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/6n6y8d1625365301.png"
             }
           },
-          "uri_name": "womensvnl/2026-07-09/bel-can",
-          "viewers": 0,
+          "uri_name": "womensvnl/2026-07-10/bel-ita",
+          "viewers": 2,
           "always_live": 0,
           "tag": "Volleyball",
           "sources": [
@@ -2682,100 +2946,66 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fbel-can"
+              "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fbel-ita"
             }
           ],
-          "iframe": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fbel-can",
-          "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fbel-can"
+          "iframe": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fbel-ita",
+          "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fbel-ita"
         },
         {
-          "id": "womensvnl/2026-07-09/jap-tha",
-          "name": "Japan vs. Thailand",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/ff2oyu1773067294.jpg",
-          "starts_at": 1783592400,
-          "ends_at": 1783603200,
+          "id": "womensvnl/2026-07-10/bul-cze",
+          "name": "Bulgaria vs. Czechia",
+          "poster": "https://static.assetstorage.net/assets/thumb/858e8f59ebfcab8d0e9b23fd21c3fb6a-thumbnail.jpg",
+          "starts_at": 1783693800,
+          "ends_at": 1783704600,
           "category_name": "volleyball",
           "status": "upcoming",
           "league": "Volleyball",
           "teams": {
             "home": {
-              "name": "Japan",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/1pu2va1731258798.png"
+              "name": "Bulgaria",
+              "badge": ""
             },
             "away": {
-              "name": "Thailand",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/8ccfdn1625365526.png"
-            }
-          },
-          "uri_name": "womensvnl/2026-07-09/jap-tha",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "Volleyball",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fjap-tha"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fjap-tha",
-          "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fjap-tha"
-        },
-        {
-          "id": "womensvnl/2026-07-09/chi-ukr",
-          "name": "China vs. Ukraine",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/5rgvwl1773067295.jpg",
-          "starts_at": 1783600200,
-          "ends_at": 1783611000,
-          "category_name": "volleyball",
-          "status": "upcoming",
-          "league": "Volleyball",
-          "teams": {
-            "home": {
-              "name": "China",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/05kqcf1732876333.png"
-            },
-            "away": {
-              "name": "Ukraine",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/g9f4id1752869882.png"
-            }
-          },
-          "uri_name": "womensvnl/2026-07-09/chi-ukr",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "Volleyball",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fchi-ukr"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fchi-ukr",
-          "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fchi-ukr"
-        },
-        {
-          "id": "womensvnl/2026-07-09/cze-net",
-          "name": "Czechia vs. Netherlands",
-          "poster": "https://static.assetstorage.net/assets/thumb/704f0b15e088944a5effcc60b1c8de9e-thumbnail.jpg",
-          "starts_at": 1783607400,
-          "ends_at": 1783618200,
-          "category_name": "volleyball",
-          "status": "upcoming",
-          "league": "Volleyball",
-          "teams": {
-            "home": {
               "name": "Czechia",
               "badge": ""
+            }
+          },
+          "uri_name": "womensvnl/2026-07-10/bul-cze",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "Volleyball",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fbul-cze"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fbul-cze",
+          "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fbul-cze"
+        },
+        {
+          "id": "womensvnl/2026-07-10/ger-net",
+          "name": "Germany vs. Netherlands",
+          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/dqeeer1773067302.jpg",
+          "starts_at": 1783706400,
+          "ends_at": 1783717200,
+          "category_name": "volleyball",
+          "status": "upcoming",
+          "league": "Volleyball",
+          "teams": {
+            "home": {
+              "name": "Germany",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/n8i54c1625365269.png"
             },
             "away": {
               "name": "Netherlands",
-              "badge": ""
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/zqr9c21625365351.png"
             }
           },
-          "uri_name": "womensvnl/2026-07-09/cze-net",
+          "uri_name": "womensvnl/2026-07-10/ger-net",
           "viewers": 0,
           "always_live": 0,
           "tag": "Volleyball",
@@ -2784,200 +3014,24 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fcze-net"
+              "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fger-net"
             }
           ],
-          "iframe": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fcze-net",
-          "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fcze-net"
-        },
-        {
-          "id": "womensvnl/2026-07-09/ser-fra",
-          "name": "Serbia vs. France",
-          "poster": "https://r2.thesportsdb.com/images/media/event/thumb/execu11773067296.jpg",
-          "starts_at": 1783620000,
-          "ends_at": 1783630800,
-          "category_name": "volleyball",
-          "status": "upcoming",
-          "league": "Volleyball",
-          "teams": {
-            "home": {
-              "name": "Serbia",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/bj6bfe1676201757.png"
-            },
-            "away": {
-              "name": "France",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/nwophw1731258904.png"
-            }
-          },
-          "uri_name": "womensvnl/2026-07-09/ser-fra",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "Volleyball",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fser-fra"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fser-fra",
-          "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-09%2Fser-fra"
-        },
-        {
-          "id": "womensvnl/2026-07-10/usa-tür",
-          "name": "USA vs. Türkiye",
-          "poster": "https://static.assetstorage.net/assets/thumb/dcd37b7b02aef9b83a1e88b451403364-thumbnail.jpg",
-          "starts_at": 1783656000,
-          "ends_at": 1783666800,
-          "category_name": "volleyball",
-          "status": "upcoming",
-          "league": "Volleyball",
-          "teams": {
-            "home": {
-              "name": "USA",
-              "badge": ""
-            },
-            "away": {
-              "name": "Türkiye",
-              "badge": ""
-            }
-          },
-          "uri_name": "womensvnl/2026-07-10/usa-tür",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "Volleyball",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fusa-t%C3%BCr"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fusa-t%C3%BCr",
-          "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fusa-t%C3%BCr"
-        }
-      ]
-    },
-    {
-      "category": "fight",
-      "id": 10,
-      "streams": [
-        {
-          "id": "tna/impact/2026-07-09",
-          "name": "TNA: Impact",
-          "poster": "https://static.assetstorage.net/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",
-          "starts_at": 1783645200,
-          "ends_at": 1783656000,
-          "category_name": "fight",
-          "status": "upcoming",
-          "league": "Wrestling",
-          "teams": {
-            "home": {
-              "name": "TNA: Impact",
-              "badge": ""
-            },
-            "away": {
-              "name": "",
-              "badge": ""
-            }
-          },
-          "uri_name": "tna/impact/2026-07-09",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "Wrestling",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=tna%2Fimpact%2F2026-07-09"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=tna%2Fimpact%2F2026-07-09",
-          "embed": "https://dami-tv.pro/embed/?id=tna%2Fimpact%2F2026-07-09"
-        },
-        {
-          "id": "wwe/smackdown/2026-07-10",
-          "name": "WWE: Friday Night Smackdown",
-          "poster": "https://static.assetstorage.net/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
-          "starts_at": 1783728000,
-          "ends_at": 1783738800,
-          "category_name": "fight",
-          "status": "upcoming",
-          "league": "WWE",
-          "teams": {
-            "home": {
-              "name": "WWE: Friday Night Smackdown",
-              "badge": ""
-            },
-            "away": {
-              "name": "",
-              "badge": ""
-            }
-          },
-          "uri_name": "wwe/smackdown/2026-07-10",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "WWE",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=wwe%2Fsmackdown%2F2026-07-10"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=wwe%2Fsmackdown%2F2026-07-10",
-          "embed": "https://dami-tv.pro/embed/?id=wwe%2Fsmackdown%2F2026-07-10"
-        },
-        {
-          "id": "aew/collision/2026-07-11",
-          "name": "AEW: Saturday Night Collision",
-          "poster": "https://static.assetstorage.net/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
-          "starts_at": 1783814400,
-          "ends_at": 1783825200,
-          "category_name": "fight",
-          "status": "upcoming",
-          "league": "AEW",
-          "teams": {
-            "home": {
-              "name": "AEW: Saturday Night Collision",
-              "badge": ""
-            },
-            "away": {
-              "name": "",
-              "badge": ""
-            }
-          },
-          "uri_name": "aew/collision/2026-07-11",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "AEW",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=aew%2Fcollision%2F2026-07-11"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=aew%2Fcollision%2F2026-07-11",
-          "embed": "https://dami-tv.pro/embed/?id=aew%2Fcollision%2F2026-07-11"
+          "iframe": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fger-net",
+          "embed": "https://dami-tv.pro/embed/?id=womensvnl%2F2026-07-10%2Fger-net"
         }
       ]
     },
     {
       "category": "24/7-streams",
-      "id": 11,
+      "id": 12,
       "streams": [
         {
           "id": "247-south-park",
           "name": "24/7 South Park",
           "poster": "https://thumbs.poocloud.in/southpark/preview.jpg",
-          "starts_at": 1783570222,
-          "ends_at": 1783581022,
+          "starts_at": 1783692122,
+          "ends_at": 1783702922,
           "category_name": "24/7-streams",
           "status": "live",
           "league": "24/7 Streams",
@@ -2992,7 +3046,7 @@
             }
           },
           "uri_name": "247-south-park",
-          "viewers": 0,
+          "viewers": 1,
           "always_live": 0,
           "tag": "24/7 Streams",
           "sources": [
@@ -3010,8 +3064,8 @@
           "id": "247-cows",
           "name": "24/7 COWS",
           "poster": "https://static.assetstorage.net/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",
-          "starts_at": 1783570222,
-          "ends_at": 1783581022,
+          "starts_at": 1783692122,
+          "ends_at": 1783702922,
           "category_name": "24/7-streams",
           "status": "live",
           "league": "24/7 Streams",
@@ -3044,8 +3098,8 @@
           "id": "247-family-guy",
           "name": "24/7 Family Guy",
           "poster": "https://thumbs.poocloud.in/familyguy/preview.jpg",
-          "starts_at": 1783570222,
-          "ends_at": 1783581022,
+          "starts_at": 1783692122,
+          "ends_at": 1783702922,
           "category_name": "24/7-streams",
           "status": "live",
           "league": "24/7 Streams",
@@ -3060,7 +3114,7 @@
             }
           },
           "uri_name": "247-family-guy",
-          "viewers": 0,
+          "viewers": 4,
           "always_live": 0,
           "tag": "24/7 Streams",
           "sources": [
@@ -3078,8 +3132,8 @@
           "id": "247-the-simpsons",
           "name": "24/7 The Simpsons",
           "poster": "https://thumbs.poocloud.in/thesimpsons/preview.jpg",
-          "starts_at": 1783570222,
-          "ends_at": 1783581022,
+          "starts_at": 1783692122,
+          "ends_at": 1783702922,
           "category_name": "24/7-streams",
           "status": "live",
           "league": "24/7 Streams",
@@ -3094,7 +3148,7 @@
             }
           },
           "uri_name": "247-the-simpsons",
-          "viewers": 0,
+          "viewers": 1,
           "always_live": 0,
           "tag": "24/7 Streams",
           "sources": [
@@ -3112,8 +3166,8 @@
           "id": "247-spongebob-squarepants",
           "name": "24/7 SpongeBob Squarepants",
           "poster": "https://static.assetstorage.net/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg",
-          "starts_at": 1783570222,
-          "ends_at": 1783581022,
+          "starts_at": 1783692122,
+          "ends_at": 1783702922,
           "category_name": "24/7-streams",
           "status": "live",
           "league": "24/7 Streams",
@@ -3128,7 +3182,7 @@
             }
           },
           "uri_name": "247-spongebob-squarepants",
-          "viewers": 0,
+          "viewers": 1,
           "always_live": 0,
           "tag": "24/7 Streams",
           "sources": [
@@ -3146,8 +3200,8 @@
           "id": "rally-tv",
           "name": "Rally TV",
           "poster": "https://static.assetstorage.net/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg",
-          "starts_at": 1783570222,
-          "ends_at": 1783581022,
+          "starts_at": 1783692122,
+          "ends_at": 1783702922,
           "category_name": "24/7-streams",
           "status": "live",
           "league": "24/7 Streams",
