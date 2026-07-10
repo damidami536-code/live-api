@@ -5,6 +5,240 @@
   "performance": 0.12,
   "streams": [
     {
+      "category": "FIFA WORLDCUP 2026",
+      "id": 6,
+      "streams": [
+        {
+          "id": "wc/2026-07-10/esp-bel",
+          "name": "Spain vs. Belgium",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/e0awtb1783410723.jpg",
+          "starts_at": 1783710000,
+          "ends_at": 1783720800,
+          "category_name": "football",
+          "status": "upcoming",
+          "league": "FIFA World Cup 2026",
+          "teams": {
+            "home": {
+              "name": "Spain",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png"
+            },
+            "away": {
+              "name": "Belgium",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/8xlvxv1592062265.png"
+            }
+          },
+          "uri_name": "wc/2026-07-10/esp-bel",
+          "viewers": 7,
+          "always_live": 0,
+          "tag": "FIFA World Cup 2026",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "FOX",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Ffox"
+            },
+            {
+              "source": "hls",
+              "id": "s3",
+              "name": "FOX 4K (HEVC)",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Ffox-4k-hevc"
+            },
+            {
+              "source": "hls",
+              "id": "s4",
+              "name": "BBC/ITV",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Fuk"
+            },
+            {
+              "source": "hls",
+              "id": "s5",
+              "name": "beIN Sports 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Fbein-sports-1"
+            },
+            {
+              "source": "hls",
+              "id": "s6",
+              "name": "DAZN Spain",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Fdazn-spain"
+            },
+            {
+              "source": "hls",
+              "id": "s7",
+              "name": "Telemundo",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Ftelemundo"
+            },
+            {
+              "source": "hls",
+              "id": "s8",
+              "name": "Peacock 4K (HEVC)",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Fpeacock-4k-hevc"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel",
+          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel"
+        },
+        {
+          "id": "wc/2026-07-11/nor-eng",
+          "name": "Norway vs. England",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/h00wfo1783322757.jpg",
+          "starts_at": 1783803600,
+          "ends_at": 1783814400,
+          "category_name": "football",
+          "status": "upcoming",
+          "league": "FIFA World Cup 2026",
+          "teams": {
+            "home": {
+              "name": "Norway",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png"
+            },
+            "away": {
+              "name": "England",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png"
+            }
+          },
+          "uri_name": "wc/2026-07-11/nor-eng",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "FIFA World Cup 2026",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "FOX",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Ffox-en"
+            },
+            {
+              "source": "hls",
+              "id": "s3",
+              "name": "FOX 4K (HEVC)",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Ffox-4k-hevc-en"
+            },
+            {
+              "source": "hls",
+              "id": "s4",
+              "name": "BBC/ITV",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Fuk"
+            },
+            {
+              "source": "hls",
+              "id": "s5",
+              "name": "beIN Sports 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Fbein-sports-1-fr"
+            },
+            {
+              "source": "hls",
+              "id": "s6",
+              "name": "DAZN Spain",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Fdazn-spain-es"
+            },
+            {
+              "source": "hls",
+              "id": "s7",
+              "name": "Telemundo",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Ftelemundo-es"
+            },
+            {
+              "source": "hls",
+              "id": "s8",
+              "name": "Peacock 4K (HEVC)",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Fpeacock-4k-hevc-es"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng",
+          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng"
+        },
+        {
+          "id": "wc/2026-07-11/arg-sui",
+          "name": "Argentina vs. Switzerland",
+          "poster": "https://www.thesportsdb.com/images/media/event/thumb/egw53q1783490092.jpg",
+          "starts_at": 1783818000,
+          "ends_at": 1783828800,
+          "category_name": "football",
+          "status": "upcoming",
+          "league": "FIFA World Cup 2026",
+          "teams": {
+            "home": {
+              "name": "Argentina",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png"
+            },
+            "away": {
+              "name": "Switzerland",
+              "badge": "https://r2.thesportsdb.com/images/media/team/badge/mb7yqe1717365808.png"
+            }
+          },
+          "uri_name": "wc/2026-07-11/arg-sui",
+          "viewers": 0,
+          "always_live": 0,
+          "tag": "FIFA World Cup 2026",
+          "sources": [
+            {
+              "source": "hls",
+              "id": "s1",
+              "name": "Server 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui"
+            },
+            {
+              "source": "hls",
+              "id": "s2",
+              "name": "FOX",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Ffox-en"
+            },
+            {
+              "source": "hls",
+              "id": "s3",
+              "name": "FOX 4K (HEVC)",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Ffox-4k-hevc-en"
+            },
+            {
+              "source": "hls",
+              "id": "s4",
+              "name": "BBC/ITV",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Fuk"
+            },
+            {
+              "source": "hls",
+              "id": "s5",
+              "name": "beIN Sports 1",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Fbein-sports-1-fr"
+            },
+            {
+              "source": "hls",
+              "id": "s6",
+              "name": "DAZN Spain",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Fdazn-spain-es"
+            },
+            {
+              "source": "hls",
+              "id": "s7",
+              "name": "Telemundo",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Ftelemundo-es"
+            },
+            {
+              "source": "hls",
+              "id": "s8",
+              "name": "Peacock 4K (HEVC)",
+              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Fpeacock-4k-hevc-es"
+            }
+          ],
+          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui",
+          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui"
+        }
+      ]
+    },
+    {
       "category": "american-football",
       "id": 1,
       "streams": [
@@ -1811,240 +2045,6 @@
           ],
           "iframe": "https://dami-tv.pro/embed/?id=aew%2Fcollision%2F2026-07-11",
           "embed": "https://dami-tv.pro/embed/?id=aew%2Fcollision%2F2026-07-11"
-        }
-      ]
-    },
-    {
-      "category": "ALL FIFA WORLDCUP 2026",
-      "id": 6,
-      "streams": [
-        {
-          "id": "wc/2026-07-10/esp-bel",
-          "name": "Spain vs. Belgium",
-          "poster": "https://www.thesportsdb.com/images/media/event/thumb/e0awtb1783410723.jpg",
-          "starts_at": 1783710000,
-          "ends_at": 1783720800,
-          "category_name": "football",
-          "status": "upcoming",
-          "league": "FIFA World Cup 2026",
-          "teams": {
-            "home": {
-              "name": "Spain",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png"
-            },
-            "away": {
-              "name": "Belgium",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/8xlvxv1592062265.png"
-            }
-          },
-          "uri_name": "wc/2026-07-10/esp-bel",
-          "viewers": 7,
-          "always_live": 0,
-          "tag": "FIFA World Cup 2026",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel"
-            },
-            {
-              "source": "hls",
-              "id": "s2",
-              "name": "FOX",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Ffox"
-            },
-            {
-              "source": "hls",
-              "id": "s3",
-              "name": "FOX 4K (HEVC)",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Ffox-4k-hevc"
-            },
-            {
-              "source": "hls",
-              "id": "s4",
-              "name": "BBC/ITV",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Fuk"
-            },
-            {
-              "source": "hls",
-              "id": "s5",
-              "name": "beIN Sports 1",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Fbein-sports-1"
-            },
-            {
-              "source": "hls",
-              "id": "s6",
-              "name": "DAZN Spain",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Fdazn-spain"
-            },
-            {
-              "source": "hls",
-              "id": "s7",
-              "name": "Telemundo",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Ftelemundo"
-            },
-            {
-              "source": "hls",
-              "id": "s8",
-              "name": "Peacock 4K (HEVC)",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel%2Fpeacock-4k-hevc"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel",
-          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-10%2Fesp-bel"
-        },
-        {
-          "id": "wc/2026-07-11/nor-eng",
-          "name": "Norway vs. England",
-          "poster": "https://www.thesportsdb.com/images/media/event/thumb/h00wfo1783322757.jpg",
-          "starts_at": 1783803600,
-          "ends_at": 1783814400,
-          "category_name": "football",
-          "status": "upcoming",
-          "league": "FIFA World Cup 2026",
-          "teams": {
-            "home": {
-              "name": "Norway",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png"
-            },
-            "away": {
-              "name": "England",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png"
-            }
-          },
-          "uri_name": "wc/2026-07-11/nor-eng",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "FIFA World Cup 2026",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng"
-            },
-            {
-              "source": "hls",
-              "id": "s2",
-              "name": "FOX",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Ffox-en"
-            },
-            {
-              "source": "hls",
-              "id": "s3",
-              "name": "FOX 4K (HEVC)",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Ffox-4k-hevc-en"
-            },
-            {
-              "source": "hls",
-              "id": "s4",
-              "name": "BBC/ITV",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Fuk"
-            },
-            {
-              "source": "hls",
-              "id": "s5",
-              "name": "beIN Sports 1",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Fbein-sports-1-fr"
-            },
-            {
-              "source": "hls",
-              "id": "s6",
-              "name": "DAZN Spain",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Fdazn-spain-es"
-            },
-            {
-              "source": "hls",
-              "id": "s7",
-              "name": "Telemundo",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Ftelemundo-es"
-            },
-            {
-              "source": "hls",
-              "id": "s8",
-              "name": "Peacock 4K (HEVC)",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng%2Fpeacock-4k-hevc-es"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng",
-          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Fnor-eng"
-        },
-        {
-          "id": "wc/2026-07-11/arg-sui",
-          "name": "Argentina vs. Switzerland",
-          "poster": "https://www.thesportsdb.com/images/media/event/thumb/egw53q1783490092.jpg",
-          "starts_at": 1783818000,
-          "ends_at": 1783828800,
-          "category_name": "football",
-          "status": "upcoming",
-          "league": "FIFA World Cup 2026",
-          "teams": {
-            "home": {
-              "name": "Argentina",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png"
-            },
-            "away": {
-              "name": "Switzerland",
-              "badge": "https://r2.thesportsdb.com/images/media/team/badge/mb7yqe1717365808.png"
-            }
-          },
-          "uri_name": "wc/2026-07-11/arg-sui",
-          "viewers": 0,
-          "always_live": 0,
-          "tag": "FIFA World Cup 2026",
-          "sources": [
-            {
-              "source": "hls",
-              "id": "s1",
-              "name": "Server 1",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui"
-            },
-            {
-              "source": "hls",
-              "id": "s2",
-              "name": "FOX",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Ffox-en"
-            },
-            {
-              "source": "hls",
-              "id": "s3",
-              "name": "FOX 4K (HEVC)",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Ffox-4k-hevc-en"
-            },
-            {
-              "source": "hls",
-              "id": "s4",
-              "name": "BBC/ITV",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Fuk"
-            },
-            {
-              "source": "hls",
-              "id": "s5",
-              "name": "beIN Sports 1",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Fbein-sports-1-fr"
-            },
-            {
-              "source": "hls",
-              "id": "s6",
-              "name": "DAZN Spain",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Fdazn-spain-es"
-            },
-            {
-              "source": "hls",
-              "id": "s7",
-              "name": "Telemundo",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Ftelemundo-es"
-            },
-            {
-              "source": "hls",
-              "id": "s8",
-              "name": "Peacock 4K (HEVC)",
-              "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui%2Fpeacock-4k-hevc-es"
-            }
-          ],
-          "iframe": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui",
-          "embed": "https://dami-tv.pro/embed/?id=wc%2F2026-07-11%2Farg-sui"
         }
       ]
     },
