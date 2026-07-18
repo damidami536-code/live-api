@@ -36,17 +36,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=afle%2F2026-07-18%2Flon-par"
+              "embed": "https://damitv.app/embed/?id=afle%2F2026-07-18%2Flon-par"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=afle%2F2026-07-18%2Flon-par&sd=1"
+              "embed": "https://damitv.app/embed/?id=afle%2F2026-07-18%2Flon-par&sd=1"
             }
           ],
-          "iframe": "/embed/?id=afle%2F2026-07-18%2Flon-par",
-          "embed": "/embed/?id=afle%2F2026-07-18%2Flon-par"
+          "iframe": "https://damitv.app/embed/?id=afle%2F2026-07-18%2Flon-par",
+          "embed": "https://damitv.app/embed/?id=afle%2F2026-07-18%2Flon-par"
         },
         {
           "id": "afle/2026-07-18/vie-rhe",
@@ -76,17 +76,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=afle%2F2026-07-18%2Fvie-rhe"
+              "embed": "https://damitv.app/embed/?id=afle%2F2026-07-18%2Fvie-rhe"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=afle%2F2026-07-18%2Fvie-rhe&sd=1"
+              "embed": "https://damitv.app/embed/?id=afle%2F2026-07-18%2Fvie-rhe&sd=1"
             }
           ],
-          "iframe": "/embed/?id=afle%2F2026-07-18%2Fvie-rhe",
-          "embed": "/embed/?id=afle%2F2026-07-18%2Fvie-rhe"
+          "iframe": "https://damitv.app/embed/?id=afle%2F2026-07-18%2Fvie-rhe",
+          "embed": "https://damitv.app/embed/?id=afle%2F2026-07-18%2Fvie-rhe"
         },
         {
           "id": "afle/2026-07-18/alp-ber",
@@ -116,17 +116,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=afle%2F2026-07-18%2Falp-ber"
+              "embed": "https://damitv.app/embed/?id=afle%2F2026-07-18%2Falp-ber"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=afle%2F2026-07-18%2Falp-ber&sd=1"
+              "embed": "https://damitv.app/embed/?id=afle%2F2026-07-18%2Falp-ber&sd=1"
             }
           ],
-          "iframe": "/embed/?id=afle%2F2026-07-18%2Falp-ber",
-          "embed": "/embed/?id=afle%2F2026-07-18%2Falp-ber"
+          "iframe": "https://damitv.app/embed/?id=afle%2F2026-07-18%2Falp-ber",
+          "embed": "https://damitv.app/embed/?id=afle%2F2026-07-18%2Falp-ber"
         },
         {
           "id": "cfl/2026-07-18/mtl-cgy",
@@ -156,17 +156,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=cfl%2F2026-07-18%2Fmtl-cgy"
+              "embed": "https://damitv.app/embed/?id=cfl%2F2026-07-18%2Fmtl-cgy"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=cfl%2F2026-07-18%2Fmtl-cgy&sd=1"
+              "embed": "https://damitv.app/embed/?id=cfl%2F2026-07-18%2Fmtl-cgy&sd=1"
             }
           ],
-          "iframe": "/embed/?id=cfl%2F2026-07-18%2Fmtl-cgy",
-          "embed": "/embed/?id=cfl%2F2026-07-18%2Fmtl-cgy"
+          "iframe": "https://damitv.app/embed/?id=cfl%2F2026-07-18%2Fmtl-cgy",
+          "embed": "https://damitv.app/embed/?id=cfl%2F2026-07-18%2Fmtl-cgy"
         },
         {
           "id": "cfl/2026-07-18/tor-ham",
@@ -196,17 +196,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=cfl%2F2026-07-18%2Ftor-ham"
+              "embed": "https://damitv.app/embed/?id=cfl%2F2026-07-18%2Ftor-ham"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=cfl%2F2026-07-18%2Ftor-ham&sd=1"
+              "embed": "https://damitv.app/embed/?id=cfl%2F2026-07-18%2Ftor-ham&sd=1"
             }
           ],
-          "iframe": "/embed/?id=cfl%2F2026-07-18%2Ftor-ham",
-          "embed": "/embed/?id=cfl%2F2026-07-18%2Ftor-ham"
+          "iframe": "https://damitv.app/embed/?id=cfl%2F2026-07-18%2Ftor-ham",
+          "embed": "https://damitv.app/embed/?id=cfl%2F2026-07-18%2Ftor-ham"
         },
         {
           "id": "afle/2026-07-19/fir-pan",
@@ -236,17 +236,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=afle%2F2026-07-19%2Ffir-pan"
+              "embed": "https://damitv.app/embed/?id=afle%2F2026-07-19%2Ffir-pan"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=afle%2F2026-07-19%2Ffir-pan&sd=1"
+              "embed": "https://damitv.app/embed/?id=afle%2F2026-07-19%2Ffir-pan&sd=1"
             }
           ],
-          "iframe": "/embed/?id=afle%2F2026-07-19%2Ffir-pan",
-          "embed": "/embed/?id=afle%2F2026-07-19%2Ffir-pan"
+          "iframe": "https://damitv.app/embed/?id=afle%2F2026-07-19%2Ffir-pan",
+          "embed": "https://damitv.app/embed/?id=afle%2F2026-07-19%2Ffir-pan"
         },
         {
           "id": "cfl/2026-07-19/wpg-ott",
@@ -276,17 +276,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=cfl%2F2026-07-19%2Fwpg-ott"
+              "embed": "https://damitv.app/embed/?id=cfl%2F2026-07-19%2Fwpg-ott"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=cfl%2F2026-07-19%2Fwpg-ott&sd=1"
+              "embed": "https://damitv.app/embed/?id=cfl%2F2026-07-19%2Fwpg-ott&sd=1"
             }
           ],
-          "iframe": "/embed/?id=cfl%2F2026-07-19%2Fwpg-ott",
-          "embed": "/embed/?id=cfl%2F2026-07-19%2Fwpg-ott"
+          "iframe": "https://damitv.app/embed/?id=cfl%2F2026-07-19%2Fwpg-ott",
+          "embed": "https://damitv.app/embed/?id=cfl%2F2026-07-19%2Fwpg-ott"
         }
       ]
     },
@@ -322,17 +322,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=afl%2F2026-07-18%2Fnmfc-melb"
+              "embed": "https://damitv.app/embed/?id=afl%2F2026-07-18%2Fnmfc-melb"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=afl%2F2026-07-18%2Fnmfc-melb&sd=1"
+              "embed": "https://damitv.app/embed/?id=afl%2F2026-07-18%2Fnmfc-melb&sd=1"
             }
           ],
-          "iframe": "/embed/?id=afl%2F2026-07-18%2Fnmfc-melb",
-          "embed": "/embed/?id=afl%2F2026-07-18%2Fnmfc-melb"
+          "iframe": "https://damitv.app/embed/?id=afl%2F2026-07-18%2Fnmfc-melb",
+          "embed": "https://damitv.app/embed/?id=afl%2F2026-07-18%2Fnmfc-melb"
         },
         {
           "id": "afl/2026-07-18/coll-carl",
@@ -362,17 +362,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=afl%2F2026-07-18%2Fcoll-carl"
+              "embed": "https://damitv.app/embed/?id=afl%2F2026-07-18%2Fcoll-carl"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=afl%2F2026-07-18%2Fcoll-carl&sd=1"
+              "embed": "https://damitv.app/embed/?id=afl%2F2026-07-18%2Fcoll-carl&sd=1"
             }
           ],
-          "iframe": "/embed/?id=afl%2F2026-07-18%2Fcoll-carl",
-          "embed": "/embed/?id=afl%2F2026-07-18%2Fcoll-carl"
+          "iframe": "https://damitv.app/embed/?id=afl%2F2026-07-18%2Fcoll-carl",
+          "embed": "https://damitv.app/embed/?id=afl%2F2026-07-18%2Fcoll-carl"
         },
         {
           "id": "afl/2026-07-18/wce-bl",
@@ -402,17 +402,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=afl%2F2026-07-18%2Fwce-bl"
+              "embed": "https://damitv.app/embed/?id=afl%2F2026-07-18%2Fwce-bl"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=afl%2F2026-07-18%2Fwce-bl&sd=1"
+              "embed": "https://damitv.app/embed/?id=afl%2F2026-07-18%2Fwce-bl&sd=1"
             }
           ],
-          "iframe": "/embed/?id=afl%2F2026-07-18%2Fwce-bl",
-          "embed": "/embed/?id=afl%2F2026-07-18%2Fwce-bl"
+          "iframe": "https://damitv.app/embed/?id=afl%2F2026-07-18%2Fwce-bl",
+          "embed": "https://damitv.app/embed/?id=afl%2F2026-07-18%2Fwce-bl"
         },
         {
           "id": "afl/2026-07-19/rich-haw",
@@ -442,17 +442,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=afl%2F2026-07-19%2Frich-haw"
+              "embed": "https://damitv.app/embed/?id=afl%2F2026-07-19%2Frich-haw"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=afl%2F2026-07-19%2Frich-haw&sd=1"
+              "embed": "https://damitv.app/embed/?id=afl%2F2026-07-19%2Frich-haw&sd=1"
             }
           ],
-          "iframe": "/embed/?id=afl%2F2026-07-19%2Frich-haw",
-          "embed": "/embed/?id=afl%2F2026-07-19%2Frich-haw"
+          "iframe": "https://damitv.app/embed/?id=afl%2F2026-07-19%2Frich-haw",
+          "embed": "https://damitv.app/embed/?id=afl%2F2026-07-19%2Frich-haw"
         },
         {
           "id": "afl/2026-07-19/gcfc-wb",
@@ -482,17 +482,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=afl%2F2026-07-19%2Fgcfc-wb"
+              "embed": "https://damitv.app/embed/?id=afl%2F2026-07-19%2Fgcfc-wb"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=afl%2F2026-07-19%2Fgcfc-wb&sd=1"
+              "embed": "https://damitv.app/embed/?id=afl%2F2026-07-19%2Fgcfc-wb&sd=1"
             }
           ],
-          "iframe": "/embed/?id=afl%2F2026-07-19%2Fgcfc-wb",
-          "embed": "/embed/?id=afl%2F2026-07-19%2Fgcfc-wb"
+          "iframe": "https://damitv.app/embed/?id=afl%2F2026-07-19%2Fgcfc-wb",
+          "embed": "https://damitv.app/embed/?id=afl%2F2026-07-19%2Fgcfc-wb"
         },
         {
           "id": "afl/2026-07-19/ess-gws",
@@ -522,17 +522,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=afl%2F2026-07-19%2Fess-gws"
+              "embed": "https://damitv.app/embed/?id=afl%2F2026-07-19%2Fess-gws"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=afl%2F2026-07-19%2Fess-gws&sd=1"
+              "embed": "https://damitv.app/embed/?id=afl%2F2026-07-19%2Fess-gws&sd=1"
             }
           ],
-          "iframe": "/embed/?id=afl%2F2026-07-19%2Fess-gws",
-          "embed": "/embed/?id=afl%2F2026-07-19%2Fess-gws"
+          "iframe": "https://damitv.app/embed/?id=afl%2F2026-07-19%2Fess-gws",
+          "embed": "https://damitv.app/embed/?id=afl%2F2026-07-19%2Fess-gws"
         }
       ]
     },
@@ -568,17 +568,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fpit-cle"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fpit-cle"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fpit-cle&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fpit-cle&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Fpit-cle",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Fpit-cle"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fpit-cle",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fpit-cle"
         },
         {
           "id": "mlb/2026-07-18/min-chc",
@@ -608,17 +608,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fmin-chc"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fmin-chc"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fmin-chc&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fmin-chc&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Fmin-chc",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Fmin-chc"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fmin-chc",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fmin-chc"
         },
         {
           "id": "mlb/2026-07-18/chw-tor",
@@ -648,17 +648,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fchw-tor"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fchw-tor"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fchw-tor&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fchw-tor&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Fchw-tor",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Fchw-tor"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fchw-tor",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fchw-tor"
         },
         {
           "id": "mlb/2026-07-18/cin-col",
@@ -688,17 +688,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fcin-col"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fcin-col"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fcin-col&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fcin-col&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Fcin-col",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Fcin-col"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fcin-col",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fcin-col"
         },
         {
           "id": "mlb/2026-07-18/nym-phi",
@@ -728,17 +728,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fnym-phi"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fnym-phi"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fnym-phi&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fnym-phi&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Fnym-phi",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Fnym-phi"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fnym-phi",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fnym-phi"
         },
         {
           "id": "mlb/2026-07-18/tb-bos",
@@ -768,17 +768,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Ftb-bos"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Ftb-bos"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Ftb-bos&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Ftb-bos&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Ftb-bos",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Ftb-bos"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Ftb-bos",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Ftb-bos"
         },
         {
           "id": "mlb/2026-07-18/tex-atl",
@@ -808,17 +808,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Ftex-atl"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Ftex-atl"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Ftex-atl&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Ftex-atl&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Ftex-atl",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Ftex-atl"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Ftex-atl",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Ftex-atl"
         },
         {
           "id": "mlb/2026-07-18/bal-hou",
@@ -848,17 +848,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fbal-hou"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fbal-hou"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fbal-hou&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fbal-hou&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Fbal-hou",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Fbal-hou"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fbal-hou",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fbal-hou"
         },
         {
           "id": "mlb/2026-07-18/mia-mil",
@@ -888,17 +888,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fmia-mil"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fmia-mil"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fmia-mil&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fmia-mil&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Fmia-mil",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Fmia-mil"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fmia-mil",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fmia-mil"
         },
         {
           "id": "mlb/2026-07-18/sd-kc",
@@ -928,17 +928,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fsd-kc"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fsd-kc"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fsd-kc&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fsd-kc&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Fsd-kc",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Fsd-kc"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fsd-kc",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fsd-kc"
         },
         {
           "id": "mlb/2026-07-18/stl-ari",
@@ -968,17 +968,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fstl-ari"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fstl-ari"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fstl-ari&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fstl-ari&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Fstl-ari",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Fstl-ari"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fstl-ari",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fstl-ari"
         },
         {
           "id": "mlb/2026-07-18/pit-cle/game-2",
@@ -1008,17 +1008,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fpit-cle%2Fgame-2"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fpit-cle%2Fgame-2"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fpit-cle%2Fgame-2&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fpit-cle%2Fgame-2&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Fpit-cle%2Fgame-2",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Fpit-cle%2Fgame-2"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fpit-cle%2Fgame-2",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fpit-cle%2Fgame-2"
         },
         {
           "id": "mlb/2026-07-18/lad-nyy",
@@ -1048,17 +1048,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Flad-nyy"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Flad-nyy"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Flad-nyy&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Flad-nyy&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Flad-nyy",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Flad-nyy"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Flad-nyy",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Flad-nyy"
         },
         {
           "id": "mlb/2026-07-18/sf-sea",
@@ -1088,17 +1088,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fsf-sea"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fsf-sea"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fsf-sea&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fsf-sea&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Fsf-sea",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Fsf-sea"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fsf-sea",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fsf-sea"
         },
         {
           "id": "mlb/2026-07-18/wsh-ath",
@@ -1128,17 +1128,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fwsh-ath"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fwsh-ath"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fwsh-ath&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fwsh-ath&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Fwsh-ath",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Fwsh-ath"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fwsh-ath",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fwsh-ath"
         },
         {
           "id": "mlb/2026-07-18/det-laa",
@@ -1168,17 +1168,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fdet-laa"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fdet-laa"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-07-18%2Fdet-laa&sd=1"
+              "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fdet-laa&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-07-18%2Fdet-laa",
-          "embed": "/embed/?id=mlb%2F2026-07-18%2Fdet-laa"
+          "iframe": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fdet-laa",
+          "embed": "https://damitv.app/embed/?id=mlb%2F2026-07-18%2Fdet-laa"
         }
       ]
     },
@@ -1214,17 +1214,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Fbos-orl"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fbos-orl"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Fbos-orl&sd=1"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fbos-orl&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nba%2F2026-07-18%2Fbos-orl",
-          "embed": "/embed/?id=nba%2F2026-07-18%2Fbos-orl"
+          "iframe": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fbos-orl",
+          "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fbos-orl"
         },
         {
           "id": "nba/2026-07-18/phi-mil",
@@ -1254,17 +1254,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Fphi-mil"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fphi-mil"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Fphi-mil&sd=1"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fphi-mil&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nba%2F2026-07-18%2Fphi-mil",
-          "embed": "/embed/?id=nba%2F2026-07-18%2Fphi-mil"
+          "iframe": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fphi-mil",
+          "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fphi-mil"
         },
         {
           "id": "nba/2026-07-18/hou-mem",
@@ -1294,17 +1294,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Fhou-mem"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fhou-mem"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Fhou-mem&sd=1"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fhou-mem&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nba%2F2026-07-18%2Fhou-mem",
-          "embed": "/embed/?id=nba%2F2026-07-18%2Fhou-mem"
+          "iframe": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fhou-mem",
+          "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fhou-mem"
         },
         {
           "id": "nba/2026-07-18/atl-wsh",
@@ -1334,17 +1334,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Fatl-wsh"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fatl-wsh"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Fatl-wsh&sd=1"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fatl-wsh&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nba%2F2026-07-18%2Fatl-wsh",
-          "embed": "/embed/?id=nba%2F2026-07-18%2Fatl-wsh"
+          "iframe": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fatl-wsh",
+          "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fatl-wsh"
         },
         {
           "id": "wnba/2026-07-18/ny-ind",
@@ -1374,17 +1374,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=wnba%2F2026-07-18%2Fny-ind"
+              "embed": "https://damitv.app/embed/?id=wnba%2F2026-07-18%2Fny-ind"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=wnba%2F2026-07-18%2Fny-ind&sd=1"
+              "embed": "https://damitv.app/embed/?id=wnba%2F2026-07-18%2Fny-ind&sd=1"
             }
           ],
-          "iframe": "/embed/?id=wnba%2F2026-07-18%2Fny-ind",
-          "embed": "/embed/?id=wnba%2F2026-07-18%2Fny-ind"
+          "iframe": "https://damitv.app/embed/?id=wnba%2F2026-07-18%2Fny-ind",
+          "embed": "https://damitv.app/embed/?id=wnba%2F2026-07-18%2Fny-ind"
         },
         {
           "id": "wnba/2026-07-18/por-min",
@@ -1414,17 +1414,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=wnba%2F2026-07-18%2Fpor-min"
+              "embed": "https://damitv.app/embed/?id=wnba%2F2026-07-18%2Fpor-min"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=wnba%2F2026-07-18%2Fpor-min&sd=1"
+              "embed": "https://damitv.app/embed/?id=wnba%2F2026-07-18%2Fpor-min&sd=1"
             }
           ],
-          "iframe": "/embed/?id=wnba%2F2026-07-18%2Fpor-min",
-          "embed": "/embed/?id=wnba%2F2026-07-18%2Fpor-min"
+          "iframe": "https://damitv.app/embed/?id=wnba%2F2026-07-18%2Fpor-min",
+          "embed": "https://damitv.app/embed/?id=wnba%2F2026-07-18%2Fpor-min"
         },
         {
           "id": "nba/2026-07-18/gs-lal",
@@ -1454,17 +1454,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Fgs-lal"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fgs-lal"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Fgs-lal&sd=1"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fgs-lal&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nba%2F2026-07-18%2Fgs-lal",
-          "embed": "/embed/?id=nba%2F2026-07-18%2Fgs-lal"
+          "iframe": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fgs-lal",
+          "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fgs-lal"
         },
         {
           "id": "wnba/2026-07-18/wsh-gs",
@@ -1494,17 +1494,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=wnba%2F2026-07-18%2Fwsh-gs"
+              "embed": "https://damitv.app/embed/?id=wnba%2F2026-07-18%2Fwsh-gs"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=wnba%2F2026-07-18%2Fwsh-gs&sd=1"
+              "embed": "https://damitv.app/embed/?id=wnba%2F2026-07-18%2Fwsh-gs&sd=1"
             }
           ],
-          "iframe": "/embed/?id=wnba%2F2026-07-18%2Fwsh-gs",
-          "embed": "/embed/?id=wnba%2F2026-07-18%2Fwsh-gs"
+          "iframe": "https://damitv.app/embed/?id=wnba%2F2026-07-18%2Fwsh-gs",
+          "embed": "https://damitv.app/embed/?id=wnba%2F2026-07-18%2Fwsh-gs"
         },
         {
           "id": "nba/2026-07-18/ind-no",
@@ -1534,17 +1534,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Find-no"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Find-no"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Find-no&sd=1"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Find-no&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nba%2F2026-07-18%2Find-no",
-          "embed": "/embed/?id=nba%2F2026-07-18%2Find-no"
+          "iframe": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Find-no",
+          "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Find-no"
         },
         {
           "id": "nba/2026-07-18/sa-phx",
@@ -1574,17 +1574,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Fsa-phx"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fsa-phx"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nba%2F2026-07-18%2Fsa-phx&sd=1"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fsa-phx&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nba%2F2026-07-18%2Fsa-phx",
-          "embed": "/embed/?id=nba%2F2026-07-18%2Fsa-phx"
+          "iframe": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fsa-phx",
+          "embed": "https://damitv.app/embed/?id=nba%2F2026-07-18%2Fsa-phx"
         },
         {
           "id": "nba/2026-07-19/bkn-okc",
@@ -1614,17 +1614,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nba%2F2026-07-19%2Fbkn-okc"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-19%2Fbkn-okc"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nba%2F2026-07-19%2Fbkn-okc&sd=1"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-19%2Fbkn-okc&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nba%2F2026-07-19%2Fbkn-okc",
-          "embed": "/embed/?id=nba%2F2026-07-19%2Fbkn-okc"
+          "iframe": "https://damitv.app/embed/?id=nba%2F2026-07-19%2Fbkn-okc",
+          "embed": "https://damitv.app/embed/?id=nba%2F2026-07-19%2Fbkn-okc"
         },
         {
           "id": "nba/2026-07-19/den-tor",
@@ -1654,17 +1654,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nba%2F2026-07-19%2Fden-tor"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-19%2Fden-tor"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nba%2F2026-07-19%2Fden-tor&sd=1"
+              "embed": "https://damitv.app/embed/?id=nba%2F2026-07-19%2Fden-tor&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nba%2F2026-07-19%2Fden-tor",
-          "embed": "/embed/?id=nba%2F2026-07-19%2Fden-tor"
+          "iframe": "https://damitv.app/embed/?id=nba%2F2026-07-19%2Fden-tor",
+          "embed": "https://damitv.app/embed/?id=nba%2F2026-07-19%2Fden-tor"
         }
       ]
     },
@@ -1700,17 +1700,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=rizin-landmark-15"
+              "embed": "https://damitv.app/embed/?id=rizin-landmark-15"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=rizin-landmark-15&sd=1"
+              "embed": "https://damitv.app/embed/?id=rizin-landmark-15&sd=1"
             }
           ],
-          "iframe": "/embed/?id=rizin-landmark-15",
-          "embed": "/embed/?id=rizin-landmark-15"
+          "iframe": "https://damitv.app/embed/?id=rizin-landmark-15",
+          "embed": "https://damitv.app/embed/?id=rizin-landmark-15"
         },
         {
           "id": "aew/collision/2026-07-18",
@@ -1740,17 +1740,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=aew%2Fcollision%2F2026-07-18"
+              "embed": "https://damitv.app/embed/?id=aew%2Fcollision%2F2026-07-18"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=aew%2Fcollision%2F2026-07-18&sd=1"
+              "embed": "https://damitv.app/embed/?id=aew%2Fcollision%2F2026-07-18&sd=1"
             }
           ],
-          "iframe": "/embed/?id=aew%2Fcollision%2F2026-07-18",
-          "embed": "/embed/?id=aew%2Fcollision%2F2026-07-18"
+          "iframe": "https://damitv.app/embed/?id=aew%2Fcollision%2F2026-07-18",
+          "embed": "https://damitv.app/embed/?id=aew%2Fcollision%2F2026-07-18"
         },
         {
           "id": "wwe/2026-07-18/snme",
@@ -1780,17 +1780,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=wwe%2F2026-07-18%2Fsnme"
+              "embed": "https://damitv.app/embed/?id=wwe%2F2026-07-18%2Fsnme"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=wwe%2F2026-07-18%2Fsnme&sd=1"
+              "embed": "https://damitv.app/embed/?id=wwe%2F2026-07-18%2Fsnme&sd=1"
             }
           ],
-          "iframe": "/embed/?id=wwe%2F2026-07-18%2Fsnme",
-          "embed": "/embed/?id=wwe%2F2026-07-18%2Fsnme"
+          "iframe": "https://damitv.app/embed/?id=wwe%2F2026-07-18%2Fsnme",
+          "embed": "https://damitv.app/embed/?id=wwe%2F2026-07-18%2Fsnme"
         }
       ]
     },
@@ -1826,17 +1826,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=friendly%2F2026-07-18%2Fdun-eve"
+              "embed": "https://damitv.app/embed/?id=friendly%2F2026-07-18%2Fdun-eve"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=friendly%2F2026-07-18%2Fdun-eve&sd=1"
+              "embed": "https://damitv.app/embed/?id=friendly%2F2026-07-18%2Fdun-eve&sd=1"
             }
           ],
-          "iframe": "/embed/?id=friendly%2F2026-07-18%2Fdun-eve",
-          "embed": "/embed/?id=friendly%2F2026-07-18%2Fdun-eve"
+          "iframe": "https://damitv.app/embed/?id=friendly%2F2026-07-18%2Fdun-eve",
+          "embed": "https://damitv.app/embed/?id=friendly%2F2026-07-18%2Fdun-eve"
         },
         {
           "id": "friendly/2026-07-18/mun-wxm",
@@ -1866,17 +1866,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=friendly%2F2026-07-18%2Fmun-wxm"
+              "embed": "https://damitv.app/embed/?id=friendly%2F2026-07-18%2Fmun-wxm"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=friendly%2F2026-07-18%2Fmun-wxm&sd=1"
+              "embed": "https://damitv.app/embed/?id=friendly%2F2026-07-18%2Fmun-wxm&sd=1"
             }
           ],
-          "iframe": "/embed/?id=friendly%2F2026-07-18%2Fmun-wxm",
-          "embed": "/embed/?id=friendly%2F2026-07-18%2Fmun-wxm"
+          "iframe": "https://damitv.app/embed/?id=friendly%2F2026-07-18%2Fmun-wxm",
+          "embed": "https://damitv.app/embed/?id=friendly%2F2026-07-18%2Fmun-wxm"
         },
         {
           "id": "wc/2026-07-18/fra-eng",
@@ -1906,53 +1906,53 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=wc%2F2026-07-18%2Ffra-eng"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-18%2Ffra-eng"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=wc%2F2026-07-18%2Ffra-eng&sd=1"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-18%2Ffra-eng&sd=1"
             },
             {
               "source": "hls",
               "id": "s2",
               "name": "FOX",
-              "embed": "/embed/?id=wc%2F2026-07-18%2Ffra-eng%2Ffox-en"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-18%2Ffra-eng%2Ffox-en"
             },
             {
               "source": "hls",
               "id": "s3",
               "name": "FOX 4K (HEVC)",
-              "embed": "/embed/?id=wc%2F2026-07-18%2Ffra-eng%2Ffox-4k-hevc-en"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-18%2Ffra-eng%2Ffox-4k-hevc-en"
             },
             {
               "source": "hls",
               "id": "s4",
               "name": "BBC/ITV",
-              "embed": "/embed/?id=wc%2F2026-07-18%2Ffra-eng%2Fuk"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-18%2Ffra-eng%2Fuk"
             },
             {
               "source": "hls",
               "id": "s5",
               "name": "DAZN Spain",
-              "embed": "/embed/?id=wc%2F2026-07-18%2Ffra-eng%2Fdazn-spain-es"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-18%2Ffra-eng%2Fdazn-spain-es"
             },
             {
               "source": "hls",
               "id": "s6",
               "name": "Telemundo",
-              "embed": "/embed/?id=wc%2F2026-07-18%2Ffra-eng%2Ftelemundo-es"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-18%2Ffra-eng%2Ftelemundo-es"
             },
             {
               "source": "hls",
               "id": "s7",
               "name": "Peacock 4K (HEVC)",
-              "embed": "/embed/?id=wc%2F2026-07-18%2Ffra-eng%2Fpeacock-4k-hevc-es"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-18%2Ffra-eng%2Fpeacock-4k-hevc-es"
             }
           ],
-          "iframe": "/embed/?id=wc%2F2026-07-18%2Ffra-eng",
-          "embed": "/embed/?id=wc%2F2026-07-18%2Ffra-eng"
+          "iframe": "https://damitv.app/embed/?id=wc%2F2026-07-18%2Ffra-eng",
+          "embed": "https://damitv.app/embed/?id=wc%2F2026-07-18%2Ffra-eng"
         },
         {
           "id": "wc/2026-07-19/esp-arg",
@@ -1982,59 +1982,59 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=wc%2F2026-07-19%2Fesp-arg"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-19%2Fesp-arg"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=wc%2F2026-07-19%2Fesp-arg&sd=1"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-19%2Fesp-arg&sd=1"
             },
             {
               "source": "hls",
               "id": "s2",
               "name": "FOX",
-              "embed": "/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Ffox-en"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Ffox-en"
             },
             {
               "source": "hls",
               "id": "s3",
               "name": "FOX 4K (HEVC)",
-              "embed": "/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Ffox-4k-hevc-en"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Ffox-4k-hevc-en"
             },
             {
               "source": "hls",
               "id": "s4",
               "name": "BBC/ITV",
-              "embed": "/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Fuk"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Fuk"
             },
             {
               "source": "hls",
               "id": "s5",
               "name": "beIN Sports 1",
-              "embed": "/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Fbein-sports-1-fr"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Fbein-sports-1-fr"
             },
             {
               "source": "hls",
               "id": "s6",
               "name": "DAZN Spain",
-              "embed": "/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Fdazn-spain-es"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Fdazn-spain-es"
             },
             {
               "source": "hls",
               "id": "s7",
               "name": "Telemundo",
-              "embed": "/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Ftelemundo-es"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Ftelemundo-es"
             },
             {
               "source": "hls",
               "id": "s8",
               "name": "Peacock 4K (HEVC)",
-              "embed": "/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Fpeacock-4k-hevc-es"
+              "embed": "https://damitv.app/embed/?id=wc%2F2026-07-19%2Fesp-arg%2Fpeacock-4k-hevc-es"
             }
           ],
-          "iframe": "/embed/?id=wc%2F2026-07-19%2Fesp-arg",
-          "embed": "/embed/?id=wc%2F2026-07-19%2Fesp-arg"
+          "iframe": "https://damitv.app/embed/?id=wc%2F2026-07-19%2Fesp-arg",
+          "embed": "https://damitv.app/embed/?id=wc%2F2026-07-19%2Fesp-arg"
         }
       ]
     },
@@ -2070,23 +2070,23 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=tour-de-france---stage-14"
+              "embed": "https://damitv.app/embed/?id=tour-de-france---stage-14"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=tour-de-france---stage-14&sd=1"
+              "embed": "https://damitv.app/embed/?id=tour-de-france---stage-14&sd=1"
             },
             {
               "source": "hls",
               "id": "s2",
               "name": "Peacock",
-              "embed": "/embed/?id=tour-de-france---stage-14%2Fpeacock-en"
+              "embed": "https://damitv.app/embed/?id=tour-de-france---stage-14%2Fpeacock-en"
             }
           ],
-          "iframe": "/embed/?id=tour-de-france---stage-14",
-          "embed": "/embed/?id=tour-de-france---stage-14"
+          "iframe": "https://damitv.app/embed/?id=tour-de-france---stage-14",
+          "embed": "https://damitv.app/embed/?id=tour-de-france---stage-14"
         },
         {
           "id": "tour-de-france---stage-15",
@@ -2116,23 +2116,23 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=tour-de-france---stage-15"
+              "embed": "https://damitv.app/embed/?id=tour-de-france---stage-15"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=tour-de-france---stage-15&sd=1"
+              "embed": "https://damitv.app/embed/?id=tour-de-france---stage-15&sd=1"
             },
             {
               "source": "hls",
               "id": "s2",
               "name": "Peacock",
-              "embed": "/embed/?id=tour-de-france---stage-15%2Fpeacock-en"
+              "embed": "https://damitv.app/embed/?id=tour-de-france---stage-15%2Fpeacock-en"
             }
           ],
-          "iframe": "/embed/?id=tour-de-france---stage-15",
-          "embed": "/embed/?id=tour-de-france---stage-15"
+          "iframe": "https://damitv.app/embed/?id=tour-de-france---stage-15",
+          "embed": "https://damitv.app/embed/?id=tour-de-france---stage-15"
         }
       ]
     },
@@ -2168,47 +2168,47 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Ffp3"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Ffp3"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Ffp3&sd=1"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Ffp3&sd=1"
             },
             {
               "source": "hls",
               "id": "s2",
               "name": "Apple TV (F1TV)",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Ffp3%2Ff1tv"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Ffp3%2Ff1tv"
             },
             {
               "source": "hls",
               "id": "s3",
               "name": "DAZN F1",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Ffp3%2Fdazn-es"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Ffp3%2Fdazn-es"
             },
             {
               "source": "hls",
               "id": "s4",
               "name": "Sky Sport F1",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Ffp3%2Fsky-sport-f1-de"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Ffp3%2Fsky-sport-f1-de"
             },
             {
               "source": "hls",
               "id": "s5",
               "name": "V Sport Motor",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Ffp3%2Fv-sport-motor-sv"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Ffp3%2Fv-sport-motor-sv"
             },
             {
               "source": "hls",
               "id": "s6",
               "name": "Viaplay",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Ffp3%2Fviaplay-nl"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Ffp3%2Fviaplay-nl"
             }
           ],
-          "iframe": "/embed/?id=f1%2F2026%2Fbelgium%2Ffp3",
-          "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Ffp3"
+          "iframe": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Ffp3",
+          "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Ffp3"
         },
         {
           "id": "f1/2026/belgium/qualifying",
@@ -2238,47 +2238,47 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying&sd=1"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying&sd=1"
             },
             {
               "source": "hls",
               "id": "s2",
               "name": "Apple TV (F1TV)",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying%2Ff1tv"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying%2Ff1tv"
             },
             {
               "source": "hls",
               "id": "s3",
               "name": "DAZN F1",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying%2Fdazn-es"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying%2Fdazn-es"
             },
             {
               "source": "hls",
               "id": "s4",
               "name": "Sky Sport F1",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying%2Fsky-sport-f1-de"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying%2Fsky-sport-f1-de"
             },
             {
               "source": "hls",
               "id": "s5",
               "name": "V Sport Motor",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying%2Fv-sport-motor-sv"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying%2Fv-sport-motor-sv"
             },
             {
               "source": "hls",
               "id": "s6",
               "name": "Viaplay",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying%2Fviaplay-nl"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying%2Fviaplay-nl"
             }
           ],
-          "iframe": "/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying",
-          "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying"
+          "iframe": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying",
+          "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Fqualifying"
         },
         {
           "id": "smx-wk24",
@@ -2308,17 +2308,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=smx-wk24"
+              "embed": "https://damitv.app/embed/?id=smx-wk24"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=smx-wk24&sd=1"
+              "embed": "https://damitv.app/embed/?id=smx-wk24&sd=1"
             }
           ],
-          "iframe": "/embed/?id=smx-wk24",
-          "embed": "/embed/?id=smx-wk24"
+          "iframe": "https://damitv.app/embed/?id=smx-wk24",
+          "embed": "https://damitv.app/embed/?id=smx-wk24"
         },
         {
           "id": "f1/2026/belgium/race",
@@ -2348,47 +2348,47 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Frace"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Frace"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Frace&sd=1"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Frace&sd=1"
             },
             {
               "source": "hls",
               "id": "s2",
               "name": "Apple TV (F1TV)",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Frace%2Ff1tv"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Frace%2Ff1tv"
             },
             {
               "source": "hls",
               "id": "s3",
               "name": "DAZN F1",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Frace%2Fdazn-es"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Frace%2Fdazn-es"
             },
             {
               "source": "hls",
               "id": "s4",
               "name": "Sky Sport F1",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Frace%2Fsky-sport-f1-de"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Frace%2Fsky-sport-f1-de"
             },
             {
               "source": "hls",
               "id": "s5",
               "name": "V Sport Motor",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Frace%2Fv-sport-motor-sv"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Frace%2Fv-sport-motor-sv"
             },
             {
               "source": "hls",
               "id": "s6",
               "name": "Viaplay",
-              "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Frace%2Fviaplay-nl"
+              "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Frace%2Fviaplay-nl"
             }
           ],
-          "iframe": "/embed/?id=f1%2F2026%2Fbelgium%2Frace",
-          "embed": "/embed/?id=f1%2F2026%2Fbelgium%2Frace"
+          "iframe": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Frace",
+          "embed": "https://damitv.app/embed/?id=f1%2F2026%2Fbelgium%2Frace"
         }
       ]
     },
@@ -2424,17 +2424,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nc%2F2026-07-18%2Fnzl-irl"
+              "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Fnzl-irl"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nc%2F2026-07-18%2Fnzl-irl&sd=1"
+              "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Fnzl-irl&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nc%2F2026-07-18%2Fnzl-irl",
-          "embed": "/embed/?id=nc%2F2026-07-18%2Fnzl-irl"
+          "iframe": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Fnzl-irl",
+          "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Fnzl-irl"
         },
         {
           "id": "nrl/2026-07-18/new-st.",
@@ -2464,17 +2464,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nrl%2F2026-07-18%2Fnew-st."
+              "embed": "https://damitv.app/embed/?id=nrl%2F2026-07-18%2Fnew-st."
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nrl%2F2026-07-18%2Fnew-st.&sd=1"
+              "embed": "https://damitv.app/embed/?id=nrl%2F2026-07-18%2Fnew-st.&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nrl%2F2026-07-18%2Fnew-st.",
-          "embed": "/embed/?id=nrl%2F2026-07-18%2Fnew-st."
+          "iframe": "https://damitv.app/embed/?id=nrl%2F2026-07-18%2Fnew-st.",
+          "embed": "https://damitv.app/embed/?id=nrl%2F2026-07-18%2Fnew-st."
         },
         {
           "id": "nc/2026-07-18/jpn-fra",
@@ -2504,17 +2504,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nc%2F2026-07-18%2Fjpn-fra"
+              "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Fjpn-fra"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nc%2F2026-07-18%2Fjpn-fra&sd=1"
+              "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Fjpn-fra&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nc%2F2026-07-18%2Fjpn-fra",
-          "embed": "/embed/?id=nc%2F2026-07-18%2Fjpn-fra"
+          "iframe": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Fjpn-fra",
+          "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Fjpn-fra"
         },
         {
           "id": "nrl/2026-07-18/can-wes",
@@ -2544,17 +2544,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nrl%2F2026-07-18%2Fcan-wes"
+              "embed": "https://damitv.app/embed/?id=nrl%2F2026-07-18%2Fcan-wes"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nrl%2F2026-07-18%2Fcan-wes&sd=1"
+              "embed": "https://damitv.app/embed/?id=nrl%2F2026-07-18%2Fcan-wes&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nrl%2F2026-07-18%2Fcan-wes",
-          "embed": "/embed/?id=nrl%2F2026-07-18%2Fcan-wes"
+          "iframe": "https://damitv.app/embed/?id=nrl%2F2026-07-18%2Fcan-wes",
+          "embed": "https://damitv.app/embed/?id=nrl%2F2026-07-18%2Fcan-wes"
         },
         {
           "id": "nc/2026-07-18/aus-ita",
@@ -2584,17 +2584,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nc%2F2026-07-18%2Faus-ita"
+              "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Faus-ita"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nc%2F2026-07-18%2Faus-ita&sd=1"
+              "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Faus-ita&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nc%2F2026-07-18%2Faus-ita",
-          "embed": "/embed/?id=nc%2F2026-07-18%2Faus-ita"
+          "iframe": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Faus-ita",
+          "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Faus-ita"
         },
         {
           "id": "nc/2026-07-18/fji-sco",
@@ -2624,17 +2624,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nc%2F2026-07-18%2Ffji-sco"
+              "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Ffji-sco"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nc%2F2026-07-18%2Ffji-sco&sd=1"
+              "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Ffji-sco&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nc%2F2026-07-18%2Ffji-sco",
-          "embed": "/embed/?id=nc%2F2026-07-18%2Ffji-sco"
+          "iframe": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Ffji-sco",
+          "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Ffji-sco"
         },
         {
           "id": "nc/2026-07-18/rsa-wal",
@@ -2664,17 +2664,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nc%2F2026-07-18%2Frsa-wal"
+              "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Frsa-wal"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nc%2F2026-07-18%2Frsa-wal&sd=1"
+              "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Frsa-wal&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nc%2F2026-07-18%2Frsa-wal",
-          "embed": "/embed/?id=nc%2F2026-07-18%2Frsa-wal"
+          "iframe": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Frsa-wal",
+          "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Frsa-wal"
         },
         {
           "id": "nc/2026-07-18/arg-eng",
@@ -2704,17 +2704,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nc%2F2026-07-18%2Farg-eng"
+              "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Farg-eng"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nc%2F2026-07-18%2Farg-eng&sd=1"
+              "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Farg-eng&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nc%2F2026-07-18%2Farg-eng",
-          "embed": "/embed/?id=nc%2F2026-07-18%2Farg-eng"
+          "iframe": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Farg-eng",
+          "embed": "https://damitv.app/embed/?id=nc%2F2026-07-18%2Farg-eng"
         },
         {
           "id": "nrl/2026-07-19/gol-man",
@@ -2744,17 +2744,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nrl%2F2026-07-19%2Fgol-man"
+              "embed": "https://damitv.app/embed/?id=nrl%2F2026-07-19%2Fgol-man"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nrl%2F2026-07-19%2Fgol-man&sd=1"
+              "embed": "https://damitv.app/embed/?id=nrl%2F2026-07-19%2Fgol-man&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nrl%2F2026-07-19%2Fgol-man",
-          "embed": "/embed/?id=nrl%2F2026-07-19%2Fgol-man"
+          "iframe": "https://damitv.app/embed/?id=nrl%2F2026-07-19%2Fgol-man",
+          "embed": "https://damitv.app/embed/?id=nrl%2F2026-07-19%2Fgol-man"
         },
         {
           "id": "nrl/2026-07-19/dol-nor",
@@ -2784,17 +2784,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nrl%2F2026-07-19%2Fdol-nor"
+              "embed": "https://damitv.app/embed/?id=nrl%2F2026-07-19%2Fdol-nor"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nrl%2F2026-07-19%2Fdol-nor&sd=1"
+              "embed": "https://damitv.app/embed/?id=nrl%2F2026-07-19%2Fdol-nor&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nrl%2F2026-07-19%2Fdol-nor",
-          "embed": "/embed/?id=nrl%2F2026-07-19%2Fdol-nor"
+          "iframe": "https://damitv.app/embed/?id=nrl%2F2026-07-19%2Fdol-nor",
+          "embed": "https://damitv.app/embed/?id=nrl%2F2026-07-19%2Fdol-nor"
         }
       ]
     },
@@ -2830,17 +2830,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mensvnl%2F2026-07-18%2Farg-ita"
+              "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Farg-ita"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mensvnl%2F2026-07-18%2Farg-ita&sd=1"
+              "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Farg-ita&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mensvnl%2F2026-07-18%2Farg-ita",
-          "embed": "/embed/?id=mensvnl%2F2026-07-18%2Farg-ita"
+          "iframe": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Farg-ita",
+          "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Farg-ita"
         },
         {
           "id": "mensvnl/2026-07-18/tür-slo",
@@ -2870,17 +2870,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mensvnl%2F2026-07-18%2Ft%C3%BCr-slo"
+              "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Ft%C3%BCr-slo"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mensvnl%2F2026-07-18%2Ft%C3%BCr-slo&sd=1"
+              "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Ft%C3%BCr-slo&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mensvnl%2F2026-07-18%2Ft%C3%BCr-slo",
-          "embed": "/embed/?id=mensvnl%2F2026-07-18%2Ft%C3%BCr-slo"
+          "iframe": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Ft%C3%BCr-slo",
+          "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Ft%C3%BCr-slo"
         },
         {
           "id": "mensvnl/2026-07-18/ser-ger",
@@ -2910,17 +2910,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mensvnl%2F2026-07-18%2Fser-ger"
+              "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Fser-ger"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mensvnl%2F2026-07-18%2Fser-ger&sd=1"
+              "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Fser-ger&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mensvnl%2F2026-07-18%2Fser-ger",
-          "embed": "/embed/?id=mensvnl%2F2026-07-18%2Fser-ger"
+          "iframe": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Fser-ger",
+          "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Fser-ger"
         },
         {
           "id": "mensvnl/2026-07-18/fra-pol",
@@ -2950,17 +2950,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mensvnl%2F2026-07-18%2Ffra-pol"
+              "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Ffra-pol"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mensvnl%2F2026-07-18%2Ffra-pol&sd=1"
+              "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Ffra-pol&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mensvnl%2F2026-07-18%2Ffra-pol",
-          "embed": "/embed/?id=mensvnl%2F2026-07-18%2Ffra-pol"
+          "iframe": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Ffra-pol",
+          "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-18%2Ffra-pol"
         },
         {
           "id": "mensvnl/2026-07-19/usa-bul",
@@ -2990,17 +2990,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mensvnl%2F2026-07-19%2Fusa-bul"
+              "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-19%2Fusa-bul"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mensvnl%2F2026-07-19%2Fusa-bul&sd=1"
+              "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-19%2Fusa-bul&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mensvnl%2F2026-07-19%2Fusa-bul",
-          "embed": "/embed/?id=mensvnl%2F2026-07-19%2Fusa-bul"
+          "iframe": "https://damitv.app/embed/?id=mensvnl%2F2026-07-19%2Fusa-bul",
+          "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-19%2Fusa-bul"
         },
         {
           "id": "mensvnl/2026-07-19/bel-can",
@@ -3030,17 +3030,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mensvnl%2F2026-07-19%2Fbel-can"
+              "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-19%2Fbel-can"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mensvnl%2F2026-07-19%2Fbel-can&sd=1"
+              "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-19%2Fbel-can&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mensvnl%2F2026-07-19%2Fbel-can",
-          "embed": "/embed/?id=mensvnl%2F2026-07-19%2Fbel-can"
+          "iframe": "https://damitv.app/embed/?id=mensvnl%2F2026-07-19%2Fbel-can",
+          "embed": "https://damitv.app/embed/?id=mensvnl%2F2026-07-19%2Fbel-can"
         }
       ]
     },
@@ -3076,17 +3076,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=247-south-park"
+              "embed": "https://damitv.app/embed/?id=247-south-park"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=247-south-park&sd=1"
+              "embed": "https://damitv.app/embed/?id=247-south-park&sd=1"
             }
           ],
-          "iframe": "/embed/?id=247-south-park",
-          "embed": "/embed/?id=247-south-park"
+          "iframe": "https://damitv.app/embed/?id=247-south-park",
+          "embed": "https://damitv.app/embed/?id=247-south-park"
         },
         {
           "id": "247-cows",
@@ -3116,17 +3116,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=247-cows"
+              "embed": "https://damitv.app/embed/?id=247-cows"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=247-cows&sd=1"
+              "embed": "https://damitv.app/embed/?id=247-cows&sd=1"
             }
           ],
-          "iframe": "/embed/?id=247-cows",
-          "embed": "/embed/?id=247-cows"
+          "iframe": "https://damitv.app/embed/?id=247-cows",
+          "embed": "https://damitv.app/embed/?id=247-cows"
         },
         {
           "id": "247-family-guy",
@@ -3156,17 +3156,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=247-family-guy"
+              "embed": "https://damitv.app/embed/?id=247-family-guy"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=247-family-guy&sd=1"
+              "embed": "https://damitv.app/embed/?id=247-family-guy&sd=1"
             }
           ],
-          "iframe": "/embed/?id=247-family-guy",
-          "embed": "/embed/?id=247-family-guy"
+          "iframe": "https://damitv.app/embed/?id=247-family-guy",
+          "embed": "https://damitv.app/embed/?id=247-family-guy"
         },
         {
           "id": "247-the-simpsons",
@@ -3196,17 +3196,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=247-the-simpsons"
+              "embed": "https://damitv.app/embed/?id=247-the-simpsons"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=247-the-simpsons&sd=1"
+              "embed": "https://damitv.app/embed/?id=247-the-simpsons&sd=1"
             }
           ],
-          "iframe": "/embed/?id=247-the-simpsons",
-          "embed": "/embed/?id=247-the-simpsons"
+          "iframe": "https://damitv.app/embed/?id=247-the-simpsons",
+          "embed": "https://damitv.app/embed/?id=247-the-simpsons"
         },
         {
           "id": "247-spongebob-squarepants",
@@ -3236,17 +3236,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=247-spongebob-squarepants"
+              "embed": "https://damitv.app/embed/?id=247-spongebob-squarepants"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=247-spongebob-squarepants&sd=1"
+              "embed": "https://damitv.app/embed/?id=247-spongebob-squarepants&sd=1"
             }
           ],
-          "iframe": "/embed/?id=247-spongebob-squarepants",
-          "embed": "/embed/?id=247-spongebob-squarepants"
+          "iframe": "https://damitv.app/embed/?id=247-spongebob-squarepants",
+          "embed": "https://damitv.app/embed/?id=247-spongebob-squarepants"
         },
         {
           "id": "rally-tv",
@@ -3276,17 +3276,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=rally-tv"
+              "embed": "https://damitv.app/embed/?id=rally-tv"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=rally-tv&sd=1"
+              "embed": "https://damitv.app/embed/?id=rally-tv&sd=1"
             }
           ],
-          "iframe": "/embed/?id=rally-tv",
-          "embed": "/embed/?id=rally-tv"
+          "iframe": "https://damitv.app/embed/?id=rally-tv",
+          "embed": "https://damitv.app/embed/?id=rally-tv"
         }
       ]
     },
@@ -3322,17 +3322,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=dl-la-knight-riders-vs-washington-freedom"
+              "embed": "https://damitv.app/embed/?id=dl-la-knight-riders-vs-washington-freedom"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=dl-la-knight-riders-vs-washington-freedom&sd=1"
+              "embed": "https://damitv.app/embed/?id=dl-la-knight-riders-vs-washington-freedom&sd=1"
             }
           ],
-          "iframe": "/embed/?id=dl-la-knight-riders-vs-washington-freedom",
-          "embed": "/embed/?id=dl-la-knight-riders-vs-washington-freedom"
+          "iframe": "https://damitv.app/embed/?id=dl-la-knight-riders-vs-washington-freedom",
+          "embed": "https://damitv.app/embed/?id=dl-la-knight-riders-vs-washington-freedom"
         }
       ]
     },
@@ -3368,17 +3368,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=dl-golf-the-154th-open-round-3"
+              "embed": "https://damitv.app/embed/?id=dl-golf-the-154th-open-round-3"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=dl-golf-the-154th-open-round-3&sd=1"
+              "embed": "https://damitv.app/embed/?id=dl-golf-the-154th-open-round-3&sd=1"
             }
           ],
-          "iframe": "/embed/?id=dl-golf-the-154th-open-round-3",
-          "embed": "/embed/?id=dl-golf-the-154th-open-round-3"
+          "iframe": "https://damitv.app/embed/?id=dl-golf-the-154th-open-round-3",
+          "embed": "https://damitv.app/embed/?id=dl-golf-the-154th-open-round-3"
         },
         {
           "id": "dl-golf-third-round",
@@ -3408,17 +3408,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=dl-golf-third-round"
+              "embed": "https://damitv.app/embed/?id=dl-golf-third-round"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=dl-golf-third-round&sd=1"
+              "embed": "https://damitv.app/embed/?id=dl-golf-third-round&sd=1"
             }
           ],
-          "iframe": "/embed/?id=dl-golf-third-round",
-          "embed": "/embed/?id=dl-golf-third-round"
+          "iframe": "https://damitv.app/embed/?id=dl-golf-third-round",
+          "embed": "https://damitv.app/embed/?id=dl-golf-third-round"
         }
       ]
     }
