@@ -36,17 +36,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl-network"
+              "embed": "https://ondemand.st/embed/?id=nfl-network"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl-network&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl-network&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl-network",
-          "embed": "/embed/?id=nfl-network"
+          "iframe": "https://ondemand.st/embed/?id=nfl-network",
+          "embed": "https://ondemand.st/embed/?id=nfl-network"
         },
         {
           "id": "nfl-redzone-28792",
@@ -76,17 +76,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl-redzone-28792"
+              "embed": "https://ondemand.st/embed/?id=nfl-redzone-28792"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl-redzone-28792&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl-redzone-28792&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl-redzone-28792",
-          "embed": "/embed/?id=nfl-redzone-28792"
+          "iframe": "https://ondemand.st/embed/?id=nfl-redzone-28792",
+          "embed": "https://ondemand.st/embed/?id=nfl-redzone-28792"
         },
         {
           "id": "nfl/2026-09-20/car-atl",
@@ -116,17 +116,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fcar-atl"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fcar-atl"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fcar-atl&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fcar-atl&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Fcar-atl",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Fcar-atl"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fcar-atl",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fcar-atl"
         },
         {
           "id": "nfl/2026-09-20/min-chi",
@@ -156,17 +156,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fmin-chi"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fmin-chi"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fmin-chi&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fmin-chi&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Fmin-chi",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Fmin-chi"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fmin-chi",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fmin-chi"
         },
         {
           "id": "nfl/2026-09-20/phi-ten",
@@ -196,17 +196,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fphi-ten"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fphi-ten"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fphi-ten&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fphi-ten&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Fphi-ten",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Fphi-ten"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fphi-ten",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fphi-ten"
         },
         {
           "id": "nfl/2026-09-20/pit-ne",
@@ -236,17 +236,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fpit-ne"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fpit-ne"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fpit-ne&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fpit-ne&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Fpit-ne",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Fpit-ne"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fpit-ne",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fpit-ne"
         },
         {
           "id": "nfl/2026-09-20/gb-nyj",
@@ -276,17 +276,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fgb-nyj"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fgb-nyj"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fgb-nyj&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fgb-nyj&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Fgb-nyj",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Fgb-nyj"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fgb-nyj",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fgb-nyj"
         },
         {
           "id": "nfl/2026-09-20/cle-tb",
@@ -316,17 +316,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fcle-tb"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fcle-tb"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fcle-tb&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fcle-tb&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Fcle-tb",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Fcle-tb"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fcle-tb",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fcle-tb"
         },
         {
           "id": "nfl/2026-09-20/no-bal",
@@ -356,17 +356,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fno-bal"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fno-bal"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fno-bal&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fno-bal&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Fno-bal",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Fno-bal"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fno-bal",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fno-bal"
         },
         {
           "id": "nfl/2026-09-20/cin-hou",
@@ -396,17 +396,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fcin-hou"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fcin-hou"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fcin-hou&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fcin-hou&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Fcin-hou",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Fcin-hou"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fcin-hou",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fcin-hou"
         },
         {
           "id": "nfl/2026-09-20/jax-den",
@@ -436,17 +436,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fjax-den"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fjax-den"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fjax-den&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fjax-den&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Fjax-den",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Fjax-den"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fjax-den",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fjax-den"
         },
         {
           "id": "nfl/2026-09-20/lv-lac",
@@ -476,17 +476,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Flv-lac"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Flv-lac"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Flv-lac&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Flv-lac&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Flv-lac",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Flv-lac"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Flv-lac",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Flv-lac"
         },
         {
           "id": "nfl/2026-09-20/wsh-dal",
@@ -516,17 +516,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fwsh-dal"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fwsh-dal"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fwsh-dal&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fwsh-dal&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Fwsh-dal",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Fwsh-dal"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fwsh-dal",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fwsh-dal"
         },
         {
           "id": "nfl/2026-09-20/sea-ari",
@@ -556,17 +556,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fsea-ari"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fsea-ari"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fsea-ari&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fsea-ari&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Fsea-ari",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Fsea-ari"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fsea-ari",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fsea-ari"
         },
         {
           "id": "nfl/2026-09-20/mia-sf",
@@ -596,17 +596,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fmia-sf"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fmia-sf"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Fmia-sf&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fmia-sf&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Fmia-sf",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Fmia-sf"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fmia-sf",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Fmia-sf"
         },
         {
           "id": "nfl/2026-09-20/ind-kc",
@@ -636,17 +636,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Find-kc"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Find-kc"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-20%2Find-kc&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Find-kc&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-20%2Find-kc",
-          "embed": "/embed/?id=nfl%2F2026-09-20%2Find-kc"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Find-kc",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-20%2Find-kc"
         },
         {
           "id": "nfl/2026-09-21/nyg-lar",
@@ -676,17 +676,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nfl%2F2026-09-21%2Fnyg-lar"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-21%2Fnyg-lar"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nfl%2F2026-09-21%2Fnyg-lar&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-21%2Fnyg-lar&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nfl%2F2026-09-21%2Fnyg-lar",
-          "embed": "/embed/?id=nfl%2F2026-09-21%2Fnyg-lar"
+          "iframe": "https://ondemand.st/embed/?id=nfl%2F2026-09-21%2Fnyg-lar",
+          "embed": "https://ondemand.st/embed/?id=nfl%2F2026-09-21%2Fnyg-lar"
         }
       ]
     },
@@ -722,17 +722,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fphi-nym"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fphi-nym"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fphi-nym&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fphi-nym&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fphi-nym",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fphi-nym"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fphi-nym",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fphi-nym"
         },
         {
           "id": "mlb/2026-09-20/kc-pit",
@@ -762,17 +762,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fkc-pit"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fkc-pit"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fkc-pit&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fkc-pit&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fkc-pit",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fkc-pit"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fkc-pit",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fkc-pit"
         },
         {
           "id": "mlb/2026-09-20/ath-cle",
@@ -802,17 +802,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fath-cle"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fath-cle"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fath-cle&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fath-cle&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fath-cle",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fath-cle"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fath-cle",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fath-cle"
         },
         {
           "id": "mlb/2026-09-20/bos-tb",
@@ -842,17 +842,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fbos-tb"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fbos-tb"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fbos-tb&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fbos-tb&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fbos-tb",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fbos-tb"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fbos-tb",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fbos-tb"
         },
         {
           "id": "mlb/2026-09-20/chc-cin",
@@ -882,17 +882,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fchc-cin"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fchc-cin"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fchc-cin&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fchc-cin&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fchc-cin",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fchc-cin"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fchc-cin",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fchc-cin"
         },
         {
           "id": "mlb/2026-09-20/atl-hou",
@@ -922,17 +922,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fatl-hou"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fatl-hou"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fatl-hou&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fatl-hou&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fatl-hou",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fatl-hou"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fatl-hou",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fatl-hou"
         },
         {
           "id": "mlb/2026-09-20/det-chw",
@@ -962,17 +962,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fdet-chw"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fdet-chw"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fdet-chw&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fdet-chw&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fdet-chw",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fdet-chw"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fdet-chw",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fdet-chw"
         },
         {
           "id": "mlb/2026-09-20/wsh-stl",
@@ -1002,17 +1002,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fwsh-stl"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fwsh-stl"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fwsh-stl&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fwsh-stl&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fwsh-stl",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fwsh-stl"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fwsh-stl",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fwsh-stl"
         },
         {
           "id": "mlb/2026-09-20/tor-tex",
@@ -1042,17 +1042,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Ftor-tex"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Ftor-tex"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Ftor-tex&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Ftor-tex&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Ftor-tex",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Ftor-tex"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Ftor-tex",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Ftor-tex"
         },
         {
           "id": "mlb/2026-09-20/sea-col",
@@ -1082,17 +1082,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fsea-col"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fsea-col"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fsea-col&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fsea-col&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fsea-col",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fsea-col"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fsea-col",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fsea-col"
         },
         {
           "id": "mlb/2026-09-20/min-laa",
@@ -1122,17 +1122,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fmin-laa"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fmin-laa"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fmin-laa&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fmin-laa&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fmin-laa",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fmin-laa"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fmin-laa",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fmin-laa"
         },
         {
           "id": "mlb/2026-09-20/mia-sd",
@@ -1162,17 +1162,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fmia-sd"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fmia-sd"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fmia-sd&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fmia-sd&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fmia-sd",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fmia-sd"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fmia-sd",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fmia-sd"
         },
         {
           "id": "mlb/2026-09-20/nyy-ari",
@@ -1202,17 +1202,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fnyy-ari"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fnyy-ari"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fnyy-ari&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fnyy-ari&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fnyy-ari",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fnyy-ari"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fnyy-ari",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fnyy-ari"
         },
         {
           "id": "mlb/2026-09-20/sf-lad",
@@ -1242,17 +1242,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fsf-lad"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fsf-lad"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fsf-lad&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fsf-lad&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fsf-lad",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fsf-lad"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fsf-lad",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fsf-lad"
         },
         {
           "id": "mlb/2026-09-20/mil-bal",
@@ -1282,17 +1282,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fmil-bal"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fmil-bal"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mlb%2F2026-09-20%2Fmil-bal&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fmil-bal&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mlb%2F2026-09-20%2Fmil-bal",
-          "embed": "/embed/?id=mlb%2F2026-09-20%2Fmil-bal"
+          "iframe": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fmil-bal",
+          "embed": "https://ondemand.st/embed/?id=mlb%2F2026-09-20%2Fmil-bal"
         }
       ]
     },
@@ -1328,17 +1328,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=wnba%2F2026-09-20%2Fmin-con"
+              "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fmin-con"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=wnba%2F2026-09-20%2Fmin-con&sd=1"
+              "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fmin-con&sd=1"
             }
           ],
-          "iframe": "/embed/?id=wnba%2F2026-09-20%2Fmin-con",
-          "embed": "/embed/?id=wnba%2F2026-09-20%2Fmin-con"
+          "iframe": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fmin-con",
+          "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fmin-con"
         },
         {
           "id": "wnba/2026-09-20/ny-tor",
@@ -1368,17 +1368,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=wnba%2F2026-09-20%2Fny-tor"
+              "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fny-tor"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=wnba%2F2026-09-20%2Fny-tor&sd=1"
+              "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fny-tor&sd=1"
             }
           ],
-          "iframe": "/embed/?id=wnba%2F2026-09-20%2Fny-tor",
-          "embed": "/embed/?id=wnba%2F2026-09-20%2Fny-tor"
+          "iframe": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fny-tor",
+          "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fny-tor"
         },
         {
           "id": "wnba/2026-09-20/wsh-ind",
@@ -1408,17 +1408,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=wnba%2F2026-09-20%2Fwsh-ind"
+              "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fwsh-ind"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=wnba%2F2026-09-20%2Fwsh-ind&sd=1"
+              "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fwsh-ind&sd=1"
             }
           ],
-          "iframe": "/embed/?id=wnba%2F2026-09-20%2Fwsh-ind",
-          "embed": "/embed/?id=wnba%2F2026-09-20%2Fwsh-ind"
+          "iframe": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fwsh-ind",
+          "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fwsh-ind"
         },
         {
           "id": "wnba/2026-09-20/por-la",
@@ -1448,17 +1448,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=wnba%2F2026-09-20%2Fpor-la"
+              "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fpor-la"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=wnba%2F2026-09-20%2Fpor-la&sd=1"
+              "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fpor-la&sd=1"
             }
           ],
-          "iframe": "/embed/?id=wnba%2F2026-09-20%2Fpor-la",
-          "embed": "/embed/?id=wnba%2F2026-09-20%2Fpor-la"
+          "iframe": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fpor-la",
+          "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fpor-la"
         },
         {
           "id": "wnba/2026-09-20/sea-lv",
@@ -1488,17 +1488,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=wnba%2F2026-09-20%2Fsea-lv"
+              "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fsea-lv"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=wnba%2F2026-09-20%2Fsea-lv&sd=1"
+              "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fsea-lv&sd=1"
             }
           ],
-          "iframe": "/embed/?id=wnba%2F2026-09-20%2Fsea-lv",
-          "embed": "/embed/?id=wnba%2F2026-09-20%2Fsea-lv"
+          "iframe": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fsea-lv",
+          "embed": "https://ondemand.st/embed/?id=wnba%2F2026-09-20%2Fsea-lv"
         },
         {
           "id": "nbl/2026-09-21/tas-pnx",
@@ -1528,17 +1528,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nbl%2F2026-09-21%2Ftas-pnx"
+              "embed": "https://ondemand.st/embed/?id=nbl%2F2026-09-21%2Ftas-pnx"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nbl%2F2026-09-21%2Ftas-pnx&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nbl%2F2026-09-21%2Ftas-pnx&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nbl%2F2026-09-21%2Ftas-pnx",
-          "embed": "/embed/?id=nbl%2F2026-09-21%2Ftas-pnx"
+          "iframe": "https://ondemand.st/embed/?id=nbl%2F2026-09-21%2Ftas-pnx",
+          "embed": "https://ondemand.st/embed/?id=nbl%2F2026-09-21%2Ftas-pnx"
         }
       ]
     },
@@ -1574,17 +1574,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=world-series-of-darts-finals--day-4---afternoon-session-29062"
+              "embed": "https://ondemand.st/embed/?id=world-series-of-darts-finals--day-4---afternoon-session-29062"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=world-series-of-darts-finals--day-4---afternoon-session-29062&sd=1"
+              "embed": "https://ondemand.st/embed/?id=world-series-of-darts-finals--day-4---afternoon-session-29062&sd=1"
             }
           ],
-          "iframe": "/embed/?id=world-series-of-darts-finals--day-4---afternoon-session-29062",
-          "embed": "/embed/?id=world-series-of-darts-finals--day-4---afternoon-session-29062"
+          "iframe": "https://ondemand.st/embed/?id=world-series-of-darts-finals--day-4---afternoon-session-29062",
+          "embed": "https://ondemand.st/embed/?id=world-series-of-darts-finals--day-4---afternoon-session-29062"
         },
         {
           "id": "world-series-of-darts-finals--day-4---evening-session-29063",
@@ -1614,17 +1614,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=world-series-of-darts-finals--day-4---evening-session-29063"
+              "embed": "https://ondemand.st/embed/?id=world-series-of-darts-finals--day-4---evening-session-29063"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=world-series-of-darts-finals--day-4---evening-session-29063&sd=1"
+              "embed": "https://ondemand.st/embed/?id=world-series-of-darts-finals--day-4---evening-session-29063&sd=1"
             }
           ],
-          "iframe": "/embed/?id=world-series-of-darts-finals--day-4---evening-session-29063",
-          "embed": "/embed/?id=world-series-of-darts-finals--day-4---evening-session-29063"
+          "iframe": "https://ondemand.st/embed/?id=world-series-of-darts-finals--day-4---evening-session-29063",
+          "embed": "https://ondemand.st/embed/?id=world-series-of-darts-finals--day-4---evening-session-29063"
         }
       ]
     },
@@ -1660,17 +1660,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=eredivisie%2F2026-09-20%2Ffey-utr"
+              "embed": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Ffey-utr"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=eredivisie%2F2026-09-20%2Ffey-utr&sd=1"
+              "embed": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Ffey-utr&sd=1"
             }
           ],
-          "iframe": "/embed/?id=eredivisie%2F2026-09-20%2Ffey-utr",
-          "embed": "/embed/?id=eredivisie%2F2026-09-20%2Ffey-utr"
+          "iframe": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Ffey-utr",
+          "embed": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Ffey-utr"
         },
         {
           "id": "seriea/2026-09-20/fio-nap",
@@ -1700,17 +1700,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=seriea%2F2026-09-20%2Ffio-nap"
+              "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Ffio-nap"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=seriea%2F2026-09-20%2Ffio-nap&sd=1"
+              "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Ffio-nap&sd=1"
             }
           ],
-          "iframe": "/embed/?id=seriea%2F2026-09-20%2Ffio-nap",
-          "embed": "/embed/?id=seriea%2F2026-09-20%2Ffio-nap"
+          "iframe": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Ffio-nap",
+          "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Ffio-nap"
         },
         {
           "id": "spfl-premiership/2026-09-20/cel-ran",
@@ -1740,17 +1740,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=spfl-premiership%2F2026-09-20%2Fcel-ran"
+              "embed": "https://ondemand.st/embed/?id=spfl-premiership%2F2026-09-20%2Fcel-ran"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=spfl-premiership%2F2026-09-20%2Fcel-ran&sd=1"
+              "embed": "https://ondemand.st/embed/?id=spfl-premiership%2F2026-09-20%2Fcel-ran&sd=1"
             }
           ],
-          "iframe": "/embed/?id=spfl-premiership%2F2026-09-20%2Fcel-ran",
-          "embed": "/embed/?id=spfl-premiership%2F2026-09-20%2Fcel-ran"
+          "iframe": "https://ondemand.st/embed/?id=spfl-premiership%2F2026-09-20%2Fcel-ran",
+          "embed": "https://ondemand.st/embed/?id=spfl-premiership%2F2026-09-20%2Fcel-ran"
         },
         {
           "id": "efl-championship/2026-09-20/wol-wba",
@@ -1780,17 +1780,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=efl-championship%2F2026-09-20%2Fwol-wba"
+              "embed": "https://ondemand.st/embed/?id=efl-championship%2F2026-09-20%2Fwol-wba"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=efl-championship%2F2026-09-20%2Fwol-wba&sd=1"
+              "embed": "https://ondemand.st/embed/?id=efl-championship%2F2026-09-20%2Fwol-wba&sd=1"
             }
           ],
-          "iframe": "/embed/?id=efl-championship%2F2026-09-20%2Fwol-wba",
-          "embed": "/embed/?id=efl-championship%2F2026-09-20%2Fwol-wba"
+          "iframe": "https://ondemand.st/embed/?id=efl-championship%2F2026-09-20%2Fwol-wba",
+          "embed": "https://ondemand.st/embed/?id=efl-championship%2F2026-09-20%2Fwol-wba"
         },
         {
           "id": "laliga/2026-09-20/get-mcf",
@@ -1820,17 +1820,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=laliga%2F2026-09-20%2Fget-mcf"
+              "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fget-mcf"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=laliga%2F2026-09-20%2Fget-mcf&sd=1"
+              "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fget-mcf&sd=1"
             }
           ],
-          "iframe": "/embed/?id=laliga%2F2026-09-20%2Fget-mcf",
-          "embed": "/embed/?id=laliga%2F2026-09-20%2Fget-mcf"
+          "iframe": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fget-mcf",
+          "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fget-mcf"
         },
         {
           "id": "allsvenskan/2026-09-20/dju-elf",
@@ -1860,17 +1860,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fdju-elf"
+              "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fdju-elf"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fdju-elf&sd=1"
+              "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fdju-elf&sd=1"
             }
           ],
-          "iframe": "/embed/?id=allsvenskan%2F2026-09-20%2Fdju-elf",
-          "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fdju-elf"
+          "iframe": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fdju-elf",
+          "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fdju-elf"
         },
         {
           "id": "allsvenskan/2026-09-20/hbk-aik",
@@ -1900,17 +1900,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fhbk-aik"
+              "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fhbk-aik"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fhbk-aik&sd=1"
+              "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fhbk-aik&sd=1"
             }
           ],
-          "iframe": "/embed/?id=allsvenskan%2F2026-09-20%2Fhbk-aik",
-          "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fhbk-aik"
+          "iframe": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fhbk-aik",
+          "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fhbk-aik"
         },
         {
           "id": "allsvenskan/2026-09-20/kff-bkh",
@@ -1940,17 +1940,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fkff-bkh"
+              "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fkff-bkh"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fkff-bkh&sd=1"
+              "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fkff-bkh&sd=1"
             }
           ],
-          "iframe": "/embed/?id=allsvenskan%2F2026-09-20%2Fkff-bkh",
-          "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fkff-bkh"
+          "iframe": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fkff-bkh",
+          "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fkff-bkh"
         },
         {
           "id": "danish-superliga/2026-09-20/bro-kbh",
@@ -1980,17 +1980,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=danish-superliga%2F2026-09-20%2Fbro-kbh"
+              "embed": "https://ondemand.st/embed/?id=danish-superliga%2F2026-09-20%2Fbro-kbh"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=danish-superliga%2F2026-09-20%2Fbro-kbh&sd=1"
+              "embed": "https://ondemand.st/embed/?id=danish-superliga%2F2026-09-20%2Fbro-kbh&sd=1"
             }
           ],
-          "iframe": "/embed/?id=danish-superliga%2F2026-09-20%2Fbro-kbh",
-          "embed": "/embed/?id=danish-superliga%2F2026-09-20%2Fbro-kbh"
+          "iframe": "https://ondemand.st/embed/?id=danish-superliga%2F2026-09-20%2Fbro-kbh",
+          "embed": "https://ondemand.st/embed/?id=danish-superliga%2F2026-09-20%2Fbro-kbh"
         },
         {
           "id": "sd-admin~ppv-halmstads-bk-vs-aik",
@@ -2020,17 +2020,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=sd-admin~ppv-halmstads-bk-vs-aik"
+              "embed": "https://ondemand.st/embed/?id=sd-admin~ppv-halmstads-bk-vs-aik"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=sd-admin~ppv-halmstads-bk-vs-aik&sd=1"
+              "embed": "https://ondemand.st/embed/?id=sd-admin~ppv-halmstads-bk-vs-aik&sd=1"
             }
           ],
-          "iframe": "/embed/?id=sd-admin~ppv-halmstads-bk-vs-aik",
-          "embed": "/embed/?id=sd-admin~ppv-halmstads-bk-vs-aik"
+          "iframe": "https://ondemand.st/embed/?id=sd-admin~ppv-halmstads-bk-vs-aik",
+          "embed": "https://ondemand.st/embed/?id=sd-admin~ppv-halmstads-bk-vs-aik"
         },
         {
           "id": "eredivisie/2026-09-20/az-tel",
@@ -2060,17 +2060,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=eredivisie%2F2026-09-20%2Faz-tel"
+              "embed": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Faz-tel"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=eredivisie%2F2026-09-20%2Faz-tel&sd=1"
+              "embed": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Faz-tel&sd=1"
             }
           ],
-          "iframe": "/embed/?id=eredivisie%2F2026-09-20%2Faz-tel",
-          "embed": "/embed/?id=eredivisie%2F2026-09-20%2Faz-tel"
+          "iframe": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Faz-tel",
+          "embed": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Faz-tel"
         },
         {
           "id": "eredivisie/2026-09-20/twe-psv",
@@ -2100,17 +2100,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=eredivisie%2F2026-09-20%2Ftwe-psv"
+              "embed": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Ftwe-psv"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=eredivisie%2F2026-09-20%2Ftwe-psv&sd=1"
+              "embed": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Ftwe-psv&sd=1"
             }
           ],
-          "iframe": "/embed/?id=eredivisie%2F2026-09-20%2Ftwe-psv",
-          "embed": "/embed/?id=eredivisie%2F2026-09-20%2Ftwe-psv"
+          "iframe": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Ftwe-psv",
+          "embed": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Ftwe-psv"
         },
         {
           "id": "pl/2026-09-20/bou-liv",
@@ -2140,17 +2140,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=pl%2F2026-09-20%2Fbou-liv"
+              "embed": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Fbou-liv"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=pl%2F2026-09-20%2Fbou-liv&sd=1"
+              "embed": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Fbou-liv&sd=1"
             }
           ],
-          "iframe": "/embed/?id=pl%2F2026-09-20%2Fbou-liv",
-          "embed": "/embed/?id=pl%2F2026-09-20%2Fbou-liv"
+          "iframe": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Fbou-liv",
+          "embed": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Fbou-liv"
         },
         {
           "id": "pl/2026-09-20/lee-cry",
@@ -2180,17 +2180,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=pl%2F2026-09-20%2Flee-cry"
+              "embed": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Flee-cry"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=pl%2F2026-09-20%2Flee-cry&sd=1"
+              "embed": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Flee-cry&sd=1"
             }
           ],
-          "iframe": "/embed/?id=pl%2F2026-09-20%2Flee-cry",
-          "embed": "/embed/?id=pl%2F2026-09-20%2Flee-cry"
+          "iframe": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Flee-cry",
+          "embed": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Flee-cry"
         },
         {
           "id": "pl/2026-09-20/mci-sun",
@@ -2220,17 +2220,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=pl%2F2026-09-20%2Fmci-sun"
+              "embed": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Fmci-sun"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=pl%2F2026-09-20%2Fmci-sun&sd=1"
+              "embed": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Fmci-sun&sd=1"
             }
           ],
-          "iframe": "/embed/?id=pl%2F2026-09-20%2Fmci-sun",
-          "embed": "/embed/?id=pl%2F2026-09-20%2Fmci-sun"
+          "iframe": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Fmci-sun",
+          "embed": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Fmci-sun"
         },
         {
           "id": "seriea/2026-09-20/fro-como",
@@ -2260,17 +2260,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=seriea%2F2026-09-20%2Ffro-como"
+              "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Ffro-como"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=seriea%2F2026-09-20%2Ffro-como&sd=1"
+              "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Ffro-como&sd=1"
             }
           ],
-          "iframe": "/embed/?id=seriea%2F2026-09-20%2Ffro-como",
-          "embed": "/embed/?id=seriea%2F2026-09-20%2Ffro-como"
+          "iframe": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Ffro-como",
+          "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Ffro-como"
         },
         {
           "id": "seriea/2026-09-20/par-gen",
@@ -2300,17 +2300,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=seriea%2F2026-09-20%2Fpar-gen"
+              "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Fpar-gen"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=seriea%2F2026-09-20%2Fpar-gen&sd=1"
+              "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Fpar-gen&sd=1"
             }
           ],
-          "iframe": "/embed/?id=seriea%2F2026-09-20%2Fpar-gen",
-          "embed": "/embed/?id=seriea%2F2026-09-20%2Fpar-gen"
+          "iframe": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Fpar-gen",
+          "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Fpar-gen"
         },
         {
           "id": "ligue1/2026-09-20/aux-bre",
@@ -2340,17 +2340,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=ligue1%2F2026-09-20%2Faux-bre"
+              "embed": "https://ondemand.st/embed/?id=ligue1%2F2026-09-20%2Faux-bre"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=ligue1%2F2026-09-20%2Faux-bre&sd=1"
+              "embed": "https://ondemand.st/embed/?id=ligue1%2F2026-09-20%2Faux-bre&sd=1"
             }
           ],
-          "iframe": "/embed/?id=ligue1%2F2026-09-20%2Faux-bre",
-          "embed": "/embed/?id=ligue1%2F2026-09-20%2Faux-bre"
+          "iframe": "https://ondemand.st/embed/?id=ligue1%2F2026-09-20%2Faux-bre",
+          "embed": "https://ondemand.st/embed/?id=ligue1%2F2026-09-20%2Faux-bre"
         },
         {
           "id": "bundesliga/2026-09-20/b04-rbl",
@@ -2380,17 +2380,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=bundesliga%2F2026-09-20%2Fb04-rbl"
+              "embed": "https://ondemand.st/embed/?id=bundesliga%2F2026-09-20%2Fb04-rbl"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=bundesliga%2F2026-09-20%2Fb04-rbl&sd=1"
+              "embed": "https://ondemand.st/embed/?id=bundesliga%2F2026-09-20%2Fb04-rbl&sd=1"
             }
           ],
-          "iframe": "/embed/?id=bundesliga%2F2026-09-20%2Fb04-rbl",
-          "embed": "/embed/?id=bundesliga%2F2026-09-20%2Fb04-rbl"
+          "iframe": "https://ondemand.st/embed/?id=bundesliga%2F2026-09-20%2Fb04-rbl",
+          "embed": "https://ondemand.st/embed/?id=bundesliga%2F2026-09-20%2Fb04-rbl"
         },
         {
           "id": "laliga/2026-09-20/atm-rma",
@@ -2420,17 +2420,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=laliga%2F2026-09-20%2Fatm-rma"
+              "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fatm-rma"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=laliga%2F2026-09-20%2Fatm-rma&sd=1"
+              "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fatm-rma&sd=1"
             }
           ],
-          "iframe": "/embed/?id=laliga%2F2026-09-20%2Fatm-rma",
-          "embed": "/embed/?id=laliga%2F2026-09-20%2Fatm-rma"
+          "iframe": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fatm-rma",
+          "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fatm-rma"
         },
         {
           "id": "allsvenskan/2026-09-20/deg-ham",
@@ -2460,17 +2460,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fdeg-ham"
+              "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fdeg-ham"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fdeg-ham&sd=1"
+              "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fdeg-ham&sd=1"
             }
           ],
-          "iframe": "/embed/?id=allsvenskan%2F2026-09-20%2Fdeg-ham",
-          "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fdeg-ham"
+          "iframe": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fdeg-ham",
+          "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fdeg-ham"
         },
         {
           "id": "allsvenskan/2026-09-20/mja-gais",
@@ -2500,17 +2500,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fmja-gais"
+              "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fmja-gais"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fmja-gais&sd=1"
+              "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fmja-gais&sd=1"
             }
           ],
-          "iframe": "/embed/?id=allsvenskan%2F2026-09-20%2Fmja-gais",
-          "embed": "/embed/?id=allsvenskan%2F2026-09-20%2Fmja-gais"
+          "iframe": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fmja-gais",
+          "embed": "https://ondemand.st/embed/?id=allsvenskan%2F2026-09-20%2Fmja-gais"
         },
         {
           "id": "eredivisie/2026-09-20/nec-gae",
@@ -2540,17 +2540,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=eredivisie%2F2026-09-20%2Fnec-gae"
+              "embed": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Fnec-gae"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=eredivisie%2F2026-09-20%2Fnec-gae&sd=1"
+              "embed": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Fnec-gae&sd=1"
             }
           ],
-          "iframe": "/embed/?id=eredivisie%2F2026-09-20%2Fnec-gae",
-          "embed": "/embed/?id=eredivisie%2F2026-09-20%2Fnec-gae"
+          "iframe": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Fnec-gae",
+          "embed": "https://ondemand.st/embed/?id=eredivisie%2F2026-09-20%2Fnec-gae"
         },
         {
           "id": "ligue1/2026-09-20/nice-lill",
@@ -2580,17 +2580,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=ligue1%2F2026-09-20%2Fnice-lill"
+              "embed": "https://ondemand.st/embed/?id=ligue1%2F2026-09-20%2Fnice-lill"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=ligue1%2F2026-09-20%2Fnice-lill&sd=1"
+              "embed": "https://ondemand.st/embed/?id=ligue1%2F2026-09-20%2Fnice-lill&sd=1"
             }
           ],
-          "iframe": "/embed/?id=ligue1%2F2026-09-20%2Fnice-lill",
-          "embed": "/embed/?id=ligue1%2F2026-09-20%2Fnice-lill"
+          "iframe": "https://ondemand.st/embed/?id=ligue1%2F2026-09-20%2Fnice-lill",
+          "embed": "https://ondemand.st/embed/?id=ligue1%2F2026-09-20%2Fnice-lill"
         },
         {
           "id": "bundesliga/2026-09-20/s04-elv",
@@ -2620,17 +2620,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=bundesliga%2F2026-09-20%2Fs04-elv"
+              "embed": "https://ondemand.st/embed/?id=bundesliga%2F2026-09-20%2Fs04-elv"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=bundesliga%2F2026-09-20%2Fs04-elv&sd=1"
+              "embed": "https://ondemand.st/embed/?id=bundesliga%2F2026-09-20%2Fs04-elv&sd=1"
             }
           ],
-          "iframe": "/embed/?id=bundesliga%2F2026-09-20%2Fs04-elv",
-          "embed": "/embed/?id=bundesliga%2F2026-09-20%2Fs04-elv"
+          "iframe": "https://ondemand.st/embed/?id=bundesliga%2F2026-09-20%2Fs04-elv",
+          "embed": "https://ondemand.st/embed/?id=bundesliga%2F2026-09-20%2Fs04-elv"
         },
         {
           "id": "pl/2026-09-20/ful-mun",
@@ -2660,17 +2660,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=pl%2F2026-09-20%2Fful-mun"
+              "embed": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Fful-mun"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=pl%2F2026-09-20%2Fful-mun&sd=1"
+              "embed": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Fful-mun&sd=1"
             }
           ],
-          "iframe": "/embed/?id=pl%2F2026-09-20%2Fful-mun",
-          "embed": "/embed/?id=pl%2F2026-09-20%2Fful-mun"
+          "iframe": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Fful-mun",
+          "embed": "https://ondemand.st/embed/?id=pl%2F2026-09-20%2Fful-mun"
         },
         {
           "id": "seriea/2026-09-20/juv-ata",
@@ -2700,17 +2700,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=seriea%2F2026-09-20%2Fjuv-ata"
+              "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Fjuv-ata"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=seriea%2F2026-09-20%2Fjuv-ata&sd=1"
+              "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Fjuv-ata&sd=1"
             }
           ],
-          "iframe": "/embed/?id=seriea%2F2026-09-20%2Fjuv-ata",
-          "embed": "/embed/?id=seriea%2F2026-09-20%2Fjuv-ata"
+          "iframe": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Fjuv-ata",
+          "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Fjuv-ata"
         },
         {
           "id": "laliga/2026-09-20/dep-bet",
@@ -2740,17 +2740,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=laliga%2F2026-09-20%2Fdep-bet"
+              "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fdep-bet"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=laliga%2F2026-09-20%2Fdep-bet&sd=1"
+              "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fdep-bet&sd=1"
             }
           ],
-          "iframe": "/embed/?id=laliga%2F2026-09-20%2Fdep-bet",
-          "embed": "/embed/?id=laliga%2F2026-09-20%2Fdep-bet"
+          "iframe": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fdep-bet",
+          "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fdep-bet"
         },
         {
           "id": "laliga/2026-09-20/vil-lev",
@@ -2780,17 +2780,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=laliga%2F2026-09-20%2Fvil-lev"
+              "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fvil-lev"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=laliga%2F2026-09-20%2Fvil-lev&sd=1"
+              "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fvil-lev&sd=1"
             }
           ],
-          "iframe": "/embed/?id=laliga%2F2026-09-20%2Fvil-lev",
-          "embed": "/embed/?id=laliga%2F2026-09-20%2Fvil-lev"
+          "iframe": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fvil-lev",
+          "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fvil-lev"
         },
         {
           "id": "bundesliga/2026-09-20/scp-tsg",
@@ -2820,17 +2820,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=bundesliga%2F2026-09-20%2Fscp-tsg"
+              "embed": "https://ondemand.st/embed/?id=bundesliga%2F2026-09-20%2Fscp-tsg"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=bundesliga%2F2026-09-20%2Fscp-tsg&sd=1"
+              "embed": "https://ondemand.st/embed/?id=bundesliga%2F2026-09-20%2Fscp-tsg&sd=1"
             }
           ],
-          "iframe": "/embed/?id=bundesliga%2F2026-09-20%2Fscp-tsg",
-          "embed": "/embed/?id=bundesliga%2F2026-09-20%2Fscp-tsg"
+          "iframe": "https://ondemand.st/embed/?id=bundesliga%2F2026-09-20%2Fscp-tsg",
+          "embed": "https://ondemand.st/embed/?id=bundesliga%2F2026-09-20%2Fscp-tsg"
         },
         {
           "id": "seriea/2026-09-20/mil-lec",
@@ -2860,17 +2860,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=seriea%2F2026-09-20%2Fmil-lec"
+              "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Fmil-lec"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=seriea%2F2026-09-20%2Fmil-lec&sd=1"
+              "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Fmil-lec&sd=1"
             }
           ],
-          "iframe": "/embed/?id=seriea%2F2026-09-20%2Fmil-lec",
-          "embed": "/embed/?id=seriea%2F2026-09-20%2Fmil-lec"
+          "iframe": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Fmil-lec",
+          "embed": "https://ondemand.st/embed/?id=seriea%2F2026-09-20%2Fmil-lec"
         },
         {
           "id": "ligue1/2026-09-20/olm-psg",
@@ -2900,17 +2900,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=ligue1%2F2026-09-20%2Folm-psg"
+              "embed": "https://ondemand.st/embed/?id=ligue1%2F2026-09-20%2Folm-psg"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=ligue1%2F2026-09-20%2Folm-psg&sd=1"
+              "embed": "https://ondemand.st/embed/?id=ligue1%2F2026-09-20%2Folm-psg&sd=1"
             }
           ],
-          "iframe": "/embed/?id=ligue1%2F2026-09-20%2Folm-psg",
-          "embed": "/embed/?id=ligue1%2F2026-09-20%2Folm-psg"
+          "iframe": "https://ondemand.st/embed/?id=ligue1%2F2026-09-20%2Folm-psg",
+          "embed": "https://ondemand.st/embed/?id=ligue1%2F2026-09-20%2Folm-psg"
         },
         {
           "id": "laliga/2026-09-20/val-rso",
@@ -2940,17 +2940,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=laliga%2F2026-09-20%2Fval-rso"
+              "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fval-rso"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=laliga%2F2026-09-20%2Fval-rso&sd=1"
+              "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fval-rso&sd=1"
             }
           ],
-          "iframe": "/embed/?id=laliga%2F2026-09-20%2Fval-rso",
-          "embed": "/embed/?id=laliga%2F2026-09-20%2Fval-rso"
+          "iframe": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fval-rso",
+          "embed": "https://ondemand.st/embed/?id=laliga%2F2026-09-20%2Fval-rso"
         },
         {
           "id": "mls/2026-09-20/mia-sd",
@@ -2980,17 +2980,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=mls%2F2026-09-20%2Fmia-sd"
+              "embed": "https://ondemand.st/embed/?id=mls%2F2026-09-20%2Fmia-sd"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=mls%2F2026-09-20%2Fmia-sd&sd=1"
+              "embed": "https://ondemand.st/embed/?id=mls%2F2026-09-20%2Fmia-sd&sd=1"
             }
           ],
-          "iframe": "/embed/?id=mls%2F2026-09-20%2Fmia-sd",
-          "embed": "/embed/?id=mls%2F2026-09-20%2Fmia-sd"
+          "iframe": "https://ondemand.st/embed/?id=mls%2F2026-09-20%2Fmia-sd",
+          "embed": "https://ondemand.st/embed/?id=mls%2F2026-09-20%2Fmia-sd"
         },
         {
           "id": "liga-mx/2026-09-20/pac-tij",
@@ -3020,17 +3020,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=liga-mx%2F2026-09-20%2Fpac-tij"
+              "embed": "https://ondemand.st/embed/?id=liga-mx%2F2026-09-20%2Fpac-tij"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=liga-mx%2F2026-09-20%2Fpac-tij&sd=1"
+              "embed": "https://ondemand.st/embed/?id=liga-mx%2F2026-09-20%2Fpac-tij&sd=1"
             }
           ],
-          "iframe": "/embed/?id=liga-mx%2F2026-09-20%2Fpac-tij",
-          "embed": "/embed/?id=liga-mx%2F2026-09-20%2Fpac-tij"
+          "iframe": "https://ondemand.st/embed/?id=liga-mx%2F2026-09-20%2Fpac-tij",
+          "embed": "https://ondemand.st/embed/?id=liga-mx%2F2026-09-20%2Fpac-tij"
         }
       ]
     },
@@ -3066,17 +3066,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=sky-sports-golf-29059"
+              "embed": "https://ondemand.st/embed/?id=sky-sports-golf-29059"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=sky-sports-golf-29059&sd=1"
+              "embed": "https://ondemand.st/embed/?id=sky-sports-golf-29059&sd=1"
             }
           ],
-          "iframe": "/embed/?id=sky-sports-golf-29059",
-          "embed": "/embed/?id=sky-sports-golf-29059"
+          "iframe": "https://ondemand.st/embed/?id=sky-sports-golf-29059",
+          "embed": "https://ondemand.st/embed/?id=sky-sports-golf-29059"
         }
       ]
     },
@@ -3112,17 +3112,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nhl%2F2026-09-20%2Fnyi-nj"
+              "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fnyi-nj"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nhl%2F2026-09-20%2Fnyi-nj&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fnyi-nj&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nhl%2F2026-09-20%2Fnyi-nj",
-          "embed": "/embed/?id=nhl%2F2026-09-20%2Fnyi-nj"
+          "iframe": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fnyi-nj",
+          "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fnyi-nj"
         },
         {
           "id": "sd-delta~live_nhl-preseason_ducks-sharks-live-streaming-610886448",
@@ -3152,17 +3152,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=sd-delta~live_nhl-preseason_ducks-sharks-live-streaming-610886448"
+              "embed": "https://ondemand.st/embed/?id=sd-delta~live_nhl-preseason_ducks-sharks-live-streaming-610886448"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=sd-delta~live_nhl-preseason_ducks-sharks-live-streaming-610886448&sd=1"
+              "embed": "https://ondemand.st/embed/?id=sd-delta~live_nhl-preseason_ducks-sharks-live-streaming-610886448&sd=1"
             }
           ],
-          "iframe": "/embed/?id=sd-delta~live_nhl-preseason_ducks-sharks-live-streaming-610886448",
-          "embed": "/embed/?id=sd-delta~live_nhl-preseason_ducks-sharks-live-streaming-610886448"
+          "iframe": "https://ondemand.st/embed/?id=sd-delta~live_nhl-preseason_ducks-sharks-live-streaming-610886448",
+          "embed": "https://ondemand.st/embed/?id=sd-delta~live_nhl-preseason_ducks-sharks-live-streaming-610886448"
         },
         {
           "id": "nhl/2026-09-20/wsh-bos",
@@ -3192,17 +3192,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nhl%2F2026-09-20%2Fwsh-bos"
+              "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fwsh-bos"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nhl%2F2026-09-20%2Fwsh-bos&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fwsh-bos&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nhl%2F2026-09-20%2Fwsh-bos",
-          "embed": "/embed/?id=nhl%2F2026-09-20%2Fwsh-bos"
+          "iframe": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fwsh-bos",
+          "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fwsh-bos"
         },
         {
           "id": "nhl/2026-09-20/nsh-tb",
@@ -3232,17 +3232,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nhl%2F2026-09-20%2Fnsh-tb"
+              "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fnsh-tb"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nhl%2F2026-09-20%2Fnsh-tb&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fnsh-tb&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nhl%2F2026-09-20%2Fnsh-tb",
-          "embed": "/embed/?id=nhl%2F2026-09-20%2Fnsh-tb"
+          "iframe": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fnsh-tb",
+          "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fnsh-tb"
         },
         {
           "id": "nhl/2026-09-20/uta-col",
@@ -3272,17 +3272,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nhl%2F2026-09-20%2Futa-col"
+              "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Futa-col"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nhl%2F2026-09-20%2Futa-col&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Futa-col&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nhl%2F2026-09-20%2Futa-col",
-          "embed": "/embed/?id=nhl%2F2026-09-20%2Futa-col"
+          "iframe": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Futa-col",
+          "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Futa-col"
         },
         {
           "id": "nhl/2026-09-20/car-fla",
@@ -3312,17 +3312,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nhl%2F2026-09-20%2Fcar-fla"
+              "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fcar-fla"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nhl%2F2026-09-20%2Fcar-fla&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fcar-fla&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nhl%2F2026-09-20%2Fcar-fla",
-          "embed": "/embed/?id=nhl%2F2026-09-20%2Fcar-fla"
+          "iframe": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fcar-fla",
+          "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fcar-fla"
         },
         {
           "id": "nhl/2026-09-20/sea-cgy",
@@ -3352,17 +3352,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=nhl%2F2026-09-20%2Fsea-cgy"
+              "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fsea-cgy"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=nhl%2F2026-09-20%2Fsea-cgy&sd=1"
+              "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fsea-cgy&sd=1"
             }
           ],
-          "iframe": "/embed/?id=nhl%2F2026-09-20%2Fsea-cgy",
-          "embed": "/embed/?id=nhl%2F2026-09-20%2Fsea-cgy"
+          "iframe": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fsea-cgy",
+          "embed": "https://ondemand.st/embed/?id=nhl%2F2026-09-20%2Fsea-cgy"
         },
         {
           "id": "sd-golf~1529",
@@ -3392,17 +3392,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=sd-golf~1529"
+              "embed": "https://ondemand.st/embed/?id=sd-golf~1529"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=sd-golf~1529&sd=1"
+              "embed": "https://ondemand.st/embed/?id=sd-golf~1529&sd=1"
             }
           ],
-          "iframe": "/embed/?id=sd-golf~1529",
-          "embed": "/embed/?id=sd-golf~1529"
+          "iframe": "https://ondemand.st/embed/?id=sd-golf~1529",
+          "embed": "https://ondemand.st/embed/?id=sd-golf~1529"
         },
         {
           "id": "sd-golf~1528",
@@ -3432,17 +3432,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=sd-golf~1528"
+              "embed": "https://ondemand.st/embed/?id=sd-golf~1528"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=sd-golf~1528&sd=1"
+              "embed": "https://ondemand.st/embed/?id=sd-golf~1528&sd=1"
             }
           ],
-          "iframe": "/embed/?id=sd-golf~1528",
-          "embed": "/embed/?id=sd-golf~1528"
+          "iframe": "https://ondemand.st/embed/?id=sd-golf~1528",
+          "embed": "https://ondemand.st/embed/?id=sd-golf~1528"
         },
         {
           "id": "sd-golf~1527",
@@ -3472,17 +3472,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=sd-golf~1527"
+              "embed": "https://ondemand.st/embed/?id=sd-golf~1527"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=sd-golf~1527&sd=1"
+              "embed": "https://ondemand.st/embed/?id=sd-golf~1527&sd=1"
             }
           ],
-          "iframe": "/embed/?id=sd-golf~1527",
-          "embed": "/embed/?id=sd-golf~1527"
+          "iframe": "https://ondemand.st/embed/?id=sd-golf~1527",
+          "embed": "https://ondemand.st/embed/?id=sd-golf~1527"
         },
         {
           "id": "sd-golf~1526",
@@ -3512,17 +3512,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=sd-golf~1526"
+              "embed": "https://ondemand.st/embed/?id=sd-golf~1526"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=sd-golf~1526&sd=1"
+              "embed": "https://ondemand.st/embed/?id=sd-golf~1526&sd=1"
             }
           ],
-          "iframe": "/embed/?id=sd-golf~1526",
-          "embed": "/embed/?id=sd-golf~1526"
+          "iframe": "https://ondemand.st/embed/?id=sd-golf~1526",
+          "embed": "https://ondemand.st/embed/?id=sd-golf~1526"
         },
         {
           "id": "sd-golf~1525",
@@ -3552,17 +3552,17 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=sd-golf~1525"
+              "embed": "https://ondemand.st/embed/?id=sd-golf~1525"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=sd-golf~1525&sd=1"
+              "embed": "https://ondemand.st/embed/?id=sd-golf~1525&sd=1"
             }
           ],
-          "iframe": "/embed/?id=sd-golf~1525",
-          "embed": "/embed/?id=sd-golf~1525"
+          "iframe": "https://ondemand.st/embed/?id=sd-golf~1525",
+          "embed": "https://ondemand.st/embed/?id=sd-golf~1525"
         }
       ]
     },
@@ -3598,23 +3598,23 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=motogp%2F2026%2Faustria%2Frace"
+              "embed": "https://ondemand.st/embed/?id=motogp%2F2026%2Faustria%2Frace"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=motogp%2F2026%2Faustria%2Frace&sd=1"
+              "embed": "https://ondemand.st/embed/?id=motogp%2F2026%2Faustria%2Frace&sd=1"
             },
             {
               "source": "hls",
               "id": "s2",
               "name": "VideoPass",
-              "embed": "/embed/?id=austria---race-29066"
+              "embed": "https://ondemand.st/embed/?id=austria---race-29066"
             }
           ],
-          "iframe": "/embed/?id=motogp%2F2026%2Faustria%2Frace",
-          "embed": "/embed/?id=motogp%2F2026%2Faustria%2Frace"
+          "iframe": "https://ondemand.st/embed/?id=motogp%2F2026%2Faustria%2Frace",
+          "embed": "https://ondemand.st/embed/?id=motogp%2F2026%2Faustria%2Frace"
         },
         {
           "id": "f1/2026/azerbaijan/fp1",
@@ -3644,53 +3644,53 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp1"
+              "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp1"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp1&sd=1"
+              "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp1&sd=1"
             },
             {
               "source": "hls",
               "id": "s2",
               "name": "Apple TV (F1TV)",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-1-28800"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-1-28800"
             },
             {
               "source": "hls",
               "id": "s3",
               "name": "DAZN F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-1-28802"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-1-28802"
             },
             {
               "source": "hls",
               "id": "s4",
               "name": "Sky Sport F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-1-28803"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-1-28803"
             },
             {
               "source": "hls",
               "id": "s5",
               "name": "Sky Sport F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-1-28804"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-1-28804"
             },
             {
               "source": "hls",
               "id": "s6",
               "name": "V Sport Motor",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-1-28805"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-1-28805"
             },
             {
               "source": "hls",
               "id": "s7",
               "name": "Viaplay",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-1-28806"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-1-28806"
             }
           ],
-          "iframe": "/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp1",
-          "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp1"
+          "iframe": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp1",
+          "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp1"
         },
         {
           "id": "f1/2026/azerbaijan/fp2",
@@ -3720,53 +3720,53 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp2"
+              "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp2"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp2&sd=1"
+              "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp2&sd=1"
             },
             {
               "source": "hls",
               "id": "s2",
               "name": "Apple TV (F1TV)",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-2-28809"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-2-28809"
             },
             {
               "source": "hls",
               "id": "s3",
               "name": "DAZN F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-2-28811"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-2-28811"
             },
             {
               "source": "hls",
               "id": "s4",
               "name": "Sky Sport F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-2-28812"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-2-28812"
             },
             {
               "source": "hls",
               "id": "s5",
               "name": "Sky Sport F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-2-28813"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-2-28813"
             },
             {
               "source": "hls",
               "id": "s6",
               "name": "V Sport Motor",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-2-28814"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-2-28814"
             },
             {
               "source": "hls",
               "id": "s7",
               "name": "Viaplay",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-2-28815"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-2-28815"
             }
           ],
-          "iframe": "/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp2",
-          "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp2"
+          "iframe": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp2",
+          "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp2"
         },
         {
           "id": "f1/2026/azerbaijan/fp3",
@@ -3796,53 +3796,53 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp3"
+              "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp3"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp3&sd=1"
+              "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp3&sd=1"
             },
             {
               "source": "hls",
               "id": "s2",
               "name": "Apple TV (F1TV)",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-3-28818"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-3-28818"
             },
             {
               "source": "hls",
               "id": "s3",
               "name": "DAZN F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-3-28820"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-3-28820"
             },
             {
               "source": "hls",
               "id": "s4",
               "name": "Sky Sport F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-3-28821"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-3-28821"
             },
             {
               "source": "hls",
               "id": "s5",
               "name": "Sky Sport F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-3-28822"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-3-28822"
             },
             {
               "source": "hls",
               "id": "s6",
               "name": "V Sport Motor",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-3-28823"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-3-28823"
             },
             {
               "source": "hls",
               "id": "s7",
               "name": "Viaplay",
-              "embed": "/embed/?id=azerbaijan-grand-prix---practice-3-28824"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---practice-3-28824"
             }
           ],
-          "iframe": "/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp3",
-          "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp3"
+          "iframe": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp3",
+          "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Ffp3"
         },
         {
           "id": "f1/2026/azerbaijan/qualifying",
@@ -3872,53 +3872,53 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Fqualifying"
+              "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Fqualifying"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Fqualifying&sd=1"
+              "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Fqualifying&sd=1"
             },
             {
               "source": "hls",
               "id": "s2",
               "name": "Apple TV (F1TV)",
-              "embed": "/embed/?id=azerbaijan-grand-prix---qualifying-28827"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---qualifying-28827"
             },
             {
               "source": "hls",
               "id": "s3",
               "name": "DAZN F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---qualifying-28829"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---qualifying-28829"
             },
             {
               "source": "hls",
               "id": "s4",
               "name": "Sky Sport F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---qualifying-28830"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---qualifying-28830"
             },
             {
               "source": "hls",
               "id": "s5",
               "name": "Sky Sport F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---qualifying-28831"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---qualifying-28831"
             },
             {
               "source": "hls",
               "id": "s6",
               "name": "V Sport Motor",
-              "embed": "/embed/?id=azerbaijan-grand-prix---qualifying-28832"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---qualifying-28832"
             },
             {
               "source": "hls",
               "id": "s7",
               "name": "Viaplay",
-              "embed": "/embed/?id=azerbaijan-grand-prix---qualifying-28833"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---qualifying-28833"
             }
           ],
-          "iframe": "/embed/?id=f1%2F2026%2Fazerbaijan%2Fqualifying",
-          "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Fqualifying"
+          "iframe": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Fqualifying",
+          "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Fqualifying"
         },
         {
           "id": "f1/2026/azerbaijan/race",
@@ -3948,53 +3948,53 @@
               "source": "hls",
               "id": "s1",
               "name": "Server 1",
-              "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Frace"
+              "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Frace"
             },
             {
               "source": "sd",
               "id": "sd",
               "name": "Server 2 SD",
-              "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Frace&sd=1"
+              "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Frace&sd=1"
             },
             {
               "source": "hls",
               "id": "s2",
               "name": "Apple TV (F1TV)",
-              "embed": "/embed/?id=azerbaijan-grand-prix---race-28836"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---race-28836"
             },
             {
               "source": "hls",
               "id": "s3",
               "name": "DAZN F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---race-28838"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---race-28838"
             },
             {
               "source": "hls",
               "id": "s4",
               "name": "Sky Sport F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---race-28839"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---race-28839"
             },
             {
               "source": "hls",
               "id": "s5",
               "name": "Sky Sport F1",
-              "embed": "/embed/?id=azerbaijan-grand-prix---race-28840"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---race-28840"
             },
             {
               "source": "hls",
               "id": "s6",
               "name": "V Sport Motor",
-              "embed": "/embed/?id=azerbaijan-grand-prix---race-28841"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---race-28841"
             },
             {
               "source": "hls",
               "id": "s7",
               "name": "Viaplay",
-              "embed": "/embed/?id=azerbaijan-grand-prix---race-28842"
+              "embed": "https://ondemand.st/embed/?id=azerbaijan-grand-prix---race-28842"
             }
           ],
-          "iframe": "/embed/?id=f1%2F2026%2Fazerbaijan%2Frace",
-          "embed": "/embed/?id=f1%2F2026%2Fazerbaijan%2Frace"
+          "iframe": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Frace",
+          "embed": "https://ondemand.st/embed/?id=f1%2F2026%2Fazerbaijan%2Frace"
         }
       ]
     }
